@@ -1,0 +1,14 @@
+TO DO
+- Have ShopList show up even when screen is smaller than full-screen
+- Re-work how all CSS and layout is done
+
+KNOWN ISSUES
+- Same haggle roll inputted twice in a roll doesn't work
+
+FOR EVERY SHOP
+- Snip-It tool an appropriate image
+  - Add the image to the /assets folder
+- Read through Shops
+  - Highlight important parts
+  - Write up a brief summary of Shop Description / Quest Description
+  - Add descriptions to shop's .json file

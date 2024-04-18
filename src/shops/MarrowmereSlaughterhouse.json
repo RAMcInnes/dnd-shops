@@ -1,0 +1,42 @@
+{
+  "name": "Marrowmere Slaughterhouse",
+  "image": "../assets/MarrowmereSlaughterhouse.png",
+  "description": "The Marrowmere Slaughterhouse is located in a disadvantaged area of town and is known for its unpleasant odors. It features overcrowded stockyards and an efficient slaughterhouse with a drainage system and ceiling tracks to facilitate animal processing. The facility processes animals into marketable parts and waste, which are then iced for delivery. The sight inside is grim, with workers dismembering carcasses amidst buckets of waste, under the supervision of an inspector ensuring sanitary standards. The owner, Gideon Blackwood, is an older, heavy-set man who prefers to work in the cool ice room and is known for his short temper and humane treatment of animals. Tamsin Reed, a butcher with a tough life and a friendly demeanor, works on the cow processing line, separating valuable parts from waste, content with her job despite its harsh nature.",
+  "items": [
+    { "name": "Animal Fat (per pound)", "price": 2, "currency": "SP" },
+    { "name": "Animal Hides (per hide)", "price": 2, "currency": "GP" },
+    { "name": "Bacon (per pound)", "price": 4, "currency": "SP" },
+    { "name": "Beef (per pound)", "price": 3, "currency": "SP" },
+    { "name": "Beef Ribs (per pound)", "price": 4, "currency": "SP" },
+    { "name": "Blood (per gallon)", "price": 1, "currency": "SP" },
+    { "name": "Bones (per pound)", "price": 2, "currency": "SP" },
+    { "name": "Chicken (whole)", "price": 5, "currency": "SP" },
+    { "name": "Heart (each)", "price": 2, "currency": "CP" },
+    { "name": "Jerky (per pound)", "price": 5, "currency": "SP" },
+    { "name": "Kidneys (per pair)", "price": 5, "currency": "CP" },
+    { "name": "Lamb (per pound)", "price": 4, "currency": "SP" },
+    { "name": "Lamb Chops (per pound)", "price": 6, "currency": "SP" },
+    { "name": "Liver (per pound)", "price": 1, "currency": "SP" },
+    { "name": "Marrow Bones (per pair)", "price": 5, "currency": "CP" }
+  ],
+  "services": [
+    { "name": "Blood Pudding Rendering (per jar)", "price": 3, "currency": "SP"},
+    { "name": "Bone Meal Rendering (per pound)", "price": 5, "currency": "CP" },
+    { "name": "Butchering Fee (per animal)", "price": 1, "currency": "GP"},
+    { "name": "Custom Cuts (per request)", "price": 1, "currency": "GP"},
+    { "name": "Delivery Service (local)", "price": 1, "currency": "GP" },
+    { "name": "Lard Rendering (per pound)", "price": 2, "currency": "SP" },
+    { "name": "Slaughtering Fee (per animal)", "price": 2, "currency": "GP"},
+    { "name": "Tallow Rendering (per pound)", "price": 1, "currency": "SP"}
+  ],
+  "attitude": "Neutral",
+  "discount": 0,
+  "tags": ["Slaughterhouse", "Butchery", "Carnage House", "Meatworks"],
+  "quest": {
+    "name": "The Cursed Meat",
+    "description": "QUEST DESCRIPTION",
+    "reward": "REWARD DESCRIPTION",
+    "completed": false
+  },
+  "isSelected": false
+}

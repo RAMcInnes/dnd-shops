@@ -1,0 +1,260 @@
+{
+	"name": "The Mystic Elixir Apothecary",
+	"image": "../assets/TheMysticElixirApothecary.png",
+	"description": "The Mystic Elixir Apothecary DESCRIPTION",
+	"attitude": "Neutral",
+	"discount": 0,
+	"tags": [
+		"Transmuters",
+    "Hermecists",
+    "Spagyrics",
+    "Chymists",
+    "Magi"
+	],
+	"items": [
+		{
+			"name": "Alchemy Scale (each)",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Alembic (each)",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Basilisk Eye (each)",
+			"price": 75,
+			"currency": "GP"
+		},
+		{
+			"name": "Belladonna Leaves (per ounce)",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Calcination Furnace (each)",
+			"price": 50,
+			"currency": "GP"
+		},
+		{
+			"name": "Charcoal (per pound)",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Chimera Scale (per scale)",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Copper Filings (per ounce)",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Copper Wire (per foot)",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Crucible (each)",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Distillation Kit (set)",
+			"price": 20,
+			"currency": "GP"
+		},
+		{
+			"name": "Dragon’s Blood (per vial)",
+			"price": 25,
+			"currency": "GP"
+		},
+		{
+			"name": "Fairy Dust (per pinch)",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Filtration Funnel (each)",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Glass Phials (per dozen)",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Gold Chain (per foot)",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Gold Leaf (per sheet)",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Gorgon’s Gaze (per crystal)",
+			"price": 100,
+			"currency": "GP"
+		},
+		{
+			"name": "Griffon Feather (each)",
+			"price": 20,
+			"currency": "GP"
+		},
+		{
+			"name": "Heating Lamp (each)",
+			"price": 15,
+			"currency": "GP"
+		},
+		{
+			"name": "Iron Nails (per dozen)",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Iron Shavings (per ounce)",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Kraken Ink (per vial)",
+			"price": 30,
+			"currency": "GP"
+		},
+		{
+			"name": "Lead Ingots (per pound)",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Mandrake Root (per ounce)",
+			"price": 10,
+			"currency": "SP"
+		},
+		{
+			"name": "Manticore Tail Spike (each)",
+			"price": 15,
+			"currency": "GP"
+		},
+		{
+			"name": "Mercury (per pound)",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Mortar and Pestle (set)",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Nymph’s Tears (per drop)",
+			"price": 50,
+			"currency": "GP"
+		},
+		{
+			"name": "Phoenix Feather (each)",
+			"price": 50,
+			"currency": "GP"
+		},
+		{
+			"name": "Retort (each)",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Salt (per pound)",
+			"price": 5,
+			"currency": "CP"
+		},
+		{
+			"name": "Silver Powder (per ounce)",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Silver Thread (per yard)",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Sublimation Apparatus (set)",
+			"price": 30,
+			"currency": "GP"
+		},
+		{
+			"name": "Sulfur (per pound)",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Tin Bars (per pound)",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Troll Blood (per vial)",
+			"price": 50,
+			"currency": "GP"
+		},
+		{
+			"name": "Unicorn Horn (per inch)",
+			"price": 100,
+			"currency": "GP"
+		},
+		{
+			"name": "Wyvern Venom (per vial)",
+			"price": 75,
+			"currency": "GP"
+		}
+	],
+	"services": [
+		{
+			"name": "Alchemical Consultation",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Custom Alchemical Formula (Basic)",
+			"price": 50,
+			"currency": "GP"
+		},
+		{
+			"name": "Custom Alchemical Formula (Complex)",
+			"price": 200,
+			"currency": "GP"
+		},
+		{
+			"name": "Identification of Alchemical Ingredients",
+			"price": 25,
+			"currency": "GP"
+		},
+		{
+			"name": "Potion Brewing (Common)",
+			"price": 100,
+			"currency": "GP"
+		},
+		{
+			"name": "Potion Brewing (Rare)",
+			"price": 750,
+			"currency": "GP"
+		},
+		{
+			"name": "Potion Brewing (Uncommon)",
+			"price": 300,
+			"currency": "GP"
+		}
+	],
+	"quest": {
+		"name": "The Alchemist’s Grove",
+		"description": "PLACEHOLDER",
+		"reward": "PLACEHOLDER",
+		"completed": false
+	},
+	"isSelected": false
+}
