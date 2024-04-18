@@ -1,6 +1,6 @@
 {
 	"name": "The Mystic Elixir Apothecary",
-	"image": "../assets/TheMysticElixirApothecary.png",
+	"image": "/shops/TheMysticElixirApothecary.png",
 	"description": "The Mystic Elixir Apothecary DESCRIPTION",
 	"attitude": "Neutral",
 	"discount": 0,

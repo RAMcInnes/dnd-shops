@@ -1,6 +1,6 @@
 {
   "name": "Marrowmere Slaughterhouse",
-  "image": "../assets/MarrowmereSlaughterhouse.png",
+  "image": "/shops/MarrowmereSlaughterhouse.png",
   "description": "The Marrowmere Slaughterhouse is located in a disadvantaged area of town and is known for its unpleasant odors. It features overcrowded stockyards and an efficient slaughterhouse with a drainage system and ceiling tracks to facilitate animal processing. The facility processes animals into marketable parts and waste, which are then iced for delivery. The sight inside is grim, with workers dismembering carcasses amidst buckets of waste, under the supervision of an inspector ensuring sanitary standards. The owner, Gideon Blackwood, is an older, heavy-set man who prefers to work in the cool ice room and is known for his short temper and humane treatment of animals. Tamsin Reed, a butcher with a tough life and a friendly demeanor, works on the cow processing line, separating valuable parts from waste, content with her job despite its harsh nature.",
   "items": [
     { "name": "Animal Fat (per pound)", "price": 2, "currency": "SP" },
