@@ -22,7 +22,7 @@ csvData.forEach((row, rowIndex) => {
       shop = resetShop();
     }
     shop.name = shopName.trim();;
-    shop.image = `../assets/${shopName?.replace(/ +/g, "")}.png`;
+    shop.image = `/shops/${shopName?.replace(/ +/g, "")}.png`;
     if (previousTag !== tag) {
       shop.tags.push(tag);
     }

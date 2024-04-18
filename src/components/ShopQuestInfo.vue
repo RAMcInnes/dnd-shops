@@ -5,10 +5,13 @@
         <span><b>Quest:</b> {{ shopQuest?.name }}</span>
       </v-expansion-panel-title>
       <v-expansion-panel-text>
-        <div>
-          {{ shopQuest?.description }}
-        </div>
-        <br />
+        <v-textarea
+          :model-value="shopQuest.description"
+          variant="outlined"
+          readonly
+          no-resize
+          auto-grow
+        ></v-textarea>
         <div>
           <b>Reward:</b>
           <br />
