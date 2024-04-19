@@ -53,8 +53,11 @@ import ShopDescription from '../components/ShopDescription.vue'
 import ShopAttitude from '../components/ShopAttitude.vue'
 import ShopQuestInfo from '../components/ShopQuestInfo.vue'
 import ShopProducts from '../components/ShopProducts.vue'
+import type { ShopInterface } from '../types/ShopInterfaces'
 
-const props = defineProps(['shop'])
+const props = defineProps<{
+  shop: ShopInterface
+}>()
 
 const currentShop = computed(() => {
   return props.shop

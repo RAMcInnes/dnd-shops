@@ -1,7 +1,6 @@
 <template>
-  <v-navigation-drawer>
+  <v-navigation-drawer permanent :width="mdAndUp ? 250 : 125">
     <br />
-    <!-- Add Search for Shops & Items -->
     <div style="display: flex">
       <v-select
         v-model="searchType"
@@ -43,9 +42,12 @@
 
 <script lang="ts" setup>
 import { onMounted, ref } from 'vue'
+import { useDisplay } from 'vuetify'
 import { useAppStore } from '../stores/app'
 import shops from '../shops'
 import type { ShopInterface } from '../types/ShopInterfaces'
+
+const { mdAndUp } = useDisplay();
 
 const store = useAppStore()
 const shopsArray = Array<ShopInterface>()
@@ -111,8 +113,5 @@ function updateShownShops(searchTerm: string) {
       }
     }
   })
-
-  // console.log('shownShops', shownShops.value);
-  // console.log('-------------');
 }
 </script>

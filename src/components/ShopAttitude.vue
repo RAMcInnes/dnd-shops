@@ -3,7 +3,7 @@
     Current Attitude:
     <span :style="attitudeColor" class="verticalRightLine"> {{ attitude }} </span>
     Haggle Roll DC:
-    <span :style="attitudeColor" class="verticalRightLine"> {{ haggleRollDC }} </span>
+    <span :style="attitudeColor" class="verticalRightLine"> {{ haggleRollDC < 100 ? haggleRollDC : 'N/A' }} </span>
     Current Discount:
     <span :style="attitudeColor"> {{ currentDiscount() }}% </span> (max: {{ maxCurrentDiscount }}%)
   </div>
@@ -53,6 +53,7 @@
           prepend-icon="mdi-dice-d20-outline"
           variant="underlined"
           type="number"
+          :disabled="haggleRollDC === 101"
           @update:focused="updateHaggleRoll"
         ></v-text-field>
       </v-expansion-panel-text>
@@ -65,7 +66,10 @@ import { ref, computed } from 'vue'
 import { useAppStore } from '@/stores/app'
 
 const store = useAppStore()
-const props = defineProps(['shopName', 'shopAttitude'])
+const props = defineProps<{
+  shopName: string
+  shopAttitude: string
+}>()
 
 const haggleRollvModel = ref<number>()
 const playersHaggleRoll = ref<number>()
@@ -97,7 +101,7 @@ function updateHaggleRoll(focus: boolean) {
 const haggleRollDC = computed(() => {
   switch (attitude.value) {
     case 'Aggravated':
-      return 100000 // N/A
+      return 101 // N/A
     case 'Annoyed':
       return 25
     case 'Neutral':

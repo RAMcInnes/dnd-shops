@@ -5,5 +5,7 @@
 </template>
 
 <script lang="ts" setup>
-defineProps(['description'])
+const props = defineProps<{
+  description: string
+}>()
 </script>

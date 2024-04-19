@@ -5,7 +5,10 @@
 <script lang="ts" setup>
 import { ref, onMounted, onUpdated, computed } from 'vue'
 import { useAppStore } from '@/stores/app'
-const props = defineProps(['shopName'])
+
+const props = defineProps<{
+  shopName: string
+}>()
 
 const store = useAppStore()
 const name = computed(() => {

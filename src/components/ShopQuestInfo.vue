@@ -35,9 +35,12 @@
 <script lang="ts" setup>
 import { computed } from 'vue'
 import { useAppStore } from '@/stores/app'
-
+import type {ShopQuestInterface} from '../types/ShopInterfaces';
 const store = useAppStore()
-const props = defineProps(['shopName', 'shopQuest'])
+const props = defineProps<{
+  shopName: string
+  shopQuest: ShopQuestInterface
+}>()
 
 const name = computed(() => {
   return props.shopName?.replace(/ +/g, '')
