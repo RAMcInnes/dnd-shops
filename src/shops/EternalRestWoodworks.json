@@ -1,0 +1,74 @@
+{
+	"name": "Eternal Rest Woodworks",
+	"image": "/shops/EternalRestWoodworks.png",
+	"description": "PLACEHOLDER",
+	"attitude": "Neutral",
+	"discount": 0,
+	"tags": [],
+	"items": [
+		{
+			"name": "Burial Pillow",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Child-sized Coffin",
+			"price": 515,
+			"currency": "GP"
+		},
+		{
+			"name": "Customized Coffin",
+			"price": 2050,
+			"currency": "GP"
+		},
+		{
+			"name": "Fine Coffin",
+			"price": 100200,
+			"currency": "GP"
+		},
+		{
+			"name": "Funeral Shroud",
+			"price": 15,
+			"currency": "GP"
+		},
+		{
+			"name": "Nameplate",
+			"price": 13,
+			"currency": "GP"
+		},
+		{
+			"name": "Standard Coffin",
+			"price": 10,
+			"currency": "GP"
+		}
+	],
+	"services": [
+		{
+			"name": "Coffin Customization",
+			"price": 520,
+			"currency": "GP"
+		},
+		{
+			"name": "Coffin Delivery",
+			"price": 510,
+			"currency": "GP"
+		},
+		{
+			"name": "Coffin Restoration",
+			"price": 1050,
+			"currency": "GP"
+		},
+		{
+			"name": "Funeral Services",
+			"price": 20100,
+			"currency": "GP"
+		}
+	],
+	"quest": {
+		"name": "PLACEHOLDER",
+		"description": "PLACEHOLDER",
+		"reward": "PLACEHOLDER",
+		"completed": false
+	},
+	"isSelected": false
+}

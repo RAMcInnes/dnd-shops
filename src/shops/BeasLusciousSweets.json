@@ -1,0 +1,134 @@
+{
+	"name": "Bea's Luscious Sweets",
+	"image": "/shops/Bea'sLusciousSweets.png",
+	"description": "PLACEHOLDER",
+	"attitude": "Neutral",
+	"discount": 0,
+	"tags": [],
+	"items": [
+		{
+			"name": "Almond Biscuits (per dozen)",
+			"price": 4,
+			"currency": "SP"
+		},
+		{
+			"name": "Assorted Candies (per pound)",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Butter Shortbread (per dozen)",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Candied Citrus Peel (per bag)",
+			"price": 3,
+			"currency": "SP"
+		},
+		{
+			"name": "Candied Nuts (per bag)",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Caramel Apples (each)",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Chocolate Truffles (per box of 6)",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Chocolate-Dipped Strawberries (per dozen)",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Cream-filled Pastries (each)",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Frosted Cupcakes (per dozen)",
+			"price": 4,
+			"currency": "SP"
+		},
+		{
+			"name": "Fruit Gelatin Cubes (per dozen)",
+			"price": 3,
+			"currency": "SP"
+		},
+		{
+			"name": "Fruit Tarts (each)",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Gingerbread Cookies (per dozen)",
+			"price": 3,
+			"currency": "SP"
+		},
+		{
+			"name": "Honey Cakes (each)",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Jelly Beans (per pound)",
+			"price": 3,
+			"currency": "SP"
+		},
+		{
+			"name": "Marshmallow Swirls (per bag)",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Marzipan Fruits (per dozen)",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Nougat Bars (each)",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Rock Candy Sticks (each)",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Sugar Sculptures (each)",
+			"price": 5,
+			"currency": "GP"
+		}
+	],
+	"services": [
+		{
+			"name": "Custom Cake Plus Decorating",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Custom Confectionary Gift Baskets",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Special Occasion Catering",
+			"price": 20,
+			"currency": "GP"
+		}
+	],
+	"quest": {
+		"name": "PLACEHOLDER",
+		"description": "PLACEHOLDER",
+		"reward": "PLACEHOLDER",
+		"completed": false
+	},
+	"isSelected": false
+}

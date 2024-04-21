@@ -1,0 +1,139 @@
+{
+	"name": "Timber & Tides Shipworks",
+	"image": "/shops/Timber&TidesShipworks.png",
+	"description": "PLACEHOLDER",
+	"attitude": "Neutral",
+	"discount": 0,
+	"tags": [],
+	"items": [
+		{
+			"name": "Brass Ship’s Bell",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Carved Figurehead (Custom)",
+			"price": 50,
+			"currency": "GP"
+		},
+		{
+			"name": "Cask of Tar or Pitch",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Coil of Hemp Rope (50 feet)",
+			"price": 1,
+			"currency": "GO"
+		},
+		{
+			"name": "Copper Compass",
+			"price": 15,
+			"currency": "GP"
+		},
+		{
+			"name": "Copper Sextant",
+			"price": 30,
+			"currency": "GP"
+		},
+		{
+			"name": "Large Brass Ship Lantern",
+			"price": 7,
+			"currency": "GP"
+		},
+		{
+			"name": "Mariner’s Astrolabe",
+			"price": 15,
+			"currency": "GP"
+		},
+		{
+			"name": "Nautical Charts (Regional)",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Set of Rigging Tools",
+			"price": 8,
+			"currency": "GP"
+		},
+		{
+			"name": "Ship Caulking Kit",
+			"price": 3,
+			"currency": "GP"
+		},
+		{
+			"name": "Ship Nails (per pound)",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Shipwright’s Toolkit",
+			"price": 25,
+			"currency": "GP"
+		},
+		{
+			"name": "Water Barrel",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Wooden Figurehead (pre-made)",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Wooden Plank (per 10 feet)",
+			"price": 2,
+			"currency": "SP"
+		}
+	],
+	"services": [
+		{
+			"name": "Basic Ship Repair (per day)",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Custom Ship Design Consultation",
+			"price": 50,
+			"currency": "GP"
+		},
+		{
+			"name": "Emergency Hull Patching",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Full Ship Inspection and Maintenance",
+			"price": 20,
+			"currency": "GP"
+		},
+		{
+			"name": "Hull Waterproofing (per ship)",
+			"price": 25,
+			"currency": "GP"
+		},
+		{
+			"name": "Mast Replacement (per mast)",
+			"price": 50,
+			"currency": "GP"
+		},
+		{
+			"name": "Rigging Installation (small ship)",
+			"price": 30,
+			"currency": "GP"
+		},
+		{
+			"name": "Sea Trials and Performance Tuning",
+			"price": 30,
+			"currency": "GP"
+		}
+	],
+	"quest": {
+		"name": "PLACEHOLDER",
+		"description": "PLACEHOLDER",
+		"reward": "PLACEHOLDER",
+		"completed": false
+	},
+	"isSelected": false
+}

@@ -1,0 +1,139 @@
+{
+	"name": "Regal Crowns Hat Emporium",
+	"image": "/shops/RegalCrownsHatEmporium.png",
+	"description": "PLACEHOLDER",
+	"attitude": "Neutral",
+	"discount": 0,
+	"tags": [],
+	"items": [
+		{
+			"name": "Assorted Hatpins (set of 5)",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Decorative Hatbox",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Elegant Fedora",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Embroidered Cloak with Brooch",
+			"price": 15,
+			"currency": "GP"
+		},
+		{
+			"name": "Enchanted Velvet Top Hat",
+			"price": 30,
+			"currency": "GP"
+		},
+		{
+			"name": "Fashion Sketchbook",
+			"price": 4,
+			"currency": "GP"
+		},
+		{
+			"name": "Feathered Tricorn Hat",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Fine Leather Gloves",
+			"price": 8,
+			"currency": "GP"
+		},
+		{
+			"name": "Hat-Friendly Hairpin Set",
+			"price": 4,
+			"currency": "GP"
+		},
+		{
+			"name": "Lace Ribbon Bundle",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Lucky Charm Bracelet",
+			"price": 6,
+			"currency": "GP"
+		},
+		{
+			"name": "Mannequin Stand for Hat Display",
+			"price": 20,
+			"currency": "GP"
+		},
+		{
+			"name": "Masquerade Mask Paint Kit (assorted colors)",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Ornate Handheld Mirror",
+			"price": 3,
+			"currency": "GP"
+		},
+		{
+			"name": "Quill with Feather Accent",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Sandalwood Hair Comb",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Silk Scarf with Embroidery",
+			"price": 3,
+			"currency": "GP"
+		},
+		{
+			"name": "Simple Cap",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Tabletop Vanity Mirror with Stand",
+			"price": 6,
+			"currency": "GP"
+		}
+	],
+	"services": [
+		{
+			"name": "Custom Hat Fitting",
+			"price": 3,
+			"currency": "GP"
+		},
+		{
+			"name": "Hat Cleaning and Restoration",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Hat Repair (per hat)",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Historical Hat Research Service",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Personalized Hat Design Consultation",
+			"price": 10,
+			"currency": "GP"
+		}
+	],
+	"quest": {
+		"name": "PLACEHOLDER",
+		"description": "PLACEHOLDER",
+		"reward": "PLACEHOLDER",
+		"completed": false
+	},
+	"isSelected": false
+}

@@ -1,0 +1,94 @@
+{
+	"name": "Calligrapher's Corner Scriptorium",
+	"image": "/shops/Calligrapher'sCornerScriptorium.png",
+	"description": "PLACEHOLDER",
+	"attitude": "Neutral",
+	"discount": 0,
+	"tags": [],
+	"items": [
+		{
+			"name": "Illumination Materials",
+			"price": 4,
+			"currency": "GP"
+		},
+		{
+			"name": "Ink",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Inkwell",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Papyrus",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Parchment",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Quills",
+			"price": 2,
+			"currency": "CP"
+		},
+		{
+			"name": "Scribe’s Desk",
+			"price": 20,
+			"currency": "GP"
+		},
+		{
+			"name": "Scroll Cases",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Sealing Wax",
+			"price": 1,
+			"currency": "CP"
+		},
+		{
+			"name": "Wax Seal Stamp",
+			"price": 5,
+			"currency": "GP"
+		}
+	],
+	"services": [
+		{
+			"name": "Calligraphy",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Copying Manuscripts",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Illumination",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Notarization",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Translation",
+			"price": 10,
+			"currency": "GP"
+		}
+	],
+	"quest": {
+		"name": "PLACEHOLDER",
+		"description": "PLACEHOLDER",
+		"reward": "PLACEHOLDER",
+		"completed": false
+	},
+	"isSelected": false
+}

@@ -1,0 +1,84 @@
+{
+	"name": "Timekeeper's Haven",
+	"image": "/shops/Timekeeper'sHaven.png",
+	"description": "PLACEHOLDER",
+	"attitude": "Neutral",
+	"discount": 0,
+	"tags": [],
+	"items": [
+		{
+			"name": "Brass Astrolabe",
+			"price": 25100,
+			"currency": "GP"
+		},
+		{
+			"name": "Celestial Map",
+			"price": 210,
+			"currency": "GP"
+		},
+		{
+			"name": "Celestial Orrery",
+			"price": 25100,
+			"currency": "GP"
+		},
+		{
+			"name": "Hourglass Earrings",
+			"price": 15,
+			"currency": "GP"
+		},
+		{
+			"name": "Hourglass",
+			"price": 15,
+			"currency": "GP"
+		},
+		{
+			"name": "Mechanical Clock",
+			"price": 50500,
+			"currency": "GP"
+		},
+		{
+			"name": "Nautical Sextant",
+			"price": 1050,
+			"currency": "GP"
+		},
+		{
+			"name": "Pocket Watch",
+			"price": 1050,
+			"currency": "GP"
+		},
+		{
+			"name": "Sundial",
+			"price": 120,
+			"currency": "GP"
+		},
+		{
+			"name": "Timepiece Pendant",
+			"price": 520,
+			"currency": "GP"
+		},
+		{
+			"name": "Water Clock (Clepsydra)",
+			"price": 1050,
+			"currency": "GP"
+		}
+	],
+	"services": [
+		{
+			"name": "Clock Repair",
+			"price": 110,
+			"currency": "GP"
+		},
+		{
+			"name": "Custom Clock Commission",
+			"price": 50500,
+			"currency": "GP"
+		}
+	],
+	"quest": {
+		"name": "PLACEHOLDER",
+		"description": "PLACEHOLDER",
+		"reward": "PLACEHOLDER",
+		"completed": false
+	},
+	"isSelected": false
+}

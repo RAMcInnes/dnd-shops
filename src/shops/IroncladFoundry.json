@@ -1,0 +1,289 @@
+{
+	"name": "Ironclad Foundry",
+	"image": "/shops/IroncladFoundry.png",
+	"description": "PLACEHOLDER",
+	"attitude": "Neutral",
+	"discount": 0,
+	"tags": [],
+	"items": [
+		{
+			"name": "Anvil (Large)",
+			"price": 100,
+			"currency": "GP"
+		},
+		{
+			"name": "Anvil (Small)",
+			"price": 25,
+			"currency": "GP"
+		},
+		{
+			"name": "Battleaxe",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Bellows",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Candle Holder (Iron)",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Chain Mail",
+			"price": 75,
+			"currency": "GP"
+		},
+		{
+			"name": "Chisel",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Dagger",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "File",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Forge Apron",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Hammer",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Iron Backpack Frame",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Iron Bed Frame",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Iron Candle Stand",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Iron Cauldron",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Iron Chair",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Iron Chandelier",
+			"price": 15,
+			"currency": "GP"
+		},
+		{
+			"name": "Iron Climbing Pitons (Set of 5)",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Iron Cooking Pot",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Iron Door Hinges (set of 3)",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Iron Fireplace Grate",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Iron Fireplace Poker",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Iron Garden Trellis",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Iron Grappling Hook",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Iron Kettle",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Iron Key",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Iron Lantern Hook",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Iron Lantern",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Iron Lock",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Iron Manacles",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Iron Scrollwork Panel",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Iron Sign Bracket (for shops)",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Iron Skillet",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Iron Statuette (Small)",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Iron Table",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Iron Tent Stakes (Set of 5)",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Iron Trail Markers (Set of 10)",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Longsword",
+			"price": 15,
+			"currency": "GP"
+		},
+		{
+			"name": "Plate Mail",
+			"price": 1500,
+			"currency": "GP"
+		},
+		{
+			"name": "Polearm (e.g., Glaive, Halberd)",
+			"price": 20,
+			"currency": "GP"
+		},
+		{
+			"name": "Quenching Barrel",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Set of Iron Spikes (10)",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Shield",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Shortsword",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Tongs",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Vice Grip",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Warhammer",
+			"price": 12,
+			"currency": "GP"
+		},
+		{
+			"name": "Wrought Iron Wall Sconce",
+			"price": 5,
+			"currency": "GP"
+		}
+	],
+	"services": [
+		{
+			"name": "Armor Fitting and Simple Adjustments",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Armor Repair",
+			"price": 0,
+			"currency": "VA"
+		},
+		{
+			"name": "Custom Engraving",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Custom Forge Work",
+			"price": 0,
+			"currency": "VA"
+		},
+		{
+			"name": "Weapon Cleaning and Polishing",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Weapon Sharpening",
+			"price": 5,
+			"currency": "SP"
+		}
+	],
+	"quest": {
+		"name": "PLACEHOLDER",
+		"description": "PLACEHOLDER",
+		"reward": "PLACEHOLDER",
+		"completed": false
+	},
+	"isSelected": false
+}

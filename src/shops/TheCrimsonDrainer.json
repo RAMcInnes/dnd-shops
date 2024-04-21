@@ -1,0 +1,54 @@
+{
+	"name": "The Crimson Drainer",
+	"image": "/shops/TheCrimsonDrainer.png",
+	"description": "PLACEHOLDER",
+	"attitude": "Neutral",
+	"discount": 0,
+	"tags": [],
+	"items": [
+		{
+			"name": "Herbal Remedies (for post-bloodletting care)",
+			"price": 15,
+			"currency": "PR"
+		},
+		{
+			"name": "Leech Jar",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Leeches (per dozen)",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Specialty Leech Species",
+			"price": 55,
+			"currency": "SP"
+		}
+	],
+	"services": [
+		{
+			"name": "Customized Bloodletting Plan",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Leech Application Services",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Leech Handling Lessons",
+			"price": 2,
+			"currency": "SP"
+		}
+	],
+	"quest": {
+		"name": "PLACEHOLDER",
+		"description": "PLACEHOLDER",
+		"reward": "PLACEHOLDER",
+		"completed": false
+	},
+	"isSelected": false
+}

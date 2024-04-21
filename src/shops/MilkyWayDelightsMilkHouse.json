@@ -1,0 +1,79 @@
+{
+	"name": "Milky Way Delights Milk House",
+	"image": "/shops/MilkyWayDelightsMilkHouse.png",
+	"description": "PLACEHOLDER",
+	"attitude": "Neutral",
+	"discount": 0,
+	"tags": [],
+	"items": [
+		{
+			"name": "Butter (1 pound)",
+			"price": 5,
+			"currency": "CP"
+		},
+		{
+			"name": "Butter Cake (homemade, small)",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Buttermilk (1 gallon)",
+			"price": 5,
+			"currency": "CP"
+		},
+		{
+			"name": "Cheese (1 pound)",
+			"price": 510,
+			"currency": "CP"
+		},
+		{
+			"name": "Cheese Wheel (whole, large)",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Cream (1 pint)",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Fresh Cow’s Milk (1 gallon)",
+			"price": 2,
+			"currency": "CP"
+		},
+		{
+			"name": "Goat’s Milk (1 gallon)",
+			"price": 3,
+			"currency": "CP"
+		},
+		{
+			"name": "Sheep’s Milk (1 gallon)",
+			"price": 4,
+			"currency": "CP"
+		},
+		{
+			"name": "Whey (1  gallon)",
+			"price": 4,
+			"currency": "CP"
+		},
+		{
+			"name": "Yogurt (1 pint)",
+			"price": 2,
+			"currency": "SP"
+		}
+	],
+	"services": [
+		{
+			"name": "Milk Delivery (per week)",
+			"price": 1,
+			"currency": "SP"
+		}
+	],
+	"quest": {
+		"name": "PLACEHOLDER",
+		"description": "PLACEHOLDER",
+		"reward": "PLACEHOLDER",
+		"completed": false
+	},
+	"isSelected": false
+}

@@ -1,0 +1,99 @@
+{
+	"name": "Stallion Smithery",
+	"image": "/shops/StallionSmithery.png",
+	"description": "PLACEHOLDER",
+	"attitude": "Neutral",
+	"discount": 0,
+	"tags": [],
+	"items": [
+		{
+			"name": "Breeches",
+			"price": 1,
+			"currency": "ST"
+		},
+		{
+			"name": "Bridles",
+			"price": 5,
+			"currency": "ST"
+		},
+		{
+			"name": "Gloves",
+			"price": 5,
+			"currency": "ST"
+		},
+		{
+			"name": "Grooming Brushes",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Harnesses",
+			"price": 5,
+			"currency": "ST"
+		},
+		{
+			"name": "Healing Salves",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Horseshoes",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Reins",
+			"price": 2,
+			"currency": "ST"
+		},
+		{
+			"name": "Riding Boots",
+			"price": 1,
+			"currency": "ST"
+		},
+		{
+			"name": "Saddles",
+			"price": 10,
+			"currency": "ST"
+		},
+		{
+			"name": "Specialty Horseshoes",
+			"price": 2,
+			"currency": "GP"
+		}
+	],
+	"services": [
+		{
+			"name": "Hoof Maintenance",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Hoof Repair",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Hoof Trimming",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Horseshoe Fitting",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Lameness Evaluation",
+			"price": 5,
+			"currency": "GP"
+		}
+	],
+	"quest": {
+		"name": "PLACEHOLDER",
+		"description": "PLACEHOLDER",
+		"reward": "PLACEHOLDER",
+		"completed": false
+	},
+	"isSelected": false
+}

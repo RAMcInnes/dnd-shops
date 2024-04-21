@@ -1,0 +1,114 @@
+{
+	"name": "Wolf's Claw Traps",
+	"image": "/shops/Wolf'sClawTraps.png",
+	"description": "PLACEHOLDER",
+	"attitude": "Neutral",
+	"discount": 0,
+	"tags": [],
+	"items": [
+		{
+			"name": "Animal Bait",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Animal Call Whistle Set",
+			"price": 4,
+			"currency": "SP"
+		},
+		{
+			"name": "Antler-handled Dagger",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Camouflage Cloak",
+			"price": 15,
+			"currency": "GP"
+		},
+		{
+			"name": "Deadfall Trap",
+			"price": 15,
+			"currency": "SP"
+		},
+		{
+			"name": "Firestarter Kit",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Fur-lined Gloves",
+			"price": 4,
+			"currency": "SP"
+		},
+		{
+			"name": "Leg-Hold Trap (Medium)",
+			"price": 10,
+			"currency": "SP"
+		},
+		{
+			"name": "Pelt Scraping Knife",
+			"price": 3,
+			"currency": "SP"
+		},
+		{
+			"name": "Preservation Kit",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Snare Kit (Basic)",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Trapper’s Hat with Feather",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Wilderness First Aid Kit",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Wilderness Map",
+			"price": 2,
+			"currency": "GP"
+		}
+	],
+	"services": [
+		{
+			"name": "Animal Tracking Lesson",
+			"price": 3,
+			"currency": "GP"
+		},
+		{
+			"name": "Custom Trap Crafting",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Guided Trapping Expedition",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Trapping Consultation",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Trap Setting Tutorial",
+			"price": 4,
+			"currency": "GP"
+		}
+	],
+	"quest": {
+		"name": "PLACEHOLDER",
+		"description": "PLACEHOLDER",
+		"reward": "PLACEHOLDER",
+		"completed": false
+	},
+	"isSelected": false
+}

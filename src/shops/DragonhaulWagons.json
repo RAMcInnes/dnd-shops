@@ -1,0 +1,134 @@
+{
+	"name": "Dragonhaul Wagons",
+	"image": "/shops/DragonhaulWagons.png",
+	"description": "PLACEHOLDER",
+	"attitude": "Neutral",
+	"discount": 0,
+	"tags": [],
+	"items": [
+		{
+			"name": "Braking System",
+			"price": 25,
+			"currency": "GP"
+		},
+		{
+			"name": "Built-in Toolbox",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Collapsible Cart Kit",
+			"price": 75,
+			"currency": "GP"
+		},
+		{
+			"name": "Covered Wagon",
+			"price": 45,
+			"currency": "GP"
+		},
+		{
+			"name": "Folding Table",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Horse Drawn Carriage",
+			"price": 250,
+			"currency": "GP"
+		},
+		{
+			"name": "Lantern Holder",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Leather Padded Driver Seat",
+			"price": 20,
+			"currency": "GP"
+		},
+		{
+			"name": "Lockable Cargo Chest",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Reinforced Wagon",
+			"price": 75,
+			"currency": "GP"
+		},
+		{
+			"name": "Sturdy Wagon",
+			"price": 35,
+			"currency": "GP"
+		},
+		{
+			"name": "Upholstered Carriage",
+			"price": 500,
+			"currency": "GP"
+		},
+		{
+			"name": "Waterproof Wagon Cover",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Wheel Repair Kit",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Wooden cart",
+			"price": 15,
+			"currency": "GP"
+		}
+	],
+	"services": [
+		{
+			"name": "Axle Reinforcement",
+			"price": 15,
+			"currency": "GP"
+		},
+		{
+			"name": "Basic Cart Maintenance",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Canvas Repair and Waterproofing",
+			"price": 15,
+			"currency": "GP"
+		},
+		{
+			"name": "Custom Cart Design",
+			"price": 50,
+			"currency": "GP"
+		},
+		{
+			"name": "Magical Glyph of Stability",
+			"price": 100,
+			"currency": "GP"
+		},
+		{
+			"name": "Urgent Repairs",
+			"price": 20,
+			"currency": "GP"
+		},
+		{
+			"name": "Wheel Alignment",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Wheel Replacement",
+			"price": 5,
+			"currency": "GP"
+		}
+	],
+	"quest": {
+		"name": "PLACEHOLDER",
+		"description": "PLACEHOLDER",
+		"reward": "PLACEHOLDER",
+		"completed": false
+	},
+	"isSelected": false
+}

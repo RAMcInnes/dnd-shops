@@ -1,0 +1,219 @@
+{
+	"name": "Gear & Gadget Craftworks",
+	"image": "/shops/Gear&GadgetCraftworks.png",
+	"description": "PLACEHOLDER",
+	"attitude": "Neutral",
+	"discount": 0,
+	"tags": [],
+	"items": [
+		{
+			"name": "Alchemist’s Supplies (basic set)",
+			"price": 50,
+			"currency": "GP"
+		},
+		{
+			"name": "Clockwork Beetle (mechanical insect toy)",
+			"price": 12,
+			"currency": "GP"
+		},
+		{
+			"name": "Clockwork Bird Whistle (imitates bird calls)",
+			"price": 25,
+			"currency": "GP"
+		},
+		{
+			"name": "Compass (enchanted to always point north)",
+			"price": 100200,
+			"currency": "GP"
+		},
+		{
+			"name": "Engraved Metal Sign (custom-made)",
+			"price": 1050,
+			"currency": "GP"
+		},
+		{
+			"name": "Glass Cutter",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Glass Vial or Bottle",
+			"price": 1,
+			"currency": "CP"
+		},
+		{
+			"name": "Ink for Scribing Scrolls (1 oz. vial)",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Jeweler’s Loupe",
+			"price": 25,
+			"currency": "GP"
+		},
+		{
+			"name": "Lantern",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Lockpicks",
+			"price": 25,
+			"currency": "GP"
+		},
+		{
+			"name": "Magnesium Flare (for signaling)",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Magnifying Glass",
+			"price": 100,
+			"currency": "GP"
+		},
+		{
+			"name": "Mechanical Toy (e.g., wind-up animal)",
+			"price": 510,
+			"currency": "GP"
+		},
+		{
+			"name": "Mechanical Toy (elaborate wind-up creature)",
+			"price": 1020,
+			"currency": "GP"
+		},
+		{
+			"name": "Metal or Wooden Compass",
+			"price": 10,
+			"currency": "SP"
+		},
+		{
+			"name": "Metal or Wooden Lockbox",
+			"price": 1025,
+			"currency": "GP"
+		},
+		{
+			"name": "Pocket Watch",
+			"price": 510,
+			"currency": "GP"
+		},
+		{
+			"name": "Pulleys and Winches (for lifting heavy objects)",
+			"price": 510,
+			"currency": "GP"
+		},
+		{
+			"name": "Quill and Inkwell Set",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Scroll Case (decorated with intricate designs)",
+			"price": 510,
+			"currency": "GP"
+		},
+		{
+			"name": "Simple Hand Tools (hammer, chisel, file, etc.)",
+			"price": 15,
+			"currency": "SP"
+		},
+		{
+			"name": "Small Clockwork Music Box",
+			"price": 2050,
+			"currency": "GP"
+		},
+		{
+			"name": "Small Clockwork Toy",
+			"price": 12,
+			"currency": "GP"
+		},
+		{
+			"name": "Small Gear or Spring",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Small Metal Mirror",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Small Wooden Puzzle Box",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Spyglass",
+			"price": 1000,
+			"currency": "GP"
+		},
+		{
+			"name": "Tinker’s Toolkit (more advanced tools for tinkering)",
+			"price": 100,
+			"currency": "GP"
+		},
+		{
+			"name": "Tinker’s Tools (for DIY tinkering)",
+			"price": 50,
+			"currency": "GP"
+		},
+		{
+			"name": "Torch",
+			"price": 1,
+			"currency": "CP"
+		},
+		{
+			"name": "Whetstone",
+			"price": 1,
+			"currency": "SP"
+		}
+	],
+	"services": [
+		{
+			"name": "Basic Repair Work (small household items, simple tools)",
+			"price": 15,
+			"currency": "GP"
+		},
+		{
+			"name": "Clock or Pocket Watch Repair",
+			"price": 1050,
+			"currency": "GP"
+		},
+		{
+			"name": "Clockwork Automaton Maintenance",
+			"price": 25100,
+			"currency": "GP"
+		},
+		{
+			"name": "Custom Engravings or Inscriptions",
+			"price": 110,
+			"currency": "GP"
+		},
+		{
+			"name": "Custom Mechanical Device or Contraption",
+			"price": 50200,
+			"currency": "GP"
+		},
+		{
+			"name": "Lock Repair",
+			"price": 1020,
+			"currency": "GP"
+		},
+		{
+			"name": "Tinkering Lessons (per hour)",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Consultation Fee (for brainstorming or troubleshooting)",
+			"price": 510,
+			"currency": "GP"
+		}
+	],
+	"quest": {
+		"name": "PLACEHOLDER",
+		"description": "PLACEHOLDER",
+		"reward": "PLACEHOLDER",
+		"completed": false
+	},
+	"isSelected": false
+}

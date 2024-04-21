@@ -1,0 +1,134 @@
+{
+	"name": "Carta Celestia",
+	"image": "/shops/CartaCelestia.png",
+	"description": "PLACEHOLDER",
+	"attitude": "Neutral",
+	"discount": 0,
+	"tags": [],
+	"items": [
+		{
+			"name": "Astrolabe (simple)",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Celestial Chart",
+			"price": 15,
+			"currency": "GP"
+		},
+		{
+			"name": "Compass (basic)",
+			"price": 10,
+			"currency": "SP"
+		},
+		{
+			"name": "Fine Pigments (set of various colors)",
+			"price": 3,
+			"currency": "GP"
+		},
+		{
+			"name": "Inkwell (standard)",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Map Case (leather)",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Map Restoration Kit",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Mapmaking Toolkit",
+			"price": 25,
+			"currency": "GP"
+		},
+		{
+			"name": "Parchment (per sheet)",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Quill",
+			"price": 2,
+			"currency": "CP"
+		},
+		{
+			"name": "Reference Map (kingdom/continent)",
+			"price": 20,
+			"currency": "GP"
+		},
+		{
+			"name": "Reference Map (local region)",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Scroll Tube",
+			"price": 1,
+			"currency": "GP"
+		}
+	],
+	"services": [
+		{
+			"name": "Celestial Navigation Consultation",
+			"price": 15,
+			"currency": "GP"
+		},
+		{
+			"name": "Custom Astrological Chart",
+			"price": 12,
+			"currency": "GP"
+		},
+		{
+			"name": "Custom Cartography Lessons (per session)",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Custom-Made Map (kingdom/continent)",
+			"price": 30,
+			"currency": "GP"
+		},
+		{
+			"name": "Custom-Made Map (local region)",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Emergency Map Reproduction",
+			"price": 50,
+			"currency": "GP"
+		},
+		{
+			"name": "Historical Map Analysis",
+			"price": 8,
+			"currency": "GP"
+		},
+		{
+			"name": "Map Appraisal",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Map Copying (per sheet)",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Map Enhancement (color, additional details)",
+			"price": 5,
+			"currency": "GP"
+		}
+	],
+	"quest": {
+		"name": "PLACEHOLDER",
+		"description": "PLACEHOLDER",
+		"reward": "PLACEHOLDER",
+		"completed": false
+	},
+	"isSelected": false
+}

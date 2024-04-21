@@ -1,0 +1,224 @@
+{
+	"name": "Quill and Plume Market",
+	"image": "/shops/QuillandPlumeMarket.png",
+	"description": "PLACEHOLDER",
+	"attitude": "Neutral",
+	"discount": 0,
+	"tags": [],
+	"items": [
+		{
+			"name": "Artisan-Crafted Feathered Cane",
+			"price": 8,
+			"currency": "GP"
+		},
+		{
+			"name": "Assorted Feathers",
+			"price": 5,
+			"currency": "CP"
+		},
+		{
+			"name": "Customized Quill",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Decorative Feather Set",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Elaborate Feathered Robe",
+			"price": 25,
+			"currency": "GP"
+		},
+		{
+			"name": "Embroidered Feathered Cloak",
+			"price": 30,
+			"currency": "GP"
+		},
+		{
+			"name": "Exotic Feather",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Feathered Anklet",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Feathered Brooch",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Feathered Cape",
+			"price": 15,
+			"currency": "GP"
+		},
+		{
+			"name": "Feathered Circlet",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Feathered Cloak",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Feathered Cushions Set",
+			"price": 8,
+			"currency": "SP"
+		},
+		{
+			"name": "Feathered Earrings",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Feathered Fan",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Feathered Hairpin Set",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Feathered Quilt",
+			"price": 6,
+			"currency": "GP"
+		},
+		{
+			"name": "Feathered Scroll Case",
+			"price": 3,
+			"currency": "GP"
+		},
+		{
+			"name": "Feathered Shawl",
+			"price": 8,
+			"currency": "GP"
+		},
+		{
+			"name": "Feathered Tapestry",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Feathered Wristbands",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Headdress with Plumage",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Inkwell",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Mastercrafted Feathered Mask",
+			"price": 15,
+			"currency": "GP"
+		},
+		{
+			"name": "Medallion with Plumage Pendant",
+			"price": 3,
+			"currency": "GP"
+		},
+		{
+			"name": "Plumage-Adorned Mirror Frame",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Plumage-Inlaid Wooden Box",
+			"price": 3,
+			"currency": "GP"
+		},
+		{
+			"name": "Plumage-Trimmed Tunic",
+			"price": 3,
+			"currency": "GP"
+		},
+		{
+			"name": "Quill Necklace",
+			"price": 4,
+			"currency": "GP"
+		},
+		{
+			"name": "Quill Pen",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Quill-Decorated Lampshade",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Quill-Embossed Pillow Set",
+			"price": 4,
+			"currency": "GP"
+		},
+		{
+			"name": "Quill-Patterned Belt",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Rare Feather Collection",
+			"price": 50,
+			"currency": "GP"
+		},
+		{
+			"name": "Single Quill",
+			"price": 1,
+			"currency": "CP"
+		}
+	],
+	"services": [
+		{
+			"name": "Custom Headdress Design",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Custom Ornamental Feather Creation",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Feather Consultation",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Feather Dyeing Service",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Feather Identification Service",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Quill Crafting Service",
+			"price": 2,
+			"currency": "SP"
+		}
+	],
+	"quest": {
+		"name": "PLACEHOLDER",
+		"description": "PLACEHOLDER",
+		"reward": "PLACEHOLDER",
+		"completed": false
+	},
+	"isSelected": false
+}

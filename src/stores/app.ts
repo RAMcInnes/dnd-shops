@@ -11,7 +11,8 @@ export const useAppStore = defineStore('app', () => {
   }
 
   function getShop(shopName: string): ShopInterface | undefined {
-    return shops.value[shopName] || undefined
+    const regexShopName = shopName.replace(/[&\/\\#, +()$~%.'":*?<>{}]/g, '')
+    return shops.value[regexShopName] || undefined
   }
 
   function getImage(shopName: string) {

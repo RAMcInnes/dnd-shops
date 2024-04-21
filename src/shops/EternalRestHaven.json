@@ -1,0 +1,94 @@
+{
+	"name": "Eternal Rest Haven",
+	"image": "/shops/EternalRestHaven.png",
+	"description": "PLACEHOLDER",
+	"attitude": "Neutral",
+	"discount": 0,
+	"tags": [],
+	"items": [
+		{
+			"name": "Burial Shroud (Simple)",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Elaborate Coffin with Carvings",
+			"price": 50,
+			"currency": "GP"
+		},
+		{
+			"name": "Embalming",
+			"price": 25,
+			"currency": "GP"
+		},
+		{
+			"name": "Fine Linen Burial Shroud",
+			"price": 15,
+			"currency": "GP"
+		},
+		{
+			"name": "Funerary Incense (Pack of 5 Sticks)",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Herb Bundle (for Rituals or Purification)",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Mourning Candle Set (Pack of 5)",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Quality Wooden Coffin",
+			"price": 25,
+			"currency": "GP"
+		},
+		{
+			"name": "Scented Candles (Assorted Pack of 10)",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Simple Wooden Coffin",
+			"price": 10,
+			"currency": "GP"
+		}
+	],
+	"services": [
+		{
+			"name": "Basic Burial Service (includes coffin)",
+			"price": 50,
+			"currency": "GP"
+		},
+		{
+			"name": "Custom Coffin Crafting",
+			"price": 50,
+			"currency": "VA"
+		},
+		{
+			"name": "Elaborate Funeral Package (includes coffin)",
+			"price": 200,
+			"currency": "GP"
+		},
+		{
+			"name": "Grave Blessing and Protection",
+			"price": 30,
+			"currency": "GP"
+		},
+		{
+			"name": "Premium Burial Service (includes coffin)",
+			"price": 100,
+			"currency": "GP"
+		}
+	],
+	"quest": {
+		"name": "PLACEHOLDER",
+		"description": "PLACEHOLDER",
+		"reward": "PLACEHOLDER",
+		"completed": false
+	},
+	"isSelected": false
+}

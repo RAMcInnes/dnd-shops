@@ -1,0 +1,94 @@
+{
+	"name": "Blackwood Distillery",
+	"image": "/shops/BlackwoodDistillery.png",
+	"description": "PLACEHOLDER",
+	"attitude": "Neutral",
+	"discount": 0,
+	"tags": [],
+	"items": [
+		{
+			"name": "Aldyris Brandy (per bottle)",
+			"price": 50,
+			"currency": "GP"
+		},
+		{
+			"name": "Barrels (empty, per barrel)",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Brandy (per bottle)",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Distillation Equipment",
+			"price": 10100,
+			"currency": "GP"
+		},
+		{
+			"name": "Gin (per bottle)",
+			"price": 3,
+			"currency": "GP"
+		},
+		{
+			"name": "Rum (per bottle)",
+			"price": 3,
+			"currency": "GP"
+		},
+		{
+			"name": "Specialty Brews (per bottle)",
+			"price": 210,
+			"currency": "GP"
+		},
+		{
+			"name": "Vodka (per bottle)",
+			"price": 3,
+			"currency": "GP"
+		},
+		{
+			"name": "Whiskey (per bottle)",
+			"price": 4,
+			"currency": "GP"
+		},
+		{
+			"name": "Wine (per bottle)",
+			"price": 2,
+			"currency": "GP"
+		}
+	],
+	"services": [
+		{
+			"name": "Aging Service (per barrel)",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Corking Service (per bottle)",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Custom Distillation Service (per batch)",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Flavoring Services (per batch)",
+			"price": 3,
+			"currency": "GP"
+		},
+		{
+			"name": "Labeling Service (per bottle)",
+			"price": 1,
+			"currency": "CP"
+		}
+	],
+	"quest": {
+		"name": "PLACEHOLDER",
+		"description": "PLACEHOLDER",
+		"reward": "PLACEHOLDER",
+		"completed": false
+	},
+	"isSelected": false
+}

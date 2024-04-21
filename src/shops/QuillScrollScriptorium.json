@@ -1,0 +1,94 @@
+{
+	"name": "Quill & Scroll Scriptorium",
+	"image": "/shops/Quill&ScrollScriptorium.png",
+	"description": "PLACEHOLDER",
+	"attitude": "Neutral",
+	"discount": 0,
+	"tags": [],
+	"items": [
+		{
+			"name": "Gold Leaf (Sheet)",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Parchment Sheet (Fine)",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Parchment Sheet (Standard)",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Pigment Set (Assorted Colors",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Pounce Powder (Small Bag)",
+			"price": 5,
+			"currency": "CP"
+		},
+		{
+			"name": "Quill Pen (Single)",
+			"price": 5,
+			"currency": "CP"
+		},
+		{
+			"name": "Rare Pigments",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Scroll Case (Basic)",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Vial of Ink (Specialty)",
+			"price": 35,
+			"currency": "SP"
+		},
+		{
+			"name": "Vial of Ink (Standard)",
+			"price": 1,
+			"currency": "SP"
+		}
+	],
+	"services": [
+		{
+			"name": "Calligraphy (Per Page)",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Custom Coat of Arms Design",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Illumination (Per Page)",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Illustrated Family Tree",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Illuminated Manuscript (Custom-made)",
+			"price": 10,
+			"currency": "PR"
+		}
+	],
+	"quest": {
+		"name": "PLACEHOLDER",
+		"description": "PLACEHOLDER",
+		"reward": "PLACEHOLDER",
+		"completed": false
+	},
+	"isSelected": false
+}

@@ -1,0 +1,184 @@
+{
+	"name": "Steel Sentinel Armory",
+	"image": "/shops/SteelSentinelArmory.png",
+	"description": "PLACEHOLDER",
+	"attitude": "Neutral",
+	"discount": 0,
+	"tags": [],
+	"items": [
+		{
+			"name": "Armor Rack (holds up to 3 sets of armor)",
+			"price": 15,
+			"currency": "GP"
+		},
+		{
+			"name": "Armor Stand",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Arrows (set of 10)",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Bowstring (replacement)",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Chainmail Links (per pound)",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Coif (Chainmail Hood)",
+			"price": 15,
+			"currency": "GP"
+		},
+		{
+			"name": "Leather Belt",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Leather Gloves (pair)",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Leather Straps (per yard)",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Metal Plates (per pound)",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Oil for Armor Maintenance (flask)",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Padded Undergarments",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Polish for Armor (jar)",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Potion Belt (holds up to 4 vials)",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Quiver (holds up to 20 arrows)",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Scabbard (sword)",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Sword Care Kit",
+			"price": 3,
+			"currency": "GP"
+		},
+		{
+			"name": "Wax for Armor Waterproofing (block)",
+			"price": 3,
+			"currency": "GP"
+		},
+		{
+			"name": "Weapon Cleaning Kit",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Weapon Rack (holds up to 5 weapons)",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Weapon Sharpening Stone",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Weapon Sheath",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Weapon Stand",
+			"price": 3,
+			"currency": "GP"
+		},
+		{
+			"name": "Wooden Shield (practice)",
+			"price": 3,
+			"currency": "GP"
+		},
+		{
+			"name": "Wooden Training Sword",
+			"price": 1,
+			"currency": "GP"
+		}
+	],
+	"services": [
+		{
+			"name": "Armor Appraisal",
+			"price": 25,
+			"currency": "GP"
+		},
+		{
+			"name": "Armor Cleaning and Polishing",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Armor Repair",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Custom Armor Fitting",
+			"price": 20,
+			"currency": "GP"
+		},
+		{
+			"name": "Custom Weapon Crafting",
+			"price": 25,
+			"currency": "GP"
+		},
+		{
+			"name": "Weapon Appraisal",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Weapon Maintenance (per weapon)",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Weapon Sharpening",
+			"price": 1,
+			"currency": "GP"
+		}
+	],
+	"quest": {
+		"name": "PLACEHOLDER",
+		"description": "PLACEHOLDER",
+		"reward": "PLACEHOLDER",
+		"completed": false
+	},
+	"isSelected": false
+}

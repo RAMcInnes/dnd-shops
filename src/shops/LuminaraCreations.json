@@ -1,0 +1,114 @@
+{
+	"name": "Luminara Creations",
+	"image": "/shops/LuminaraCreations.png",
+	"description": "PLACEHOLDER",
+	"attitude": "Neutral",
+	"discount": 0,
+	"tags": [],
+	"items": [
+		{
+			"name": "Aromatherapy Candle Set",
+			"price": 8,
+			"currency": "GP"
+		},
+		{
+			"name": "Beeswax Candle (Quality)",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Candle Lantern (Simple, with glass panels)",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Candle Sconce (Wall-mounted)",
+			"price": 3,
+			"currency": "GP"
+		},
+		{
+			"name": "Candle Snuffer (Brass)",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Candleholder (Ornate, for taper candles)",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Candlemaking Kit (Basic)",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Candlemaking Recipe Book",
+			"price": 3,
+			"currency": "GP"
+		},
+		{
+			"name": "Lantern Oil (Flask)",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Scented Candle (Assorted Scents)",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Tallow Candle (Common)",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Taper Candle (Decorative)",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Wax Seal Kit",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Wick Cutter (Fine Steel)",
+			"price": 5,
+			"currency": "SP"
+		}
+	],
+	"services": [
+		{
+			"name": "Candle Carving (Intricate Designs)",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Candle Dyeing (Assorted Colors)",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Candlelit Event Planning (Decorating with candles)",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Candlemaking Workshop (Basic Instruction)",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Custom Candle Crafting (Basic)",
+			"price": 2,
+			"currency": "GP"
+		}
+	],
+	"quest": {
+		"name": "PLACEHOLDER",
+		"description": "PLACEHOLDER",
+		"reward": "PLACEHOLDER",
+		"completed": false
+	},
+	"isSelected": false
+}

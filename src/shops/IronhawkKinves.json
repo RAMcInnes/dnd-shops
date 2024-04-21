@@ -1,0 +1,204 @@
+{
+	"name": "Ironhawk Kinves",
+	"image": "/shops/IronhawkKinves.png",
+	"description": "PLACEHOLDER",
+	"attitude": "Neutral",
+	"discount": 0,
+	"tags": [],
+	"items": [
+		{
+			"name": "Belt Sheath",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Bone-Handled Skinning Knife",
+			"price": 7,
+			"currency": "GP"
+		},
+		{
+			"name": "Boning Knife",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Bowie Knife",
+			"price": 18,
+			"currency": "GP"
+		},
+		{
+			"name": "Bread Knife",
+			"price": 4,
+			"currency": "GP"
+		},
+		{
+			"name": "Butcher’s Cleaver",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Carving Set (includes carving knife and fork)",
+			"price": 15,
+			"currency": "GP"
+		},
+		{
+			"name": "Chef’s Knife",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Cleaver",
+			"price": 8,
+			"currency": "GP"
+		},
+		{
+			"name": "Dagger",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Decorative Knife with Intricate Handle",
+			"price": 20,
+			"currency": "GP"
+		},
+		{
+			"name": "Fillet Knife",
+			"price": 6,
+			"currency": "GP"
+		},
+		{
+			"name": "Fisherman’s Filet Knife",
+			"price": 7,
+			"currency": "GP"
+		},
+		{
+			"name": "Hunting Knife",
+			"price": 3,
+			"currency": "GP"
+		},
+		{
+			"name": "Knife Maintenance Kit (includes oil, cloth, and small whetstone)",
+			"price": 3,
+			"currency": "GP"
+		},
+		{
+			"name": "Knife Sharpening Stone",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Leather Knife Roll (holds up to 5 knives)",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Machete",
+			"price": 8,
+			"currency": "GP"
+		},
+		{
+			"name": "Oyster Knife",
+			"price": 3,
+			"currency": "GP"
+		},
+		{
+			"name": "Parrying Dagger",
+			"price": 12,
+			"currency": "GP"
+		},
+		{
+			"name": "Sai (pair)",
+			"price": 18,
+			"currency": "GP"
+		},
+		{
+			"name": "Scabbard",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Serrated Bread Knife",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Set of Steak Knives (set of 4)",
+			"price": 8,
+			"currency": "GP"
+		},
+		{
+			"name": "Throwing Axes (set of 3)",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Throwing Daggers (set of 3)",
+			"price": 7,
+			"currency": "GP"
+		},
+		{
+			"name": "Throwing Knives (set of 5)",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Utility Knife",
+			"price": 1,
+			"currency": "GP"
+		}
+	],
+	"services": [
+		{
+			"name": "Basic Knife Sharpening",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Blade Repair",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Engraving",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Handle Replacement",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Handle Wrapping (leather or cord)",
+			"price": 3,
+			"currency": "GP"
+		},
+		{
+			"name": "Knife Balancing Service",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Knife Restoration (antique blades)",
+			"price": 20,
+			"currency": "GP"
+		},
+		{
+			"name": "Knife Throwing Lesson (per hour)",
+			"price": 15,
+			"currency": "GP"
+		},
+		{
+			"name": "Rust Removal",
+			"price": 5,
+			"currency": "SP"
+		}
+	],
+	"quest": {
+		"name": "PLACEHOLDER",
+		"description": "PLACEHOLDER",
+		"reward": "PLACEHOLDER",
+		"completed": false
+	},
+	"isSelected": false
+}

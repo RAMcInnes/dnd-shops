@@ -1,5 +1,5 @@
 TO DO
-- Have ShopList show up even when screen is smaller than full-screen
+- Sort ShopList by "highlighted shops" (if any)
 - Re-work how all CSS and layout is done
 
 KNOWN ISSUES

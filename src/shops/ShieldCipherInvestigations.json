@@ -1,0 +1,73 @@
+{
+	"name": "Shield & Cipher Investigations",
+	"image": "/shops/Shield&CipherInvestigations.png",
+	"description": "PLACEHOLDER",
+	"attitude": "Neutral",
+	"discount": 0,
+	"tags": [],
+	"items": [],
+	"services": [
+		{
+			"name": "Background Investigation (per individual)",
+			"price": 20,
+			"currency": "GP"
+		},
+		{
+			"name": "Cipher Decoding Service (per document)",
+			"price": 50,
+			"currency": "GP"
+		},
+		{
+			"name": "Consultation Fee",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Missing Persons Investigation (per day)",
+			"price": 50,
+			"currency": "GP"
+		},
+		{
+			"name": "Official Document Authentication",
+			"price": 30,
+			"currency": "GP"
+		},
+		{
+			"name": "Rumor Investigation (per day)",
+			"price": 15,
+			"currency": "GP"
+		},
+		{
+			"name": "Secret Society Infiltration (per week)",
+			"price": 300,
+			"currency": "GP"
+		},
+		{
+			"name": "Security Consultation (business)",
+			"price": 75,
+			"currency": "GP"
+		},
+		{
+			"name": "Security Consultation (home)",
+			"price": 40,
+			"currency": "GP"
+		},
+		{
+			"name": "Surveillance Services (per day)",
+			"price": 25,
+			"currency": "GP"
+		},
+		{
+			"name": "Undercover Operations (per day)",
+			"price": 75,
+			"currency": "GP"
+		}
+	],
+	"quest": {
+		"name": "PLACEHOLDER",
+		"description": "PLACEHOLDER",
+		"reward": "PLACEHOLDER",
+		"completed": false
+	},
+	"isSelected": false
+}

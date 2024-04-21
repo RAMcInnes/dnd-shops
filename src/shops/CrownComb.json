@@ -1,0 +1,149 @@
+{
+	"name": "Crown & Comb",
+	"image": "/shops/Crown&Comb.png",
+	"description": "PLACEHOLDER",
+	"attitude": "Neutral",
+	"discount": 0,
+	"tags": [],
+	"items": [
+		{
+			"name": "Antique Style Hand Mirror",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Aromatherapy Essential Oils",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Barber’s Kit (razors, shears, combs)",
+			"price": 0,
+			"currency": "GP"
+		},
+		{
+			"name": "Bloodletting Kit",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Fine Quality Straight Razor",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Fragrant Beard Oil",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Hair Tonic (stimulates hair growth)",
+			"price": 3,
+			"currency": "SP"
+		},
+		{
+			"name": "Horn Comb",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Leather Barber’s Apron",
+			"price": 3,
+			"currency": "SP"
+		},
+		{
+			"name": "Linen Towels (set of 5)",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Porcelain Mug and Shaving Soap",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Reg’s Tonic",
+			"price": 3,
+			"currency": "GP"
+		},
+		{
+			"name": "Soothing Aftershave Balm",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Specialized Herbal Shampoo",
+			"price": 1,
+			"currency": "SP"
+		}
+	],
+	"services": [
+		{
+			"name": "Beard Trim",
+			"price": 8,
+			"currency": "CP"
+		},
+		{
+			"name": "Bloodletting",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Ear Candling",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Facial Massage with Herbal Oils",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Full Tonsorial Services (Haircut, Shave, and Beard Trim)",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Hair Wash",
+			"price": 4,
+			"currency": "CP"
+		},
+		{
+			"name": "Haircut",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Medicinal Herbal Hair Treatment",
+			"price": 3,
+			"currency": "SP"
+		},
+		{
+			"name": "Minor Surgery",
+			"price": 120,
+			"currency": "GP"
+		},
+		{
+			"name": "Relaxing Hot Towel Treatment",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Shave",
+			"price": 5,
+			"currency": "CP"
+		},
+		{
+			"name": "Tooth Extraction",
+			"price": 2,
+			"currency": "GP"
+		}
+	],
+	"quest": {
+		"name": "PLACEHOLDER",
+		"description": "PLACEHOLDER",
+		"reward": "PLACEHOLDER",
+		"completed": false
+	},
+	"isSelected": false
+}

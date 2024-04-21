@@ -1,0 +1,79 @@
+{
+	"name": "Arcanup Eyewear",
+	"image": "/shops/ArcanupEyewear.png",
+	"description": "PLACEHOLDER",
+	"attitude": "Neutral",
+	"discount": 0,
+	"tags": [],
+	"items": [
+		{
+			"name": "Eyeglasses (Quality)",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Eyeglasses (Simple)",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Lens Cleaning Solution",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Lens Polishing Cloth",
+			"price": 5,
+			"currency": "CP"
+		},
+		{
+			"name": "Monocle",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Optical Repair Kit",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Reading Lenses",
+			"price": 1,
+			"currency": "GP"
+		}
+	],
+	"services": [
+		{
+			"name": "Frame Repair",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Lens Adjustment",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Lens Cleaning Service",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Lens Prescription Consultation",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Lens Replacement",
+			"price": 1,
+			"currency": "GP"
+		}
+	],
+	"quest": {
+		"name": "PLACEHOLDER",
+		"description": "PLACEHOLDER",
+		"reward": "PLACEHOLDER",
+		"completed": false
+	},
+	"isSelected": false
+}

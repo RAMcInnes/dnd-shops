@@ -1,0 +1,179 @@
+{
+	"name": "Gossamer Goldworks",
+	"image": "/shops/GossamerGoldworks.png",
+	"description": "PLACEHOLDER",
+	"attitude": "Neutral",
+	"discount": 0,
+	"tags": [],
+	"items": [
+		{
+			"name": "Citrine-studded Cufflinks",
+			"price": 15,
+			"currency": "GP"
+		},
+		{
+			"name": "Copper Brooch",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Emerald Signet Ring",
+			"price": 60,
+			"currency": "GP"
+		},
+		{
+			"name": "Filigree Belt Buckle",
+			"price": 8,
+			"currency": "GP"
+		},
+		{
+			"name": "Fine Gold Chain",
+			"price": 20,
+			"currency": "GP"
+		},
+		{
+			"name": "Garnet-encrusted Circlet",
+			"price": 55,
+			"currency": "GP"
+		},
+		{
+			"name": "Gemstone Stud Earrings",
+			"price": 25,
+			"currency": "GP"
+		},
+		{
+			"name": "Gilded Quill Set",
+			"price": 16,
+			"currency": "GP"
+		},
+		{
+			"name": "Gold and Silver Plated Tankard",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Gold Plated Hair Comb with Moonstone Inlay",
+			"price": 20,
+			"currency": "GP"
+		},
+		{
+			"name": "Gold Ring",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Gold-leafed Mirror",
+			"price": 30,
+			"currency": "GP"
+		},
+		{
+			"name": "Gold-plated Dagger Hilt",
+			"price": 12,
+			"currency": "GP"
+		},
+		{
+			"name": "Intricate Hairpin Set",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Jade Brooch in the Shape of a Dragonfly",
+			"price": 25,
+			"currency": "GP"
+		},
+		{
+			"name": "Jewelry Box",
+			"price": 25,
+			"currency": "GP"
+		},
+		{
+			"name": "Opal-studded Ankle Bracelet",
+			"price": 35,
+			"currency": "GP"
+		},
+		{
+			"name": "Pearl Pendant",
+			"price": 40,
+			"currency": "GP"
+		},
+		{
+			"name": "Polished Agate Pendant",
+			"price": 30,
+			"currency": "GP"
+		},
+		{
+			"name": "Rose Gold Locket with Hidden Compartment",
+			"price": 70,
+			"currency": "GP"
+		},
+		{
+			"name": "Sapphire-studded Tiara",
+			"price": 75,
+			"currency": "GP"
+		},
+		{
+			"name": "Sardonyx-studded Inkwell",
+			"price": 22,
+			"currency": "GP"
+		},
+		{
+			"name": "Silver Filigree Scepter",
+			"price": 50,
+			"currency": "GP"
+		},
+		{
+			"name": "Silver Lockets",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Silver Necklace",
+			"price": 10,
+			"currency": "GP"
+		}
+	],
+	"services": [
+		{
+			"name": "Appraisal Services",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Cleaning & Polishing",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Custom Guild Insignia Design",
+			"price": 30,
+			"currency": "GP"
+		},
+		{
+			"name": "Custom Jewelry Design",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Engraving",
+			"price": 110,
+			"currency": "GP"
+		},
+		{
+			"name": "Gold Leafing",
+			"price": 15,
+			"currency": "GP"
+		},
+		{
+			"name": "Jewelry Repair",
+			"price": 5,
+			"currency": "GP"
+		}
+	],
+	"quest": {
+		"name": "PLACEHOLDER",
+		"description": "PLACEHOLDER",
+		"reward": "PLACEHOLDER",
+		"completed": false
+	},
+	"isSelected": false
+}

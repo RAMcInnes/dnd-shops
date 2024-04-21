@@ -1,0 +1,79 @@
+{
+	"name": "Ironquill Etchings",
+	"image": "/shops/IronquillEtchings.png",
+	"description": "PLACEHOLDER",
+	"attitude": "Neutral",
+	"discount": 0,
+	"tags": [],
+	"items": [
+		{
+			"name": "Custom Engraving on Jewelry",
+			"price": 120,
+			"currency": "SP"
+		},
+		{
+			"name": "Decorative Stone Tablet",
+			"price": 110,
+			"currency": "GP"
+		},
+		{
+			"name": "Engraved Tankard or Goblet",
+			"price": 15,
+			"currency": "GP"
+		},
+		{
+			"name": "Engraved Wooden Sign for Businesses",
+			"price": 320,
+			"currency": "GP"
+		},
+		{
+			"name": "Metal Plaque with Inscription",
+			"price": 130,
+			"currency": "GP"
+		},
+		{
+			"name": "Personalized Family Crest Engraving",
+			"price": 1050,
+			"currency": "GP"
+		},
+		{
+			"name": "Religious Symbol",
+			"price": 520,
+			"currency": "GP"
+		},
+		{
+			"name": "Weapon or Armor Engravings",
+			"price": 550,
+			"currency": "GP"
+		}
+	],
+	"services": [
+		{
+			"name": "Custom Design Consultation",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Engraving Repair Services",
+			"price": 120,
+			"currency": "GP"
+		},
+		{
+			"name": "Material Selection Assistance",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Rush Order Fee",
+			"price": 210,
+			"currency": "GP"
+		}
+	],
+	"quest": {
+		"name": "PLACEHOLDER",
+		"description": "PLACEHOLDER",
+		"reward": "PLACEHOLDER",
+		"completed": false
+	},
+	"isSelected": false
+}

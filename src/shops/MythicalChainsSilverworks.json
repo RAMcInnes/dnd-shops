@@ -1,0 +1,204 @@
+{
+	"name": "Mythical Chains Silverworks",
+	"image": "/shops/MythicalChainsSilverworks.png",
+	"description": "PLACEHOLDER",
+	"attitude": "Neutral",
+	"discount": 0,
+	"tags": [],
+	"items": [
+		{
+			"name": "Elaborate Silver Clock",
+			"price": 50,
+			"currency": "GP"
+		},
+		{
+			"name": "Engraved Silver Goblet",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Filigree Silver Dagger",
+			"price": 25,
+			"currency": "GP"
+		},
+		{
+			"name": "Pair of Silver Earrings",
+			"price": 8,
+			"currency": "GP"
+		},
+		{
+			"name": "Polished Silver Mirror",
+			"price": 20,
+			"currency": "GP"
+		},
+		{
+			"name": "Silver Anklet",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Silver Armlet",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Silver Belt Buckle",
+			"price": 8,
+			"currency": "GP"
+		},
+		{
+			"name": "Silver Bowl",
+			"price": 8,
+			"currency": "GP"
+		},
+		{
+			"name": "Silver Bracelet with Gemstone",
+			"price": 15,
+			"currency": "GP"
+		},
+		{
+			"name": "Silver Bracelet",
+			"price": 7,
+			"currency": "GP"
+		},
+		{
+			"name": "Silver Brooch",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Silver Buckle with Hidden Compartment",
+			"price": 15,
+			"currency": "GP"
+		},
+		{
+			"name": "Silver Candelabrum",
+			"price": 20,
+			"currency": "GP"
+		},
+		{
+			"name": "Silver Chalice with Intricate Design",
+			"price": 30,
+			"currency": "GP"
+		},
+		{
+			"name": "Silver Dish",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Silver Embossed Hand Mirror",
+			"price": 18,
+			"currency": "GP"
+		},
+		{
+			"name": "Silver Fork Set",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Silver Hairpin Set",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Silver Hilted Shortsword",
+			"price": 30,
+			"currency": "GP"
+		},
+		{
+			"name": "Silver Inkwell with Quill",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Silver Knife Set",
+			"price": 6,
+			"currency": "GP"
+		},
+		{
+			"name": "Silver Ladle",
+			"price": 7,
+			"currency": "GP"
+		},
+		{
+			"name": "Silver Necklace",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Silver Ring",
+			"price": 6,
+			"currency": "GP"
+		},
+		{
+			"name": "Silver Sculpture of a Dragon",
+			"price": 40,
+			"currency": "GP"
+		},
+		{
+			"name": "Silver Spoon Set",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Silver Tea Set (teapot, cups, saucers)",
+			"price": 25,
+			"currency": "GP"
+		},
+		{
+			"name": "Silver Torc (neck ring)",
+			"price": 12,
+			"currency": "GP"
+		},
+		{
+			"name": "Silver Tray",
+			"price": 15,
+			"currency": "GP"
+		},
+		{
+			"name": "Silver Wall Sconces (pair)",
+			"price": 35,
+			"currency": "GP"
+		}
+	],
+	"services": [
+		{
+			"name": "Crafting Simple Silver Amulet or Talisman",
+			"price": 15,
+			"currency": "GP"
+		},
+		{
+			"name": "Custom Filigree Work",
+			"price": 30,
+			"currency": "ST"
+		},
+		{
+			"name": "Custom Jewelry Design",
+			"price": 50,
+			"currency": "ST"
+		},
+		{
+			"name": "Gemstone Setting",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Polishing and Cleaning Service",
+			"price": 25,
+			"currency": "SP"
+		},
+		{
+			"name": "Silverware Repair",
+			"price": 5,
+			"currency": "GP"
+		}
+	],
+	"quest": {
+		"name": "PLACEHOLDER",
+		"description": "PLACEHOLDER",
+		"reward": "PLACEHOLDER",
+		"completed": false
+	},
+	"isSelected": false
+}

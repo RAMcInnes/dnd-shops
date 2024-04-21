@@ -1,0 +1,119 @@
+{
+	"name": "The Chromatic Cauldron",
+	"image": "/shops/TheChromaticCauldron.png",
+	"description": "PLACEHOLDER",
+	"attitude": "Neutral",
+	"discount": 0,
+	"tags": [],
+	"items": [
+		{
+			"name": "Basic Pigment Color (per ounce)",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Canvas (per sheet)",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Color Exterior Paint (per gallon)",
+			"price": 3,
+			"currency": "GP"
+		},
+		{
+			"name": "Color Interior Paint (per gallon)",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Exotic Pigment Color (per ounce)",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Mixing Bowls (set of 3)",
+			"price": 3,
+			"currency": "CP"
+		},
+		{
+			"name": "Paint Rollers (set of 3)",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Paintbrushes (set of 5)",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Palette Knife",
+			"price": 5,
+			"currency": "CP"
+		},
+		{
+			"name": "Rare Pigment Color (per ounce)",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "White Paint (per gallon)",
+			"price": 1,
+			"currency": "GP"
+		}
+	],
+	"services": [
+		{
+			"name": "Basic Custom Pigment Color (per ounce)",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Rare Custom Pigment Color (per ounce)",
+			"price": 25,
+			"currency": "SP"
+		},
+		{
+			"name": "Exotic Custom Pigment Color (per ounce)",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Standard Pigment Grinding (per ounce)",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Fine Pigment Grinding (per ounce)",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Extra-Fine Pigment Grinding (per ounce)",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Standard Pigment Mixing (per color)",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Premium Pigment Mixing (per color)",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Master Pigment Mixing (per color)",
+			"price": 1,
+			"currency": "GP"
+		}
+	],
+	"quest": {
+		"name": "PLACEHOLDER",
+		"description": "PLACEHOLDER",
+		"reward": "PLACEHOLDER",
+		"completed": false
+	},
+	"isSelected": false
+}

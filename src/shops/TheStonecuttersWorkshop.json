@@ -1,0 +1,84 @@
+{
+	"name": "The Stonecutter's Workshop",
+	"image": "/shops/TheStonecutter'sWorkshop.png",
+	"description": "PLACEHOLDER",
+	"attitude": "Neutral",
+	"discount": 0,
+	"tags": [],
+	"items": [
+		{
+			"name": "Building Foundation",
+			"price": 1010,
+			"currency": "GP"
+		},
+		{
+			"name": "Masonry Tool kit",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Mortar and Cement",
+			"price": 55,
+			"currency": "SP"
+		},
+		{
+			"name": "Stone Blocks",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Stone Fireplace Mantels",
+			"price": 510,
+			"currency": "GP"
+		},
+		{
+			"name": "Stone Fountain Kits",
+			"price": 1020,
+			"currency": "GP"
+		},
+		{
+			"name": "Stone Paving Stones",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Stone Vases and Urns",
+			"price": 25,
+			"currency": "GP"
+		},
+		{
+			"name": "Stone Wall Construction",
+			"price": 15,
+			"currency": "GP"
+		}
+	],
+	"services": [
+		{
+			"name": "Stone Cleaning and Polishing Services",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Stone Engraving Services",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Stone Restoration",
+			"price": 0,
+			"currency": "VA"
+		},
+		{
+			"name": "Stonemasonry Work",
+			"price": 0,
+			"currency": "VA"
+		}
+	],
+	"quest": {
+		"name": "PLACEHOLDER",
+		"description": "PLACEHOLDER",
+		"reward": "PLACEHOLDER",
+		"completed": false
+	},
+	"isSelected": false
+}

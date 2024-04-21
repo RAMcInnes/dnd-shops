@@ -1,0 +1,179 @@
+{
+	"name": "Silk and Satin Needlework",
+	"image": "/shops/SilkandSatinNeedlework.png",
+	"description": "PLACEHOLDER",
+	"attitude": "Neutral",
+	"discount": 0,
+	"tags": [],
+	"items": [
+		{
+			"name": "Basic Cloak",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Common Blouse",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Common Dress",
+			"price": 3,
+			"currency": "GP"
+		},
+		{
+			"name": "Common Pants or Skirt",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Common Tunic",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Elaborate Costume",
+			"price": 25,
+			"currency": "GP"
+		},
+		{
+			"name": "Embroidered Cape",
+			"price": 15,
+			"currency": "GP"
+		},
+		{
+			"name": "Feathered Hat",
+			"price": 3,
+			"currency": "GP"
+		},
+		{
+			"name": "Fine Blouse",
+			"price": 4,
+			"currency": "GP"
+		},
+		{
+			"name": "Fine Dress",
+			"price": 8,
+			"currency": "GP"
+		},
+		{
+			"name": "Fine Pants or Skirt",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Fine Tunic",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Hooded Cloak",
+			"price": 3,
+			"currency": "GP"
+		},
+		{
+			"name": "Leather Belt",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Linen",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Noble Gown",
+			"price": 25,
+			"currency": "GP"
+		},
+		{
+			"name": "Silk Scarf",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Silk",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Simple Costume",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Simple Dress",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Simple Pants or Skirt",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Simple Shirt",
+			"price": 8,
+			"currency": "SP"
+		},
+		{
+			"name": "Simple Tunic",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Wool",
+			"price": 1,
+			"currency": "GP"
+		}
+	],
+	"services": [
+		{
+			"name": "Basic Cleaning and Pressing",
+			"price": 315,
+			"currency": "SP"
+		},
+		{
+			"name": "Basic Color Dye",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Custom Color Dye",
+			"price": 3,
+			"currency": "GP"
+		},
+		{
+			"name": "Delicate Fabrics Cleaning and Pressing",
+			"price": 3,
+			"currency": "GP"
+		},
+		{
+			"name": "Hemming",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Intricate Embroidered Design",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Medium Embroidered Design",
+			"price": 4,
+			"currency": "GP"
+		},
+		{
+			"name": "Small Embroidered Design",
+			"price": 1,
+			"currency": "GP"
+		}
+	],
+	"quest": {
+		"name": "PLACEHOLDER",
+		"description": "PLACEHOLDER",
+		"reward": "PLACEHOLDER",
+		"completed": false
+	},
+	"isSelected": false
+}

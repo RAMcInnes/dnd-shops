@@ -1,0 +1,144 @@
+{
+	"name": "Chalice Vine Vault",
+	"image": "/shops/ChaliceVineVault.png",
+	"description": "PLACEHOLDER",
+	"attitude": "Neutral",
+	"discount": 0,
+	"tags": [],
+	"items": [
+		{
+			"name": "Barrel of Premium Wine",
+			"price": 25,
+			"currency": "GP"
+		},
+		{
+			"name": "Barrel of Table Wine",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Ceramic Wine Goblet",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Common Red Wine (Bottle)",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Common White Wine (Bottle)",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Corkscrew (Basic)",
+			"price": 5,
+			"currency": "CP"
+		},
+		{
+			"name": "Exquisite Vintage Wine (Bottle)",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Fine Red Wine (Bottle)",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Fine White Wine (Bottle)",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Mulled Wine (Flask)",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Wine Cellar Inventory Book",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Wine Coasters (Set of 4)",
+			"price": 5,
+			"currency": "CP"
+		},
+		{
+			"name": "Wine Decanter (Glass)",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Wine Pourer Spouts (Individual)",
+			"price": 0,
+			"currency": "CP"
+		},
+		{
+			"name": "Wine Rack (Small, Wooden)",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Wine Stoppers (Set of 3)",
+			"price": 5,
+			"currency": "CP"
+		},
+		{
+			"name": "Wine Tasting Flight (Assorted Samples)",
+			"price": 3,
+			"currency": "SP"
+		},
+		{
+			"name": "Wine Tasting Journal",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Wooden Wine Glass",
+			"price": 5,
+			"currency": "CP"
+		}
+	],
+	"services": [
+		{
+			"name": "Custom Label Design (per Bottle)",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Wine Tasting Experience",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Wine Aging Consultation",
+			"price": 3,
+			"currency": "GP"
+		},
+		{
+			"name": "Wine and Cheese Pairing Event (Admission)",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Wine Stain Removal Charm (Magical)",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Wine Appraisal Service",
+			"price": 5,
+			"currency": "GP"
+		}
+	],
+	"quest": {
+		"name": "PLACEHOLDER",
+		"description": "PLACEHOLDER",
+		"reward": "PLACEHOLDER",
+		"completed": false
+	},
+	"isSelected": false
+}

@@ -1,0 +1,134 @@
+{
+	"name": "Loyal Nobility Hounds",
+	"image": "/shops/LoyalNobilityHounds.png",
+	"description": "PLACEHOLDER",
+	"attitude": "Neutral",
+	"discount": 0,
+	"tags": [],
+	"items": [
+		{
+			"name": "Bite Sleeve (Training Aid)",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Clicker Training Set",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Customized Hound Collar (Engraved)",
+			"price": 20,
+			"currency": "GP"
+		},
+		{
+			"name": "Enchanted Hound Whistle",
+			"price": 25,
+			"currency": "GP"
+		},
+		{
+			"name": "Fine Quality Hound Bed",
+			"price": 15,
+			"currency": "GP"
+		},
+		{
+			"name": "Grooming Brush",
+			"price": 3,
+			"currency": "SP"
+		},
+		{
+			"name": "Hound Training Treats (Pouch)",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Hunting Horn",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Mystical Healing Herb Pouch",
+			"price": 8,
+			"currency": "GP"
+		},
+		{
+			"name": "Portable Water Bowl",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Reinforced Hound Leash",
+			"price": 3,
+			"currency": "GP"
+		},
+		{
+			"name": "Safety Muzzle",
+			"price": 3,
+			"currency": "SP"
+		},
+		{
+			"name": "Standard Leather Collar",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Tracking Map of Local Game",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Training Treat Pouch",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Training Treats (Assorted Flavors, 50 pieces)",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Training Whistle (Standard)",
+			"price": 2,
+			"currency": "SP"
+		}
+	],
+	"services": [
+		{
+			"name": "Game Tracking Expedition",
+			"price": 60,
+			"currency": "GP"
+		},
+		{
+			"name": "Hound Grooming",
+			"price": 8,
+			"currency": "GP"
+		},
+		{
+			"name": "Hound Health Checkup",
+			"price": 3,
+			"currency": "GP"
+		},
+		{
+			"name": "Hound Training Session (Basic)",
+			"price": 15,
+			"currency": "GP"
+		},
+		{
+			"name": "Kennel Boarding (Per Day)",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Noble’s Hunt Planning Consultation",
+			"price": 25,
+			"currency": "GP"
+		}
+	],
+	"quest": {
+		"name": "PLACEHOLDER",
+		"description": "PLACEHOLDER",
+		"reward": "PLACEHOLDER",
+		"completed": false
+	},
+	"isSelected": false
+}

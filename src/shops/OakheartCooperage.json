@@ -1,0 +1,134 @@
+{
+	"name": "Oakheart Cooperage",
+	"image": "/shops/OakheartCooperage.png",
+	"description": "PLACEHOLDER",
+	"attitude": "Neutral",
+	"discount": 0,
+	"tags": [],
+	"items": [
+		{
+			"name": "Small Barrel (holds 40 gallons)",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Medium Barrel (holds 60 gallons)",
+			"price": 4,
+			"currency": "GP"
+		},
+		{
+			"name": "Large Barrel (holds 80 gallons)",
+			"price": 6,
+			"currency": "GP"
+		},
+		{
+			"name": "Small Cask (holds 20 gallons)",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Medium Cask (holds 30 gallons)",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Large Cask (holds 40 gallons)",
+			"price": 3,
+			"currency": "GP"
+		},
+		{
+			"name": "Small Keg (holds 10 gallons)",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Medium Keg (holds 15 gallons)",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Large Keg (holds 20 gallons)",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Barrel Hoops (set of 10)",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Barrel Bungs (set of 5)",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Barrel Spigots (each)",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Basic Wooden Tankard",
+			"price": 5,
+			"currency": "CP"
+		},
+		{
+			"name": "Decorative Wooden Tankard",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Small Wooden Bucket",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Large Wooden Bucket",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Basic Wooden Mug",
+			"price": 2,
+			"currency": "CP"
+		},
+		{
+			"name": "Ornate Wooden Mug",
+			"price": 5,
+			"currency": "SP"
+		}
+	],
+	"services": [
+		{
+			"name": "Basic Barrel Repair",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Major Barrel Repair",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Small Custom Made Barrel",
+			"price": 3,
+			"currency": "GP"
+		},
+		{
+			"name": "Medium Custom Made Barrel",
+			"price": 6,
+			"currency": "GP"
+		},
+		{
+			"name": "Large Custom Made Barrel",
+			"price": 9,
+			"currency": "GP"
+		}
+	],
+	"quest": {
+		"name": "PLACEHOLDER",
+		"description": "PLACEHOLDER",
+		"reward": "PLACEHOLDER",
+		"completed": false
+	},
+	"isSelected": false
+}

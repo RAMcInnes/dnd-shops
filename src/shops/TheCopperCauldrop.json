@@ -1,0 +1,129 @@
+{
+	"name": "The Copper Cauldrop",
+	"image": "/shops/TheCopperCauldrop.png",
+	"description": "PLACEHOLDER",
+	"attitude": "Neutral",
+	"discount": 0,
+	"tags": [],
+	"items": [
+		{
+			"name": "Belt Buckle",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Bracelet (simple design)",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Candle Holder (set of two)",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Cauldron (medium-sized)",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Cookware Set (pot, pan, and kettle)",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Decorative Plate (for display)",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Door Knocker",
+			"price": 3,
+			"currency": "SP"
+		},
+		{
+			"name": "Hairpin or Hair Comb",
+			"price": 3,
+			"currency": "CP"
+		},
+		{
+			"name": "Incense Burner",
+			"price": 3,
+			"currency": "SP"
+		},
+		{
+			"name": "Inkwell and Quill Holder",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Jewelry Box",
+			"price": 8,
+			"currency": "SP"
+		},
+		{
+			"name": "Pendant (with a simple engraving)",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Picture Frame",
+			"price": 4,
+			"currency": "SP"
+		},
+		{
+			"name": "Pitcher (for serving drinks)",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Ring (plain band)",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Serving Tray",
+			"price": 3,
+			"currency": "SP"
+		},
+		{
+			"name": "Statuette or Figurine",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Tankard (for ale or mead)",
+			"price": 5,
+			"currency": "CP"
+		},
+		{
+			"name": "Utensil Set (forks, spoons, and knives)",
+			"price": 1,
+			"currency": "GP"
+		}
+	],
+	"services": [
+		{
+			"name": "Custom Copper Cookware Set",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Polishing and Cleaning of Copper Items",
+			"price": 5,
+			"currency": "CP"
+		},
+		{
+			"name": "Repair of Damaged Copper Items",
+			"price": 1,
+			"currency": "SP"
+		}
+	],
+	"quest": {
+		"name": "PLACEHOLDER",
+		"description": "PLACEHOLDER",
+		"reward": "PLACEHOLDER",
+		"completed": false
+	},
+	"isSelected": false
+}

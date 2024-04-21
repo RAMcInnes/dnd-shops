@@ -1,0 +1,99 @@
+{
+	"name": "Ironhoof Stables",
+	"image": "/shops/IronhoofStables.png",
+	"description": "PLACEHOLDER",
+	"attitude": "Neutral",
+	"discount": 0,
+	"tags": [],
+	"items": [
+		{
+			"name": "Bag of Oats",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Bale of Hay",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Bridle",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Feed (per day, per horse)",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Hoof Pick",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Horse Brush",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Horseshoes (set of 4)",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Lead Rope",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Saddle",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Stirrups",
+			"price": 2,
+			"currency": "GP"
+		}
+	],
+	"services": [
+		{
+			"name": "Breeding Services (per mating attempt)",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Farrier Services (hoof trimming, per horse)",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Grooming (per session, per horse)",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Stabling (per day, per horse)",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Tack Repair",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Training Session (basic obedience, per horse)",
+			"price": 5,
+			"currency": "GP"
+		}
+	],
+	"quest": {
+		"name": "PLACEHOLDER",
+		"description": "PLACEHOLDER",
+		"reward": "PLACEHOLDER",
+		"completed": false
+	},
+	"isSelected": false
+}

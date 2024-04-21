@@ -1,0 +1,119 @@
+{
+	"name": "Blade & Hide Skinsmiths",
+	"image": "/shops/Blade&HideSkinsmiths.png",
+	"description": "PLACEHOLDER",
+	"attitude": "Neutral",
+	"discount": 0,
+	"tags": [],
+	"items": [
+		{
+			"name": "Bottle of Leather Conditioner",
+			"price": 3,
+			"currency": "GP"
+		},
+		{
+			"name": "Bracers of Tanned Hide",
+			"price": 25,
+			"currency": "GP"
+		},
+		{
+			"name": "Leather Belt with Pouch",
+			"price": 7,
+			"currency": "GP"
+		},
+		{
+			"name": "Leather Boots",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Leather Gauntlets",
+			"price": 12,
+			"currency": "GP"
+		},
+		{
+			"name": "Leather Map Case",
+			"price": 6,
+			"currency": "GP"
+		},
+		{
+			"name": "Leather Quiver",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Leather strips (pack of 5)",
+			"price": 6,
+			"currency": "SP"
+		},
+		{
+			"name": "Leather-Bound Flask Holder",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Pouch of Tanning Agents",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Saddlebags for Mounts",
+			"price": 12,
+			"currency": "GP"
+		},
+		{
+			"name": "Sheath for Dagger or Short Sword",
+			"price": 8,
+			"currency": "GP"
+		},
+		{
+			"name": "Stylish Leather Hat",
+			"price": 3,
+			"currency": "GP"
+		},
+		{
+			"name": "Tanned Animal Hide (per square yard)",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Tanning Toolkit",
+			"price": 15,
+			"currency": "GP"
+		},
+		{
+			"name": "Traveler’s Cloak",
+			"price": 15,
+			"currency": "GP"
+		}
+	],
+	"services": [
+		{
+			"name": "Engraving or Tooling (per item)",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Hide Tanning Service",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Leather Dyeing Service",
+			"price": 53,
+			"currency": "SP"
+		},
+		{
+			"name": "Leather Repair and Alteration",
+			"price": 520,
+			"currency": "SP"
+		}
+	],
+	"quest": {
+		"name": "PLACEHOLDER",
+		"description": "PLACEHOLDER",
+		"reward": "PLACEHOLDER",
+		"completed": false
+	},
+	"isSelected": false
+}

@@ -1,0 +1,134 @@
+{
+	"name": "Scribe's Couriers",
+	"image": "/shops/Scribe'sCouriers.png",
+	"description": "PLACEHOLDER",
+	"attitude": "Neutral",
+	"discount": 0,
+	"tags": [],
+	"items": [
+		{
+			"name": "Ink Blotter (absorbent paper)",
+			"price": 1,
+			"currency": "CP"
+		},
+		{
+			"name": "Inkwell Refill",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Map Scroll (local area)",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Messenger Bag",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Parchment (per sheet)",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Parchment Scroll (longer length)",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Parchment Weight (brass or decorative)",
+			"price": 5,
+			"currency": "CP"
+		},
+		{
+			"name": "Personalized Wax Seal Stamp",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Quill and Ink Set",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Quill Holder (decorative)",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Seal Press (for wax seals)",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Sealing Wax (per stick)",
+			"price": 5,
+			"currency": "CP"
+		},
+		{
+			"name": "Specialty Ink (e.g., metallic or colored)",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Wax Seal Kit",
+			"price": 2,
+			"currency": "GP"
+		}
+	],
+	"services": [
+		{
+			"name": "Basic Scribe Work (per page)",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Delivery Confirmation Seal (proof of delivery)",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Express Delivery (within the town)",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Long-Distance Messenger Route (to a neighboring city)",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Official Document Transcription (per page)",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Rush Scribe Services (quick transcription)",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Town Crier Announcement",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Translation Services (per page)",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Urgent Message Priority Handling",
+			"price": 3,
+			"currency": "GP"
+		}
+	],
+	"quest": {
+		"name": "PLACEHOLDER",
+		"description": "PLACEHOLDER",
+		"reward": "PLACEHOLDER",
+		"completed": false
+	},
+	"isSelected": false
+}

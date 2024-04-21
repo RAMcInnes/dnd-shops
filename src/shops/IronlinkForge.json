@@ -1,0 +1,124 @@
+{
+	"name": "Ironlink Forge",
+	"image": "/shops/IronlinkForge.png",
+	"description": "PLACEHOLDER",
+	"attitude": "Neutral",
+	"discount": 0,
+	"tags": [],
+	"items": [
+		{
+			"name": "Anchor Chain",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Chain Links (for Repairs)",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Chain Shirt",
+			"price": 50,
+			"currency": "GP"
+		},
+		{
+			"name": "Chainmail Armor",
+			"price": 75,
+			"currency": "GP"
+		},
+		{
+			"name": "Chainmail Gloves",
+			"price": 15,
+			"currency": "GP"
+		},
+		{
+			"name": "Chainmail Polish",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Chainmail Repair Kit",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Conveyor Chain",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Decorative Chains",
+			"price": 110,
+			"currency": "GO"
+		},
+		{
+			"name": "Drainage Chain",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Drawbridge Chain",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Fencing Chain",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Lifting Chain",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Logging Chain",
+			"price": 3,
+			"currency": "GP"
+		},
+		{
+			"name": "Mining Chain",
+			"price": 4,
+			"currency": "GP"
+		},
+		{
+			"name": "Saw Chain",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Tethering Chain",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Traction Chain",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Winch Chain",
+			"price": 3,
+			"currency": "GP"
+		}
+	],
+	"services": [
+		{
+			"name": "Chainmail Repair Service",
+			"price": 2,
+			"currency": "GO"
+		},
+		{
+			"name": "Custom Chainmail Design Services",
+			"price": 25,
+			"currency": "GP"
+		}
+	],
+	"quest": {
+		"name": "PLACEHOLDER",
+		"description": "PLACEHOLDER",
+		"reward": "PLACEHOLDER",
+		"completed": false
+	},
+	"isSelected": false
+}

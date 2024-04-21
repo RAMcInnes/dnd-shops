@@ -1,0 +1,58 @@
+{
+	"name": "Mystic Moon Divinations",
+	"image": "/shops/MysticMoonDivinations.png",
+	"description": "PLACEHOLDER",
+	"attitude": "Neutral",
+	"discount": 0,
+	"tags": [],
+	"items": [],
+	"services": [
+		{
+			"name": "Astrology Chart Reading",
+			"price": 15,
+			"currency": "GP"
+		},
+		{
+			"name": "Aura Reading",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Crystal Ball Scrying Session",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Dream Interpretation",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Palmistry Reading",
+			"price": 3,
+			"currency": "GP"
+		},
+		{
+			"name": "Rune Casting Consultation",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Tarot Card Reading",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Tea Leaf Reading",
+			"price": 2,
+			"currency": "GP"
+		}
+	],
+	"quest": {
+		"name": "PLACEHOLDER",
+		"description": "PLACEHOLDER",
+		"reward": "PLACEHOLDER",
+		"completed": false
+	},
+	"isSelected": false
+}

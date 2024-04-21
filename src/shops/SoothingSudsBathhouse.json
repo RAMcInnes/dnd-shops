@@ -1,0 +1,104 @@
+{
+	"name": "Soothing Suds Bathhouse",
+	"image": "/shops/SoothingSudsBathhouse.png",
+	"description": "PLACEHOLDER",
+	"attitude": "Neutral",
+	"discount": 0,
+	"tags": [],
+	"items": [
+		{
+			"name": "Aromatic Oils (Small Vial)",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Bath Salts (Per Pouch)",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Essential Oil Blends (Per Bottle)",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Herbal Bath Sachet",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Linen Robe",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Scrubbing Brush",
+			"price": 5,
+			"currency": "CP"
+		},
+		{
+			"name": "Soap (Per Bar)",
+			"price": 2,
+			"currency": "CP"
+		},
+		{
+			"name": "Sponge",
+			"price": 2,
+			"currency": "CP"
+		},
+		{
+			"name": "Towel (Each)",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Wooden Bucket",
+			"price": 2,
+			"currency": "CP"
+		}
+	],
+	"services": [
+		{
+			"name": "Aromatherapy Session",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Basic Bathing Session (Includes Hot Water and Soap)",
+			"price": 5,
+			"currency": "CP"
+		},
+		{
+			"name": "Deluxe Bath Package (Includes Bath Soak, Aromatherapy, and Massage)",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Herbal Bath Soak",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Massage (15 minutes)",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Private Bathing Chamber",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Steam Room Access",
+			"price": 1,
+			"currency": "SP"
+		}
+	],
+	"quest": {
+		"name": "PLACEHOLDER",
+		"description": "PLACEHOLDER",
+		"reward": "PLACEHOLDER",
+		"completed": false
+	},
+	"isSelected": false
+}

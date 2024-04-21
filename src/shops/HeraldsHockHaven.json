@@ -1,0 +1,299 @@
+{
+	"name": "Herald's Hock Haven",
+	"image": "/shops/Herald'sHockHaven.png",
+	"description": "PLACEHOLDER",
+	"attitude": "Neutral",
+	"discount": 0,
+	"tags": [],
+	"items": [
+		{
+			"name": "Alchemical Fire Flask",
+			"price": 20,
+			"currency": "GP"
+		},
+		{
+			"name": "Amethyst Crystal",
+			"price": 25,
+			"currency": "GP"
+		},
+		{
+			"name": "Ancient Coin Collection",
+			"price": 30,
+			"currency": "GP"
+		},
+		{
+			"name": "Aromatic Incense Bundle",
+			"price": 8,
+			"currency": "SP"
+		},
+		{
+			"name": "Bronze Statuette",
+			"price": 15,
+			"currency": "GP"
+		},
+		{
+			"name": "Carved Wooden Box",
+			"price": 8,
+			"currency": "SP"
+		},
+		{
+			"name": "Chain Shirt",
+			"price": 50,
+			"currency": "GP"
+		},
+		{
+			"name": "Compass",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Dagger",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Drum",
+			"price": 15,
+			"currency": "GP"
+		},
+		{
+			"name": "Elaborate Tapestry",
+			"price": 30,
+			"currency": "GP"
+		},
+		{
+			"name": "Emerald Pendant",
+			"price": 35,
+			"currency": "GP"
+		},
+		{
+			"name": "Feather Quill Set",
+			"price": 9,
+			"currency": "SP"
+		},
+		{
+			"name": "Flute",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Gemstone Ring",
+			"price": 100,
+			"currency": "GP"
+		},
+		{
+			"name": "Gold Necklace",
+			"price": 50,
+			"currency": "GP"
+		},
+		{
+			"name": "Gold-Edged Hand Mirror",
+			"price": 15,
+			"currency": "GP"
+		},
+		{
+			"name": "Healing Salve (small jar)",
+			"price": 12,
+			"currency": "GP"
+		},
+		{
+			"name": "Herbal Tea Blend",
+			"price": 6,
+			"currency": "SP"
+		},
+		{
+			"name": "Intricately Carved Wooden Inkwell",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Jasper Figurine",
+			"price": 12,
+			"currency": "GP"
+		},
+		{
+			"name": "Leather Armor",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Leather-Bound Book",
+			"price": 15,
+			"currency": "GP"
+		},
+		{
+			"name": "Lock and Key Set",
+			"price": 8,
+			"currency": "SP"
+		},
+		{
+			"name": "Longsword",
+			"price": 15,
+			"currency": "GP"
+		},
+		{
+			"name": "Lute",
+			"price": 25,
+			"currency": "GP"
+		},
+		{
+			"name": "Map of Unknown Lands",
+			"price": 50,
+			"currency": "GP"
+		},
+		{
+			"name": "Mortar and Pestle",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Oddly Shaped Crystal",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Ornate Silver Spoon Set",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Ornate Standing Mirror",
+			"price": 30,
+			"currency": "GP"
+		},
+		{
+			"name": "Painted Portrait",
+			"price": 40,
+			"currency": "GP"
+		},
+		{
+			"name": "Petrified Animal Skull",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Rare Pepper Blend",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Relaxation Elixir",
+			"price": 18,
+			"currency": "GP"
+		},
+		{
+			"name": "Saffron Threads (small vial)",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Scented Oil Vial",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Sextant",
+			"price": 15,
+			"currency": "GP"
+		},
+		{
+			"name": "Shortbow",
+			"price": 25,
+			"currency": "GP"
+		},
+		{
+			"name": "Silk Robe",
+			"price": 20,
+			"currency": "GP"
+		},
+		{
+			"name": "Silver Bracelet",
+			"price": 25,
+			"currency": "GP"
+		},
+		{
+			"name": "Silver Goblet",
+			"price": 15,
+			"currency": "GP"
+		},
+		{
+			"name": "Silver Mirror",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Silver Serving Tray",
+			"price": 25,
+			"currency": "GP"
+		},
+		{
+			"name": "Silver-Framed Wall Mirror",
+			"price": 20,
+			"currency": "GP"
+		},
+		{
+			"name": "Spice Kit Assortment",
+			"price": 15,
+			"currency": "SP"
+		},
+		{
+			"name": "Vial of Rare Reagents",
+			"price": 30,
+			"currency": "GP"
+		},
+		{
+			"name": "Wooden Carving",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Wooden Shield",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Woolen Cloak",
+			"price": 5,
+			"currency": "GP"
+		}
+	],
+	"services": [
+		{
+			"name": "Authentication of Magical Items",
+			"price": 30,
+			"currency": "GP"
+		},
+		{
+			"name": "Basic Item Appraisal",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Complex Item Appraisal",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Detailed Artifact Appraisal",
+			"price": 3,
+			"currency": "GP"
+		},
+		{
+			"name": "Loan – One Month Term",
+			"price": 20,
+			"currency": "IN"
+		},
+		{
+			"name": "Loan Extension Fee – one week",
+			"price": 5,
+			"currency": "GP"
+		}
+	],
+	"quest": {
+		"name": "PLACEHOLDER",
+		"description": "PLACEHOLDER",
+		"reward": "PLACEHOLDER",
+		"completed": false
+	},
+	"isSelected": false
+}

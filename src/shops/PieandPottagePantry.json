@@ -1,0 +1,49 @@
+{
+	"name": "Pie and Pottage Pantry",
+	"image": "/shops/PieandPottagePantry.png",
+	"description": "PLACEHOLDER",
+	"attitude": "Neutral",
+	"discount": 0,
+	"tags": [],
+	"items": [
+		{
+			"name": "Miniature Pies",
+			"price": 5,
+			"currency": "CP"
+		},
+		{
+			"name": "Pie Slice",
+			"price": 2,
+			"currency": "CP"
+		},
+		{
+			"name": "Savory Pies",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Sweet Pies",
+			"price": 8,
+			"currency": "CP"
+		}
+	],
+	"services": [
+		{
+			"name": "Custom Pie Order (made to specific preferences)",
+			"price": 3,
+			"currency": "SP"
+		},
+		{
+			"name": "Custom Pie Order (made with customer-supplied ingredients)",
+			"price": 5,
+			"currency": "SP"
+		}
+	],
+	"quest": {
+		"name": "PLACEHOLDER",
+		"description": "PLACEHOLDER",
+		"reward": "PLACEHOLDER",
+		"completed": false
+	},
+	"isSelected": false
+}

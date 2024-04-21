@@ -1,0 +1,144 @@
+{
+	"name": "Camelot Creamery",
+	"image": "/shops/CamelotCreamery.png",
+	"description": "PLACEHOLDER",
+	"attitude": "Neutral",
+	"discount": 0,
+	"tags": [],
+	"items": [
+		{
+			"name": "Aged Parmesan wedge",
+			"price": 8,
+			"currency": "SP"
+		},
+		{
+			"name": "Block of Cheddar",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Blue Cheese Rounds",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Camembert Wheel",
+			"price": 3,
+			"currency": "SP"
+		},
+		{
+			"name": "Cheese Aging Rack",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Cheese Basket (for draining)",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Cheese Board (wooden)",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Cheese Cloth (per yard)",
+			"price": 5,
+			"currency": "CP"
+		},
+		{
+			"name": "Cheese Knife Set",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Cheese Press",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Cheese Sampler Basket",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Cheese Strainer",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Cheese Wax (per block)",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Curdling Enzyme Vial",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Feta in Brine",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Goat Cheese Log",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Mozzarella Balls (per dozen)",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Wedge of Common Cheese",
+			"price": 5,
+			"currency": "CP"
+		},
+		{
+			"name": "Wheel of Gouda",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Wooden Cheese Mold",
+			"price": 2,
+			"currency": "SP"
+		}
+	],
+	"services": [
+		{
+			"name": "Cheese Pairing Consultation",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Cheese Party Catering (per person)",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Cheese Tasting Experience (per person)",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Cheese Wheel Engraving (custom messages)",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Private Cheese-Making Workshop",
+			"price": 10,
+			"currency": "GP"
+		}
+	],
+	"quest": {
+		"name": "PLACEHOLDER",
+		"description": "PLACEHOLDER",
+		"reward": "PLACEHOLDER",
+		"completed": false
+	},
+	"isSelected": false
+}

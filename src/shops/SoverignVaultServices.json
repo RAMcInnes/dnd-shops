@@ -1,0 +1,78 @@
+{
+	"name": "Soverign Vault Services",
+	"image": "/shops/SoverignVaultServices.png",
+	"description": "PLACEHOLDER",
+	"attitude": "Neutral",
+	"discount": 0,
+	"tags": [],
+	"items": [],
+	"services": [
+		{
+			"name": "Short-term loans for personal or business needs.",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Merchant loans for trade ventures or business expansion.",
+			"price": 30200,
+			"currency": "GP"
+		},
+		{
+			"name": "Noble Loan for noble houses or major investments.",
+			"price": 500,
+			"currency": "GP"
+		},
+		{
+			"name": "Standard Currency Exchange",
+			"price": 1,
+			"currency": "FE"
+		},
+		{
+			"name": "Exotic Currency Exchange dealing with rare or foreign coins",
+			"price": 5,
+			"currency": "FE"
+		},
+		{
+			"name": "Small Safe Deposit Box for storing small valuables.",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Medium Safe Deposit Box for documents, jewelry, and smaller items.",
+			"price": 25,
+			"currency": "GP"
+		},
+		{
+			"name": "Large Safe Deposit Box offers secure storage for larger items or bulk valuables.",
+			"price": 50,
+			"currency": "GP"
+		},
+		{
+			"name": "Transaction Record - A detailed record of a specific financial transaction.",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Account Management",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Standard Letter of Credit - A letter of credit for a specified amount.",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Premium Letter of Credit - Enhanced letter with additional security features.",
+			"price": 10,
+			"currency": "GP"
+		}
+	],
+	"quest": {
+		"name": "PLACEHOLDER",
+		"description": "PLACEHOLDER",
+		"reward": "PLACEHOLDER",
+		"completed": false
+	},
+	"isSelected": false
+}

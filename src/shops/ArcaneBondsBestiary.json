@@ -1,0 +1,199 @@
+{
+	"name": "Arcane Bonds Bestiary",
+	"image": "/shops/ArcaneBondsBestiary.png",
+	"description": "PLACEHOLDER",
+	"attitude": "Neutral",
+	"discount": 0,
+	"tags": [],
+	"items": [
+		{
+			"name": "Basic Grooming Kit",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Collar with Engraved Tag",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Herb Pouch (for warding off pests)",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Leather Leash",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Pet Cage (Large)",
+			"price": 15,
+			"currency": "GP"
+		},
+		{
+			"name": "Pet Cage (Medium)",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Pet Cage (Small)",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Pet Toy (Interactive)",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Small Animal Bedding (Bundle)",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Wooden Perches (for birds)",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Common Cat or Dog",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Exotic Insect",
+			"price": 3,
+			"currency": "GP"
+		},
+		{
+			"name": "Frog or Toad",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Goldfish",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Guinea Pig or Rat",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Owl",
+			"price": 20,
+			"currency": "GP"
+		},
+		{
+			"name": "Rabbit or Ferret",
+			"price": 3,
+			"currency": "GP"
+		},
+		{
+			"name": "Songbird",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Sparrowhawk",
+			"price": 15,
+			"currency": "GP"
+		},
+		{
+			"name": "Turtle or Lizard",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Bat (Basic Familiar)",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Cat (Basic Familiar)",
+			"price": 8,
+			"currency": "GP"
+		},
+		{
+			"name": "Fey Creature (Uncommon Familiar)",
+			"price": 30,
+			"currency": "GP"
+		},
+		{
+			"name": "Hawk (Improved Familiar)",
+			"price": 20,
+			"currency": "GP"
+		},
+		{
+			"name": "Imp (Improved Familiar)",
+			"price": 50,
+			"currency": "GP"
+		},
+		{
+			"name": "Owl (Basic Familiar)",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Pseudodragon (Exotic Familiar)",
+			"price": 75,
+			"currency": "GP"
+		},
+		{
+			"name": "Quasit (Improved Familiar)",
+			"price": 40,
+			"currency": "GP"
+		},
+		{
+			"name": "Rat (Basic Familiar)",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Sprite (Exotic Familiar)",
+			"price": 60,
+			"currency": "GP"
+		}
+	],
+	"services": [
+		{
+			"name": "Animal Training (Basic Commands)",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Customized Herbal Remedy",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Grooming Service",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Herbal Healing Session",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Pet Boarding Service",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Specialized Training (Trick or Skill)",
+			"price": 10,
+			"currency": "GP"
+		}
+	],
+	"quest": {
+		"name": "PLACEHOLDER",
+		"description": "PLACEHOLDER",
+		"reward": "PLACEHOLDER",
+		"completed": false
+	},
+	"isSelected": false
+}

@@ -1,0 +1,124 @@
+{
+	"name": "The Crimson Cauldron",
+	"image": "/shops/TheCrimsonCauldron.png",
+	"description": "PLACEHOLDER",
+	"attitude": "Neutral",
+	"discount": 0,
+	"tags": [],
+	"items": [
+		{
+			"name": "Alum (basic mordant)",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Cochineal (crimson dye)",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Cream of Tartar (brightening agent)",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Drying Racks",
+			"price": 15,
+			"currency": "GP"
+		},
+		{
+			"name": "Dye pots (various sizes)",
+			"price": 210,
+			"currency": "GP"
+		},
+		{
+			"name": "Exotic Fabric (per yard)",
+			"price": 52,
+			"currency": "SP"
+		},
+		{
+			"name": "Indigo (blue dye)",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Iron Sulfate (saddening agent)",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Madder Root (red dye)",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Patterned Fabric (per yard)",
+			"price": 21,
+			"currency": "SP"
+		},
+		{
+			"name": "Plain Fabric (per yard)",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Stirring Sticks",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Straining Cloth",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Tannin (softening agent)",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Weld (yellow dye)",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Woad (blue dye)",
+			"price": 5,
+			"currency": "SP"
+		}
+	],
+	"services": [
+		{
+			"name": "Color consultation (advice on color combinations and dye choices)",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Complex dye job (multiple colors, patterns, or effects)",
+			"price": 15,
+			"currency": "GP"
+		},
+		{
+			"name": "Custom dye job (specific colors or designs)",
+			"price": 510,
+			"currency": "GP"
+		},
+		{
+			"name": "Design consultation (assistance with creating custom dye patterns)",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Simple dye job (one color)",
+			"price": 5,
+			"currency": "SP"
+		}
+	],
+	"quest": {
+		"name": "PLACEHOLDER",
+		"description": "PLACEHOLDER",
+		"reward": "PLACEHOLDER",
+		"completed": false
+	},
+	"isSelected": false
+}

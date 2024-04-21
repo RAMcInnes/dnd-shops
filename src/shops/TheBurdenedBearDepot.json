@@ -1,0 +1,99 @@
+{
+	"name": "The Burdened Bear Depot",
+	"image": "/shops/TheBurdenedBearDepot.png",
+	"description": "PLACEHOLDER",
+	"attitude": "Neutral",
+	"discount": 0,
+	"tags": [],
+	"items": [
+		{
+			"name": "Barrel of Ale (30 gallons)",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Bundle of Cloth (10 yards)",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Bundle of Firewood (1 day’s worth)",
+			"price": 1,
+			"currency": "CP"
+		},
+		{
+			"name": "Bundle of Herbs (medicinal, 1 ounce each)",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Crate of Potatoes (50 pounds)",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Leather Straps (set of 5)",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Oil Lamp",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Sack of Wheat (50 pounds)",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Spices (assorted, 1 ounce each)",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Wooden Crate (empty)",
+			"price": 1,
+			"currency": "SP"
+		}
+	],
+	"services": [
+		{
+			"name": "Custom Crate Construction",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Delivery Service (within town limits)",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Goods Storage (per week)",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Porter Hire (per day)",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Repair of Leather Straps (per set)",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Weighing and Measuring Service",
+			"price": 1,
+			"currency": "CP"
+		}
+	],
+	"quest": {
+		"name": "PLACEHOLDER",
+		"description": "PLACEHOLDER",
+		"reward": "PLACEHOLDER",
+		"completed": false
+	},
+	"isSelected": false
+}

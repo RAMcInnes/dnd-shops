@@ -1,0 +1,134 @@
+{
+	"name": "Hemp Haven",
+	"image": "/shops/HempHaven.png",
+	"description": "PLACEHOLDER",
+	"attitude": "Neutral",
+	"discount": 0,
+	"tags": [],
+	"items": [
+		{
+			"name": "10 feet of bast rope",
+			"price": 5,
+			"currency": "CP"
+		},
+		{
+			"name": "10 feet of hide rope",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "10 feet of horsehair rope",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "10 feet of wool rope",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "50 feet of hemp rope",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "50 feet of hempen rope (enhanced quality)",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "50 feet of hempen rope (stronger and thicker)",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "50 feet of silk rope",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "50 feet of thick cordage",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "50 feet of thin cordage",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Bundle of twine (10 feet)",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Cargo net (20-foot square)",
+			"price": 8,
+			"currency": "GP"
+		},
+		{
+			"name": "Climbing gear (includes rope, pitons, and harness)",
+			"price": 50,
+			"currency": "GP"
+		},
+		{
+			"name": "Fishing net (10-foot square)",
+			"price": 4,
+			"currency": "GP"
+		},
+		{
+			"name": "Lasso",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Rope ladder (20-foot length)",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Ship’s rigging (custom length)",
+			"price": 510,
+			"currency": "GP"
+		},
+		{
+			"name": "Tether (10-foot length with loop)",
+			"price": 5,
+			"currency": "SP"
+		}
+	],
+	"services": [
+		{
+			"name": "Custom Rope Braiding (per foot)",
+			"price": 2,
+			"currency": "CP"
+		},
+		{
+			"name": "Custom Rope Cutting (per foot)",
+			"price": 1,
+			"currency": "CP"
+		},
+		{
+			"name": "Rope Dying",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Rope Splicing and Repair (per splice)",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Rope Strength Testing (per rope)",
+			"price": 5,
+			"currency": "SP"
+		}
+	],
+	"quest": {
+		"name": "PLACEHOLDER",
+		"description": "PLACEHOLDER",
+		"reward": "PLACEHOLDER",
+		"completed": false
+	},
+	"isSelected": false
+}

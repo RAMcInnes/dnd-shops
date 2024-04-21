@@ -1,0 +1,44 @@
+{
+	"name": "Bog's Bounty",
+	"image": "/shops/Bog'sBounty.png",
+	"description": "PLACEHOLDER",
+	"attitude": "Neutral",
+	"discount": 0,
+	"tags": [],
+	"items": [
+		{
+			"name": "Bag of Loose Peat (5 pounds)",
+			"price": 5,
+			"currency": "CP"
+		},
+		{
+			"name": "Peat Bricks (Bundle of 10)",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Peat-Infused Soap",
+			"price": 3,
+			"currency": "CP"
+		}
+	],
+	"services": [
+		{
+			"name": "Custom Peat Blending",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Peat Bricks Delivery (Local)",
+			"price": 52,
+			"currency": "SP"
+		}
+	],
+	"quest": {
+		"name": "PLACEHOLDER",
+		"description": "PLACEHOLDER",
+		"reward": "PLACEHOLDER",
+		"completed": false
+	},
+	"isSelected": false
+}

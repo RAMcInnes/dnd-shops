@@ -1,0 +1,113 @@
+{
+	"name": "Timbercraft Workshop",
+	"image": "/shops/TimbercraftWorkshop.png",
+	"description": "PLACEHOLDER",
+	"attitude": "Neutral",
+	"discount": 0,
+	"tags": [],
+	"items": [
+		{
+			"name": "Barrel",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Bedframe",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Bench",
+			"price": 3,
+			"currency": "GP"
+		},
+		{
+			"name": "Birdhouse",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Bookshelf",
+			"price": 7,
+			"currency": "GP"
+		},
+		{
+			"name": "Cabinet or Cupboard",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Chair",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Chest of Drawers",
+			"price": 8,
+			"currency": "GP"
+		},
+		{
+			"name": "Chest",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Picture Frame",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Plank (per foot)",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Shield",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Signboard",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Simple Wooden Door",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Stool",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Table",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Tool Chest",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Trough",
+			"price": 3,
+			"currency": "GP"
+		},
+		{
+			"name": "Window Shutters (per pair)",
+			"price": 2,
+			"currency": "GP"
+		}
+	],
+	"services": [],
+	"quest": {
+		"name": "PLACEHOLDER",
+		"description": "PLACEHOLDER",
+		"reward": "PLACEHOLDER",
+		"completed": false
+	},
+	"isSelected": false
+}

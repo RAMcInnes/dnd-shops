@@ -1,0 +1,124 @@
+{
+	"name": "Dragonfire Glassworks",
+	"image": "/shops/DragonfireGlassworks.png",
+	"description": "PLACEHOLDER",
+	"attitude": "Neutral",
+	"discount": 0,
+	"tags": [],
+	"items": [
+		{
+			"name": "Candle Holders",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Drinking Glass Set",
+			"price": 3,
+			"currency": "SP"
+		},
+		{
+			"name": "Glass Beads",
+			"price": 1,
+			"currency": "CP"
+		},
+		{
+			"name": "Glass Buttons",
+			"price": 5,
+			"currency": "CP"
+		},
+		{
+			"name": "Glass Chess Set",
+			"price": 20,
+			"currency": "GP"
+		},
+		{
+			"name": "Glass Figurines",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Glass Flask",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Glass Napkin Rings",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Glass Prism",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Glass Quill and Ink Set",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Glass Storage Jars",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Mirrored Compact",
+			"price": 15,
+			"currency": "GP"
+		},
+		{
+			"name": "Molten Glass Sculpture",
+			"price": 1075,
+			"currency": "GP"
+		},
+		{
+			"name": "Oil Lamp",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Ornamental Glass Egg",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Perfume Bottle",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Stained Glass Sun Catcher",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Wine Decanter",
+			"price": 15,
+			"currency": "GP"
+		}
+	],
+	"services": [
+		{
+			"name": "Custom Glassware Commission",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Glass Repair Services",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Stained Glass Window Design",
+			"price": 50,
+			"currency": "GP"
+		}
+	],
+	"quest": {
+		"name": "PLACEHOLDER",
+		"description": "PLACEHOLDER",
+		"reward": "PLACEHOLDER",
+		"completed": false
+	},
+	"isSelected": false
+}

@@ -1,0 +1,129 @@
+{
+	"name": "The Honeyed Hive",
+	"image": "/shops/TheHoneyedHive.png",
+	"description": "PLACEHOLDER",
+	"attitude": "Neutral",
+	"discount": 0,
+	"tags": [],
+	"items": [
+		{
+			"name": "Bee Pollen (small pouch)",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Beekeeping Book (basic guide)",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Beeswax (1 pound)",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Beeswax Candles (pair)",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Beeswax Lip Balm",
+			"price": 5,
+			"currency": "CP"
+		},
+		{
+			"name": "Beeswax Polish (for furniture and leather)",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Beeswax Soap (bar)",
+			"price": 3,
+			"currency": "CP"
+		},
+		{
+			"name": "Beeswax Thread (small bundle)",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Beeswax Wraps (for food preservation)",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Honey (1 pound)",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Honey-glazed Nuts (bag)",
+			"price": 5,
+			"currency": "CP"
+		},
+		{
+			"name": "Propolis Tincture (small bottle)",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Raw Honeycomb",
+			"price": 2,
+			"currency": "SP"
+		}
+	],
+	"services": [
+		{
+			"name": "Royal Jelly (small vial)",
+			"price": 10,
+			"currency": "SP"
+		},
+		{
+			"name": "Bee Removal",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Beehive Installation",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Beehive Rental (seasonal)",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Beekeeping Lesson (basic)",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Custom Hive Design",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Hive Inspection",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Honey Extraction (per pound)",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Pollination Services (per acre)",
+			"price": 1,
+			"currency": "GP"
+		}
+	],
+	"quest": {
+		"name": "PLACEHOLDER",
+		"description": "PLACEHOLDER",
+		"reward": "PLACEHOLDER",
+		"completed": false
+	},
+	"isSelected": false
+}

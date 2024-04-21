@@ -1,0 +1,164 @@
+{
+	"name": "Shield and Stirrup Smithy",
+	"image": "/shops/ShieldandStirrupSmithy.png",
+	"description": "PLACEHOLDER",
+	"attitude": "Neutral",
+	"discount": 0,
+	"tags": [],
+	"items": [
+		{
+			"name": "Decorative Spurs (with intricate patterns)",
+			"price": 3,
+			"currency": "GP"
+		},
+		{
+			"name": "Embossed Buckle",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Engraved Bit (with personalized design)",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Gilded Buckle (with gold accents)",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Iron Horseshoes (set of four)",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Iron Stirrups",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Nobleman’s Embossed Harness (with silver fittings)",
+			"price": 20,
+			"currency": "GP"
+		},
+		{
+			"name": "Nobleman’s Spurs (crafted with precious metals)",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Ornate Bit",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Plain Buckle",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Reinforced Leather Harness",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Saddle Blanket",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Saddle Cover (embroidered with intricate designs)",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Saddlebags",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Silver Horseshoes (set of four, decorative)",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Silver-Plated Stirrups",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Simple Bit",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Simple Leather Harness",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Standard Spurs",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Steel Horseshoes (set of four)",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Steel Stirrups",
+			"price": 5,
+			"currency": "GP"
+		}
+	],
+	"services": [
+		{
+			"name": "Bit Repair",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Engraving (per item)",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Fitting Consultation",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Heraldic Crest (engraved on horse equipment)",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Horseshoe Replacement (per shoe)",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Measurement Services (for custom fittings)",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Personalized Design (bit, spur, or buckle)",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Stirrup Repair",
+			"price": 1,
+			"currency": "SP"
+		}
+	],
+	"quest": {
+		"name": "PLACEHOLDER",
+		"description": "PLACEHOLDER",
+		"reward": "PLACEHOLDER",
+		"completed": false
+	},
+	"isSelected": false
+}

@@ -1,0 +1,144 @@
+{
+	"name": "Purity Pails Laundry",
+	"image": "/shops/PurityPailsLaundry.png",
+	"description": "PLACEHOLDER",
+	"attitude": "Neutral",
+	"discount": 0,
+	"tags": [],
+	"items": [
+		{
+			"name": "Bar of Soap",
+			"price": 2,
+			"currency": "CP"
+		},
+		{
+			"name": "Bundle of Lavender",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Cedarwood Laundry Chest",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Clothespins (set of 10)",
+			"price": 5,
+			"currency": "CP"
+		},
+		{
+			"name": "Darned Linen Shirt",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Enamel Wash Basin",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Fine Linen Tablecloth",
+			"price": 3,
+			"currency": "GP"
+		},
+		{
+			"name": "Flat Iron",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Handkerchief",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Hand-Knit Woolen Socks",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Handmade Linen Apron",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Herb-Infused Laundry Sachet",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Iron Laundry Rings (set of 6)",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Linen Towel",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Mending Needle Set (assorted sizes)",
+			"price": 5,
+			"currency": "CP"
+		},
+		{
+			"name": "Small Wooden Washboard",
+			"price": 5,
+			"currency": "CP"
+		},
+		{
+			"name": "Sturdy Laundry Basket",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Travel-Size Folding Clothesline",
+			"price": 5,
+			"currency": "CP"
+		},
+		{
+			"name": "Travel-Size Stain Remover Potion (single use)",
+			"price": 1,
+			"currency": "GP"
+		}
+	],
+	"services": [
+		{
+			"name": "Basic Laundry Service (per load)",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Custom Scented Laundry Service (choose from lavender, chamomile, or rose)",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Linen Folding and Packing Service (for travel)",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Linen Mending and Patching Service",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Pressing and Ironing Service (per garment)",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Stain Removal Service (per garment)",
+			"price": 2,
+			"currency": "SP"
+		}
+	],
+	"quest": {
+		"name": "PLACEHOLDER",
+		"description": "PLACEHOLDER",
+		"reward": "PLACEHOLDER",
+		"completed": false
+	},
+	"isSelected": false
+}

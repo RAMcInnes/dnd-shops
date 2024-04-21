@@ -1,0 +1,89 @@
+{
+	"name": "Knots & Nets Meshworks",
+	"image": "/shops/Knots&NetsMeshworks.png",
+	"description": "PLACEHOLDER",
+	"attitude": "Neutral",
+	"discount": 0,
+	"tags": [],
+	"items": [
+		{
+			"name": "Bundle of Hemp Twine",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Cargo Net (15 feet by 15 feet)",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Colored Dyes (Assorted)",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Decorative Net (large)",
+			"price": 15,
+			"currency": "GP"
+		},
+		{
+			"name": "Decorative Net (small)",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Fishing Net (10 feet by 10 feet)",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Hammock",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Hunting Net (6 feet by 6 feet)",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Net Repair Kit",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Netting Tools Set",
+			"price": 3,
+			"currency": "GP"
+		},
+		{
+			"name": "Portable Fishing Kit",
+			"price": 3,
+			"currency": "GP"
+		},
+		{
+			"name": "Spool of Fine Silk Thread",
+			"price": 5,
+			"currency": "GP"
+		}
+	],
+	"services": [
+		{
+			"name": "Custom Net Crafting",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Net Repair Service",
+			"price": 12,
+			"currency": "SP"
+		}
+	],
+	"quest": {
+		"name": "PLACEHOLDER",
+		"description": "PLACEHOLDER",
+		"reward": "PLACEHOLDER",
+		"completed": false
+	},
+	"isSelected": false
+}

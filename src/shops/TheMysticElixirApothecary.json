@@ -1,16 +1,10 @@
 {
 	"name": "The Mystic Elixir Apothecary",
 	"image": "/shops/TheMysticElixirApothecary.png",
-	"description": "The Mystic Elixir Apothecary DESCRIPTION",
+	"description": "PLACEHOLDER",
 	"attitude": "Neutral",
 	"discount": 0,
-	"tags": [
-		"Transmuters",
-    "Hermecists",
-    "Spagyrics",
-    "Chymists",
-    "Magi"
-	],
+	"tags": [],
 	"items": [
 		{
 			"name": "Alchemy Scale (each)",
@@ -251,7 +245,7 @@
 		}
 	],
 	"quest": {
-		"name": "The Alchemist’s Grove",
+		"name": "PLACEHOLDER",
 		"description": "PLACEHOLDER",
 		"reward": "PLACEHOLDER",
 		"completed": false

@@ -1,0 +1,129 @@
+{
+	"name": "Jester's Jolly Toy Workshop",
+	"image": "/shops/Jester'sJollyToyWorkshop.png",
+	"description": "PLACEHOLDER",
+	"attitude": "Neutral",
+	"discount": 0,
+	"tags": [],
+	"items": [
+		{
+			"name": "Hand Puppet",
+			"price": 4,
+			"currency": "SP"
+		},
+		{
+			"name": "Jumping Jack Puppet",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Kaleidoscope",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Kite",
+			"price": 3,
+			"currency": "SP"
+		},
+		{
+			"name": "Marionette Puppet",
+			"price": 8,
+			"currency": "SP"
+		},
+		{
+			"name": "Miniature Animal Figures",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Miniature Castle",
+			"price": 10,
+			"currency": "SP"
+		},
+		{
+			"name": "Musical Instrument Toys",
+			"price": 3,
+			"currency": "SP"
+		},
+		{
+			"name": "Paper Dolls",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Stuffed Animal",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Tin Soldier Set",
+			"price": 6,
+			"currency": "SP"
+		},
+		{
+			"name": "Toy Carriage",
+			"price": 4,
+			"currency": "SP"
+		},
+		{
+			"name": "Toy Top",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Whirligig",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Wooden Building Blocks",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Wooden Doll",
+			"price": 3,
+			"currency": "SP"
+		},
+		{
+			"name": "Wooden Puzzle",
+			"price": 3,
+			"currency": "SP"
+		},
+		{
+			"name": "Wooden Toy Sword",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Wooden Train Set",
+			"price": 8,
+			"currency": "SP"
+		}
+	],
+	"services": [
+		{
+			"name": "Custom Painting",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Custom Toy",
+			"price": 0,
+			"currency": "PR"
+		},
+		{
+			"name": "Toy Repair",
+			"price": 13,
+			"currency": "SP"
+		}
+	],
+	"quest": {
+		"name": "PLACEHOLDER",
+		"description": "PLACEHOLDER",
+		"reward": "PLACEHOLDER",
+		"completed": false
+	},
+	"isSelected": false
+}

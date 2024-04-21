@@ -1,0 +1,109 @@
+{
+	"name": "Chordcraft Studios",
+	"image": "/shops/ChordcraftStudios.png",
+	"description": "PLACEHOLDER",
+	"attitude": "Neutral",
+	"discount": 0,
+	"tags": [],
+	"items": [
+		{
+			"name": "Bow",
+			"price": 15,
+			"currency": "GP"
+		},
+		{
+			"name": "Bridge",
+			"price": 0,
+			"currency": "PR"
+		},
+		{
+			"name": "Cello",
+			"price": 1050,
+			"currency": "GP"
+		},
+		{
+			"name": "Fretboard/Fingerboard",
+			"price": 210,
+			"currency": "GP"
+		},
+		{
+			"name": "Guitar",
+			"price": 530,
+			"currency": "GP"
+		},
+		{
+			"name": "Instrument Case",
+			"price": 220,
+			"currency": "GP"
+		},
+		{
+			"name": "Lute",
+			"price": 530,
+			"currency": "GP"
+		},
+		{
+			"name": "Mandolin",
+			"price": 550,
+			"currency": "GP"
+		},
+		{
+			"name": "Rosin",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Strings",
+			"price": 15,
+			"currency": "SP"
+		},
+		{
+			"name": "Tuning Pegs",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Viola",
+			"price": 1050,
+			"currency": "GP"
+		},
+		{
+			"name": "Violin",
+			"price": 1050,
+			"currency": "GP"
+		}
+	],
+	"services": [
+		{
+			"name": "Custom Instrument Crafting",
+			"price": 50,
+			"currency": "GP"
+		},
+		{
+			"name": "Instrument Appraisal",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Instrument Maintenance",
+			"price": 15,
+			"currency": "GP"
+		},
+		{
+			"name": "Instrument Repair",
+			"price": 120,
+			"currency": "GP"
+		},
+		{
+			"name": "Playing Lessons",
+			"price": 1,
+			"currency": "GP"
+		}
+	],
+	"quest": {
+		"name": "PLACEHOLDER",
+		"description": "PLACEHOLDER",
+		"reward": "PLACEHOLDER",
+		"completed": false
+	},
+	"isSelected": false
+}

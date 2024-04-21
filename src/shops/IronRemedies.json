@@ -1,0 +1,84 @@
+{
+	"name": "Iron Remedies",
+	"image": "/shops/IronRemedies.png",
+	"description": "PLACEHOLDER",
+	"attitude": "Neutral",
+	"discount": 0,
+	"tags": [],
+	"items": [
+		{
+			"name": "Brewer’s Kettle",
+			"price": 7,
+			"currency": "GP"
+		},
+		{
+			"name": "Cauldron with Lid",
+			"price": 8,
+			"currency": "GP"
+		},
+		{
+			"name": "Deep-Fry Pan",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Griddle Plate",
+			"price": 3,
+			"currency": "GP"
+		},
+		{
+			"name": "Metal Trinkets",
+			"price": 11,
+			"currency": "SP"
+		},
+		{
+			"name": "Oven Roasting Pan",
+			"price": 6,
+			"currency": "GP"
+		},
+		{
+			"name": "Saucepan Set",
+			"price": 4,
+			"currency": "GP"
+		},
+		{
+			"name": "Traveler’s Mess Pan",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Wok",
+			"price": 1,
+			"currency": "GP"
+		}
+	],
+	"services": [
+		{
+			"name": "Basic Pot Repair",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Metal Jewelry Repair",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Metalworking Consultation",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Premium Pot Repair",
+			"price": 1,
+			"currency": "GP"
+		}
+	],
+	"quest": {
+		"name": "PLACEHOLDER",
+		"description": "PLACEHOLDER",
+		"reward": "PLACEHOLDER",
+		"completed": false
+	},
+	"isSelected": false
+}

@@ -1,0 +1,209 @@
+{
+	"name": "Fruits of the Realm",
+	"image": "/shops/FruitsoftheRealm.png",
+	"description": "PLACEHOLDER",
+	"attitude": "Neutral",
+	"discount": 0,
+	"tags": [],
+	"items": [
+		{
+			"name": "Apples - Common (per pound)",
+			"price": 2,
+			"currency": "CP"
+		},
+		{
+			"name": "Apples - Exotic (per pound)",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Oranges - Common (per pound)",
+			"price": 3,
+			"currency": "CP"
+		},
+		{
+			"name": "Oranges - Exotic (per pound)",
+			"price": 7,
+			"currency": "SP"
+		},
+		{
+			"name": "Grapes - Common (per bunch)",
+			"price": 5,
+			"currency": "CP"
+		},
+		{
+			"name": "Grapes - Exotic (per bunch)",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Bananas- Common (per bunch)",
+			"price": 6,
+			"currency": "CP"
+		},
+		{
+			"name": "Bananas- Exotic (per bunch)",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Pears - Common (per pound)",
+			"price": 4,
+			"currency": "CP"
+		},
+		{
+			"name": "Pears - Exotic (per pound)",
+			"price": 6,
+			"currency": "SP"
+		},
+		{
+			"name": "Berries - Common (per pint)",
+			"price": 3,
+			"currency": "CP"
+		},
+		{
+			"name": "Berries - Exotic (per pint)",
+			"price": 8,
+			"currency": "SP"
+		},
+		{
+			"name": "Melons - Common (each)",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Melons - Exotic (each)",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Fruit Basket - Small (suitable for 2-3 people)",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Fruit Basket - Medium (suitable for 4-6 people)",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Fruit Basket - Large (suitable for 6-8 people)",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Preserves - Small Jar",
+			"price": 11,
+			"currency": "SP"
+		},
+		{
+			"name": "Preserves - Medium Jar",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Preserves - Large Jar",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Fruit Salad - Small Bowl",
+			"price": 3,
+			"currency": "CP"
+		},
+		{
+			"name": "Fruit Salad - Medium Bowl",
+			"price": 6,
+			"currency": "CP"
+		},
+		{
+			"name": "Fruit Salad - Large Bowl",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Fruit Juice - Small Cup",
+			"price": 2,
+			"currency": "CP"
+		},
+		{
+			"name": "Fruit Juice - Medium Cup",
+			"price": 4,
+			"currency": "CP"
+		},
+		{
+			"name": "Fruit Juice - Large Cup",
+			"price": 8,
+			"currency": "CP"
+		},
+		{
+			"name": "Fruit Pie - Small (single serving)",
+			"price": 5,
+			"currency": "CP"
+		},
+		{
+			"name": "Fruit Pie - Medium (serves 2-3)",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Fruit Pie - Large (serves 4-6)",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Dried Fruit - Small Pouch",
+			"price": 2,
+			"currency": "CP"
+		},
+		{
+			"name": "Dried Fruit - Medium Pouch",
+			"price": 4,
+			"currency": "CP"
+		},
+		{
+			"name": "Dried Fruit - Large Pouch",
+			"price": 6,
+			"currency": "CP"
+		}
+	],
+	"services": [
+		{
+			"name": "Fruit Carving - Simple Design",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Fruit Carving - Intricate Design",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Fruit Basket - Simple",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Fruit Basket - Intricate",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Fruit Themed Party Catering - Simple",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Fruit Themed Party Catering - Intricate",
+			"price": 4,
+			"currency": "GP"
+		}
+	],
+	"quest": {
+		"name": "PLACEHOLDER",
+		"description": "PLACEHOLDER",
+		"reward": "PLACEHOLDER",
+		"completed": false
+	},
+	"isSelected": false
+}

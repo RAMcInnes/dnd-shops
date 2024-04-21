@@ -1,0 +1,94 @@
+{
+	"name": "Loom & Latch Buttonry",
+	"image": "/shops/Loom&LatchButtonry.png",
+	"description": "PLACEHOLDER",
+	"attitude": "Neutral",
+	"discount": 0,
+	"tags": [],
+	"items": [
+		{
+			"name": "Basic Button Sewing Kit",
+			"price": 5,
+			"currency": "CO"
+		},
+		{
+			"name": "Bone, Wood, or Horn Buttons (Set of 10)",
+			"price": 5,
+			"currency": "CP"
+		},
+		{
+			"name": "Brass or Pewter Buttons (Set of 10)",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Carved Stone Button Jar",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Custom-Made Buttons (Per Button)",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Decorative Button Hook with Intricate Designs",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Deluxe Button Sewing Kit with Assorted Buttons",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Fancy Buttons with Intricate Designs (Set of 10)",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Gold or Silver Buttons (Set of 10)",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Polishing Kit (Includes Polishing Stones and Cloth)",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Simple Button Hook",
+			"price": 2,
+			"currency": "CO"
+		},
+		{
+			"name": "Standard Buttons (Set of 10)",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Wooden Button Box (Small)",
+			"price": 2,
+			"currency": "SP"
+		}
+	],
+	"services": [
+		{
+			"name": "Custom-Made Buttons (Per Button)",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Garment Mending and Alterations",
+			"price": 1,
+			"currency": "SP"
+		}
+	],
+	"quest": {
+		"name": "PLACEHOLDER",
+		"description": "PLACEHOLDER",
+		"reward": "PLACEHOLDER",
+		"completed": false
+	},
+	"isSelected": false
+}

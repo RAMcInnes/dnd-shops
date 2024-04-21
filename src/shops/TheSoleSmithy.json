@@ -1,0 +1,184 @@
+{
+	"name": "The Sole Smithy",
+	"image": "/shops/TheSoleSmithy.png",
+	"description": "PLACEHOLDER",
+	"attitude": "Neutral",
+	"discount": 0,
+	"tags": [],
+	"items": [
+		{
+			"name": "Beeswax (for waterproofing)",
+			"price": 5,
+			"currency": "CP"
+		},
+		{
+			"name": "Boots",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Common Shoes",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Dancing Shoes (with reinforced soles)",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Fine Shoes",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Heel Grips",
+			"price": 2,
+			"currency": "CP"
+		},
+		{
+			"name": "Leather Belt",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Leather Gloves",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Leather Pouch",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Leather Wallet",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Neatsfoot Oil (for conditioning leather)",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Riding Boots",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Saddle Soap (for cleaning leather)",
+			"price": 2,
+			"currency": "CP"
+		},
+		{
+			"name": "Shoe Brush",
+			"price": 2,
+			"currency": "CP"
+		},
+		{
+			"name": "Shoe Horn",
+			"price": 1,
+			"currency": "CP"
+		},
+		{
+			"name": "Shoe Inserts",
+			"price": 3,
+			"currency": "CP"
+		},
+		{
+			"name": "Shoe Laces",
+			"price": 1,
+			"currency": "CP"
+		},
+		{
+			"name": "Shoe Polish",
+			"price": 1,
+			"currency": "CP"
+		},
+		{
+			"name": "Shoe Trees",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Steel-Toed Boots",
+			"price": 3,
+			"currency": "GP"
+		},
+		{
+			"name": "Traveler’s Boots (waterproofed)",
+			"price": 7,
+			"currency": "GP"
+		}
+	],
+	"services": [
+		{
+			"name": "Adding Buckles/Straps",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Consultation",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Decorative Stitching",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Embossing/Tooling",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Fitting Service",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Foot Measurement",
+			"price": 0,
+			"currency": "FR"
+		},
+		{
+			"name": "Patchwork",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Professional Shoe Cleaning",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Resoling",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Shoe Shining Service",
+			"price": 2,
+			"currency": "CP"
+		},
+		{
+			"name": "Stitching Repairs",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Waterproofing Treatment",
+			"price": 2,
+			"currency": "SP"
+		}
+	],
+	"quest": {
+		"name": "PLACEHOLDER",
+		"description": "PLACEHOLDER",
+		"reward": "PLACEHOLDER",
+		"completed": false
+	},
+	"isSelected": false
+}

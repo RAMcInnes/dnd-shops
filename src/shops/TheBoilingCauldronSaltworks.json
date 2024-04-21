@@ -1,0 +1,154 @@
+{
+	"name": "The Boiling Cauldron Saltworks",
+	"image": "/shops/TheBoilingCauldronSaltworks.png",
+	"description": "PLACEHOLDER",
+	"attitude": "Neutral",
+	"discount": 0,
+	"tags": [],
+	"items": [
+		{
+			"name": "Brine Barrel (10 gallons)",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Brine Stirrer",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Common Brine (1 gallon)",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Common Salt (1 lb)",
+			"price": 5,
+			"currency": "CP"
+		},
+		{
+			"name": "Epsom Salt (1 lb)",
+			"price": 3,
+			"currency": "SP"
+		},
+		{
+			"name": "Fine Salt (1 lb)",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Gourmet Salt (1 lb)",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Pickled Vegetables (1 lb)",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Preserved Vegetables (1 lb)",
+			"price": 5,
+			"currency": "CP"
+		},
+		{
+			"name": "Rock Salt (1 lb)",
+			"price": 3,
+			"currency": "SP"
+		},
+		{
+			"name": "Salt Barrel",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Salt Grinder",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Salt Tablet (antidote)",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Salted Beef (1 lb)",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Salted Caramel Candies (1 lb)",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Salted Fish (1 lb)",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Salted Nuts (1 lb)",
+			"price": 5,
+			"currency": "CP"
+		},
+		{
+			"name": "Salted Pork (1 lb)",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Salted Pretzels (1 lb)",
+			"price": 5,
+			"currency": "CP"
+		},
+		{
+			"name": "Salted Venison (1 lb)",
+			"price": 3,
+			"currency": "SP"
+		},
+		{
+			"name": "Saltpeter (1 lb)",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Saltwater Elixir (healing)",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Sea Salt (1 lb)",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Sodium Chloride (1 lb)",
+			"price": 5,
+			"currency": "CP"
+		},
+		{
+			"name": "Specialized Brine (1 gallon)",
+			"price": 5,
+			"currency": "SP"
+		}
+	],
+	"services": [
+		{
+			"name": "Brine Boiling Service (per gallon)",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Salt Crystal Harvesting Service (per lb)",
+			"price": 5,
+			"currency": "CP"
+		}
+	],
+	"quest": {
+		"name": "PLACEHOLDER",
+		"description": "PLACEHOLDER",
+		"reward": "PLACEHOLDER",
+		"completed": false
+	},
+	"isSelected": false
+}

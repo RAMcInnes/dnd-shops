@@ -1,0 +1,104 @@
+{
+	"name": "Mireaux Puppet Palace",
+	"image": "/shops/MireauxPuppetPalace.png",
+	"description": "PLACEHOLDER",
+	"attitude": "Neutral",
+	"discount": 0,
+	"tags": [],
+	"items": [
+		{
+			"name": "General Admission",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Glove Puppet",
+			"price": 10,
+			"currency": "SP"
+		},
+		{
+			"name": "Hand Puppet",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Marionette",
+			"price": 15,
+			"currency": "SP"
+		},
+		{
+			"name": "Puppet Accessories (hats, props, etc.)",
+			"price": 15,
+			"currency": "SP"
+		},
+		{
+			"name": "Puppet Clothing Set",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Puppet Repair Kit",
+			"price": 3,
+			"currency": "SP"
+		},
+		{
+			"name": "Shadow Puppet",
+			"price": 8,
+			"currency": "SP"
+		},
+		{
+			"name": "VIP Admission (includes front row seating and refreshments)",
+			"price": 2,
+			"currency": "SP"
+		}
+	],
+	"services": [
+		{
+			"name": "Advanced Puppetry Techniques Demonstration",
+			"price": 3,
+			"currency": "SP"
+		},
+		{
+			"name": "Advanced Puppetry Techniques Lesson",
+			"price": 8,
+			"currency": "SP"
+		},
+		{
+			"name": "Beginner Puppetry Lesson (group)",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Custom Glove Puppet",
+			"price": 20,
+			"currency": "SP"
+		},
+		{
+			"name": "Custom Hand Puppet",
+			"price": 15,
+			"currency": "SP"
+		},
+		{
+			"name": "Custom Marionette",
+			"price": 25,
+			"currency": "SP"
+		},
+		{
+			"name": "Custom Shadow Puppet",
+			"price": 18,
+			"currency": "SP"
+		},
+		{
+			"name": "Puppet Making Workshop (basic)",
+			"price": 5,
+			"currency": "SP"
+		}
+	],
+	"quest": {
+		"name": "PLACEHOLDER",
+		"description": "PLACEHOLDER",
+		"reward": "PLACEHOLDER",
+		"completed": false
+	},
+	"isSelected": false
+}

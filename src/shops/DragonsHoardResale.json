@@ -1,0 +1,203 @@
+{
+	"name": "Dragon's Hoard Resale",
+	"image": "/shops/Dragon'sHoardResale.png",
+	"description": "PLACEHOLDER",
+	"attitude": "Neutral",
+	"discount": 0,
+	"tags": [],
+	"items": [
+		{
+			"name": "Aged Wooden Marionette",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Ancient Coin Collection (Assorted)",
+			"price": 15,
+			"currency": "GP"
+		},
+		{
+			"name": "Antique Brass Compass",
+			"price": 6,
+			"currency": "GP"
+		},
+		{
+			"name": "Antique Wooden Plate Set (Partial)",
+			"price": 6,
+			"currency": "GP"
+		},
+		{
+			"name": "Battered Iron Lockbox (No Key)",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Bent Brass Key with Elaborate Design",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Broken Longbow",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Chipped Ceramic Mug",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Chipped Stone Gargoyle Statue",
+			"price": 25,
+			"currency": "GP"
+		},
+		{
+			"name": "Cobweb-covered Spellbook (Blank)",
+			"price": 7,
+			"currency": "GP"
+		},
+		{
+			"name": "Copper Candlestick Holder",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Cracked Crystal Ball (Non-magical)",
+			"price": 8,
+			"currency": "GP"
+		},
+		{
+			"name": "Cracked Crystal Vial (Empty)",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Creaky Wooden Chest (Locked)",
+			"price": 12,
+			"currency": "GP"
+		},
+		{
+			"name": "Dulled Hunting Knife",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Faded Sheet Music for a Forgotten Song",
+			"price": 3,
+			"currency": "GP"
+		},
+		{
+			"name": "Faded Tapestry Fragment",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Fragile Glass Potion Bottle (Empty)",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Frayed Quiver with a Single Arrow",
+			"price": 3,
+			"currency": "SP"
+		},
+		{
+			"name": "Intricate Cameo Brooch",
+			"price": 12,
+			"currency": "GP"
+		},
+		{
+			"name": "Mismatched Leather Gloves",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Moth-Eaten Velvet Robe",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Old Wooden Chair",
+			"price": 3,
+			"currency": "GP"
+		},
+		{
+			"name": "Rusted Iron Cauldron",
+			"price": 4,
+			"currency": "GP"
+		},
+		{
+			"name": "Rustic Oil Lamp (Functional)",
+			"price": 3,
+			"currency": "GP"
+		},
+		{
+			"name": "Rusty Dagger",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Small Iron Key with Unknown Purpose",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Tarnished Silver Spoon",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Tattered Noble's Portrait",
+			"price": 8,
+			"currency": "GP"
+		},
+		{
+			"name": "Tattered Wizard's Robe",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Threadbare Noble's Cloak",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Torn Treasure Map",
+			"price": 7,
+			"currency": "GP"
+		},
+		{
+			"name": "Vintage Brass Spyglass",
+			"price": 20,
+			"currency": "GP"
+		},
+		{
+			"name": "Weathered Traveler's Hat",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Weathered Wooden Holy Symbol",
+			"price": 4,
+			"currency": "GP"
+		},
+		{
+			"name": "Worn Leather Journal",
+			"price": 4,
+			"currency": "GP"
+		},
+		{
+			"name": "Worn Wooden Shield",
+			"price": 8,
+			"currency": "GP"
+		}
+	],
+	"services": [],
+	"quest": {
+		"name": "PLACEHOLDER",
+		"description": "PLACEHOLDER",
+		"reward": "PLACEHOLDER",
+		"completed": false
+	},
+	"isSelected": false
+}

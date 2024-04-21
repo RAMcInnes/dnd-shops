@@ -1,0 +1,124 @@
+{
+	"name": "Dragonhide Beltsmiths",
+	"image": "/shops/DragonhideBeltsmiths.png",
+	"description": "PLACEHOLDER",
+	"attitude": "Neutral",
+	"discount": 0,
+	"tags": [],
+	"items": [
+		{
+			"name": "Belt Axe Loop",
+			"price": 8,
+			"currency": "SP"
+		},
+		{
+			"name": "Belt Bag",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Belt Buckle",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Belt Dagger Sheath",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Belt Flask Holder",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Belt Holster",
+			"price": 7,
+			"currency": "SP"
+		},
+		{
+			"name": "Belt Pouch",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Belt Purse",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Belt Quiver",
+			"price": 10,
+			"currency": "SP"
+		},
+		{
+			"name": "Belt Scabbard",
+			"price": 10,
+			"currency": "SP"
+		},
+		{
+			"name": "Belt Strap",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Decorative Belt",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Embossed Belt",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Leather Belt",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Studded Belt",
+			"price": 7,
+			"currency": "SP"
+		}
+	],
+	"services": [
+		{
+			"name": "Belt Dyeing",
+			"price": 21,
+			"currency": "SP"
+		},
+		{
+			"name": "Belt Repair",
+			"price": 52,
+			"currency": "SP"
+		},
+		{
+			"name": "Belt Tooling",
+			"price": 15,
+			"currency": "GP"
+		},
+		{
+			"name": "Custom Belt Fitting",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Belt Buckle Replacement",
+			"price": 25,
+			"currency": "SP"
+		},
+		{
+			"name": "Belt Cleaning and Conditioning",
+			"price": 25,
+			"currency": "SP"
+		}
+	],
+	"quest": {
+		"name": "PLACEHOLDER",
+		"description": "PLACEHOLDER",
+		"reward": "PLACEHOLDER",
+		"completed": false
+	},
+	"isSelected": false
+}

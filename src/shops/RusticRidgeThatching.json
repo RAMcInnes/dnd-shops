@@ -1,0 +1,124 @@
+{
+	"name": "Rustic Ridge Thatching",
+	"image": "/shops/RusticRidgeThatching.png",
+	"description": "PLACEHOLDER",
+	"attitude": "Neutral",
+	"discount": 0,
+	"tags": [],
+	"items": [
+		{
+			"name": "Baling Needle",
+			"price": 2,
+			"currency": "CP"
+		},
+		{
+			"name": "Binding Wire (per yard)",
+			"price": 2,
+			"currency": "CP"
+		},
+		{
+			"name": "Bundle of Reeds",
+			"price": 5,
+			"currency": "CP"
+		},
+		{
+			"name": "Bundle of Rushes",
+			"price": 3,
+			"currency": "CP"
+		},
+		{
+			"name": "Bundle of Sedge",
+			"price": 6,
+			"currency": "CP"
+		},
+		{
+			"name": "Bundle of Straw",
+			"price": 2,
+			"currency": "CP"
+		},
+		{
+			"name": "Bundle of Thatch Mix (Assorted Materials)",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Bundle of Wheat Stalks",
+			"price": 4,
+			"currency": "CP"
+		},
+		{
+			"name": "Carved Gargoyle (small)",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Decorative Weathervane",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Hand Scythe",
+			"price": 5,
+			"currency": "CP"
+		},
+		{
+			"name": "Leggett",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Roofing Nails (per pound)",
+			"price": 5,
+			"currency": "CP"
+		},
+		{
+			"name": "Spar Hook",
+			"price": 3,
+			"currency": "CP"
+		},
+		{
+			"name": "Tar or Pitch (per gallon)",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Thatching Hook",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Wooden Finials (each)",
+			"price": 1,
+			"currency": "SP"
+		}
+	],
+	"services": [
+		{
+			"name": "Inspection and Assessment",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "New Thatched Roof (per square foot)",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Re-Thatching (per square foot)",
+			"price": 3,
+			"currency": "SP"
+		},
+		{
+			"name": "Thatching Repair (per hour of labor)",
+			"price": 1,
+			"currency": "SP"
+		}
+	],
+	"quest": {
+		"name": "PLACEHOLDER",
+		"description": "PLACEHOLDER",
+		"reward": "PLACEHOLDER",
+		"completed": false
+	},
+	"isSelected": false
+}

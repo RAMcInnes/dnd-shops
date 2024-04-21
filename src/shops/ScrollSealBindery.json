@@ -1,0 +1,144 @@
+{
+	"name": "Scroll & Seal Bindery",
+	"image": "/shops/Scroll&SealBindery.png",
+	"description": "PLACEHOLDER",
+	"attitude": "Neutral",
+	"discount": 0,
+	"tags": [],
+	"items": [
+		{
+			"name": "Blank Parchment (per sheet)",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Bone Folder",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Book Clasps (per pair)",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Book Press",
+			"price": 50,
+			"currency": "GP"
+		},
+		{
+			"name": "Bookbinding Glue (per jar)",
+			"price": 3,
+			"currency": "SP"
+		},
+		{
+			"name": "Bookbinding Needles (set of 5)",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Brass Stamps (per set)",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Calligraphy Ink (per vial)",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Decorative Ribbon (per yard)",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Gold Leaf (per sheet)",
+			"price": 20,
+			"currency": "GP"
+		},
+		{
+			"name": "Ink (per vial)",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Leather Cover (for a large book)",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Leather Cover (for a small book)",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Pigment Powder (per color)",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Quill Knife (for sharpening quills)",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Quill",
+			"price": 1,
+			"currency": "CO"
+		},
+		{
+			"name": "Scribe’s Desk (wooden, with drawers)",
+			"price": 25,
+			"currency": "GP"
+		},
+		{
+			"name": "Sewing Thread (per spool)",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Vellum (per sheet)",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Wax Seal (with personalized stamp",
+			"price": 5,
+			"currency": "GP"
+		}
+	],
+	"services": [
+		{
+			"name": "Advanced Bookbinding (with decorative elements)",
+			"price": 25,
+			"currency": "GP"
+		},
+		{
+			"name": "Basic Bookbinding (per book)",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Custom Embossing (per cover)",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Custom Gilding (per cover)",
+			"price": 15,
+			"currency": "GP"
+		},
+		{
+			"name": "Manuscript Repair (per hour)",
+			"price": 5,
+			"currency": "GP"
+		}
+	],
+	"quest": {
+		"name": "PLACEHOLDER",
+		"description": "PLACEHOLDER",
+		"reward": "PLACEHOLDER",
+		"completed": false
+	},
+	"isSelected": false
+}

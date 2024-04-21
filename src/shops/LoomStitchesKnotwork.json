@@ -1,0 +1,144 @@
+{
+	"name": "Loom & Stitches Knotwork",
+	"image": "/shops/Loom&StitchesKnotwork.png",
+	"description": "PLACEHOLDER",
+	"attitude": "Neutral",
+	"discount": 0,
+	"tags": [],
+	"items": [
+		{
+			"name": "Embroidery Threads (for adding intricate details)",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Exotic Dyed Yarns (vibrant or rare colors)",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Handcrafted Rug Beater",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Large Carpet (6x9 feet)",
+			"price": 40,
+			"currency": "GP"
+		},
+		{
+			"name": "Linen Yarn Bundle (for intricate patterns)",
+			"price": 3,
+			"currency": "GP"
+		},
+		{
+			"name": "Luxurious Masterpiece Rug",
+			"price": 100,
+			"currency": "GP"
+		},
+		{
+			"name": "Medium Rug (4x6 feet)",
+			"price": 15,
+			"currency": "GP"
+		},
+		{
+			"name": "Natural Dye Kit (DIY dyeing at home)",
+			"price": 8,
+			"currency": "GP"
+		},
+		{
+			"name": "Patterned Rug Padding (to enhance comfort)",
+			"price": 3,
+			"currency": "GP"
+		},
+		{
+			"name": "Quality Metal Shears",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Rug Cleaning Kit (specialized brushes and cleaning solution)",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Small Tapestry (2x3 feet)",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Stain-Repellent Treatment (for a single rug)",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Tapestry Hanging Rods (decorative and functional)",
+			"price": 3,
+			"currency": "GP"
+		},
+		{
+			"name": "Tassel and Fringe Set (for decorative borders)",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Traditional Weaving Stool",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Wooden Loom (small)",
+			"price": 20,
+			"currency": "GP"
+		},
+		{
+			"name": "Wool Yarn Bundle (enough for a small rug)",
+			"price": 1,
+			"currency": "GP"
+		}
+	],
+	"services": [
+		{
+			"name": "Custom Rug Design",
+			"price": 1025,
+			"currency": "GP"
+		},
+		{
+			"name": "Delivery Service (within town)",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Dyeing Service (per rug)",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Expedited Rug Production (faster completion)",
+			"price": 20,
+			"currency": "GP"
+		},
+		{
+			"name": "Expert Consultation (for complex projects)",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Rug Appraisal (for antique rugs)",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Rug Repair (per square foot)",
+			"price": 1,
+			"currency": "GP"
+		}
+	],
+	"quest": {
+		"name": "PLACEHOLDER",
+		"description": "PLACEHOLDER",
+		"reward": "PLACEHOLDER",
+		"completed": false
+	},
+	"isSelected": false
+}

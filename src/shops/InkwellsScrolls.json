@@ -1,0 +1,94 @@
+{
+	"name": "Inkwell's Scrolls",
+	"image": "/shops/Inkwell'sScrolls.png",
+	"description": "PLACEHOLDER",
+	"attitude": "Neutral",
+	"discount": 0,
+	"tags": [],
+	"items": [
+		{
+			"name": "Artisanal Handcrafted Leather Journal",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Calligraphy Set (Quill, Ink, and Parchment)",
+			"price": 3,
+			"currency": "GP"
+		},
+		{
+			"name": "Fine Vellum Scroll (Quality Parchment)",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Gilded Paper (Gold Leaf Embellishments)",
+			"price": 15,
+			"currency": "GP"
+		},
+		{
+			"name": "Inkwell (Basic)",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Inkwell (Ornate, with Intricate Designs)",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Linen Parchment (Heavyweight)",
+			"price": 4,
+			"currency": "SP"
+		},
+		{
+			"name": "Papyrus Scroll",
+			"price": 3,
+			"currency": "SP"
+		},
+		{
+			"name": "Parchment Sheet (Standard)",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Quill and Ink Set",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Recycled Paper (Rough Texture)",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Silk Paper (Smooth and Luxurious)",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Velum Parchment (Translucent)",
+			"price": 6,
+			"currency": "SP"
+		}
+	],
+	"services": [
+		{
+			"name": "Custom Calligraphy (Per Page)",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Custom Illuminated Manuscript (Elaborate)",
+			"price": 50,
+			"currency": "GP"
+		}
+	],
+	"quest": {
+		"name": "PLACEHOLDER",
+		"description": "PLACEHOLDER",
+		"reward": "PLACEHOLDER",
+		"completed": false
+	},
+	"isSelected": false
+}

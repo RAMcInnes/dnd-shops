@@ -1,0 +1,119 @@
+{
+	"name": "The Honeyed Horn",
+	"image": "/shops/TheHoneyedHorn.png",
+	"description": "PLACEHOLDER",
+	"attitude": "Neutral",
+	"discount": 0,
+	"tags": [],
+	"items": [
+		{
+			"name": "Basic Tasting Flight (3 varieties)",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Clay Drinking Goblet",
+			"price": 5,
+			"currency": "CP"
+		},
+		{
+			"name": "Common Herbs",
+			"price": 5,
+			"currency": "CP"
+		},
+		{
+			"name": "Common Mead",
+			"price": 5,
+			"currency": "CP"
+		},
+		{
+			"name": "Common Mead",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Decorative Mead Pitcher",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Exotic Spices",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Fine Mead (aged or special blend)",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Fine Mead",
+			"price": 50,
+			"currency": "GP"
+		},
+		{
+			"name": "Local Wildflower Honey",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Premium Tasting Flight (5 varieties including aged meads)",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Premium Wildflower Honey",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Quality Mead",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Quality Mead",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Rare Honey (from specific flowers or regions)",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Rare Ingredients (specialty herbs or imported spices)",
+			"price": 51,
+			"currency": "SP"
+		},
+		{
+			"name": "Wooden Drinking Horn",
+			"price": 1,
+			"currency": "SP"
+		}
+	],
+	"services": [
+		{
+			"name": "Custom Mead Brewing (per batch)",
+			"price": 1050,
+			"currency": "GP"
+		},
+		{
+			"name": "Festive Mead (seasonal flavors)",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Wedding Mead",
+			"price": 50,
+			"currency": "GP"
+		}
+	],
+	"quest": {
+		"name": "PLACEHOLDER",
+		"description": "PLACEHOLDER",
+		"reward": "PLACEHOLDER",
+		"completed": false
+	},
+	"isSelected": false
+}

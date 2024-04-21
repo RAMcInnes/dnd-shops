@@ -1,0 +1,99 @@
+{
+	"name": "Celestial Whispers",
+	"image": "/shops/CelestialWhispers.png",
+	"description": "PLACEHOLDER",
+	"attitude": "Neutral",
+	"discount": 0,
+	"tags": [],
+	"items": [
+		{
+			"name": "Astrolabe",
+			"price": 25,
+			"currency": "GP"
+		},
+		{
+			"name": "Astrological Quill Set",
+			"price": 6,
+			"currency": "GP"
+		},
+		{
+			"name": "Astrological Readings Manuscript",
+			"price": 50,
+			"currency": "GP"
+		},
+		{
+			"name": "Celestial Globe",
+			"price": 15,
+			"currency": "GP"
+		},
+		{
+			"name": "Ephemeris Scroll showing star and planet positions by date",
+			"price": 8,
+			"currency": "GP"
+		},
+		{
+			"name": "Lunar Calendar",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Starlight Lantern",
+			"price": 12,
+			"currency": "GP"
+		},
+		{
+			"name": "Stellar Compass",
+			"price": 20,
+			"currency": "GP"
+		},
+		{
+			"name": "Zodiacal Talisman",
+			"price": 5,
+			"currency": "GP"
+		}
+	],
+	"services": [
+		{
+			"name": "Astrological Consultation",
+			"price": 15,
+			"currency": "GP"
+		},
+		{
+			"name": "Astrological Lesson",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Basic Natal Chart Reading",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Celestial Blessing Ritual",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Customized Horoscope",
+			"price": 15,
+			"currency": "GP"
+		},
+		{
+			"name": "Dream Analysis",
+			"price": 8,
+			"currency": "GP"
+		},
+		{
+			"name": "Marriage Compatibility Reading",
+			"price": 5,
+			"currency": "GP"
+		}
+	],
+	"quest": {
+		"name": "PLACEHOLDER",
+		"description": "PLACEHOLDER",
+		"reward": "PLACEHOLDER",
+		"completed": false
+	},
+	"isSelected": false
+}

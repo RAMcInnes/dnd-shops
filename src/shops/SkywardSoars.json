@@ -1,0 +1,89 @@
+{
+	"name": "Skyward Soars",
+	"image": "/shops/SkywardSoars.png",
+	"description": "PLACEHOLDER",
+	"attitude": "Neutral",
+	"discount": 0,
+	"tags": [],
+	"items": [
+		{
+			"name": "Custom Fitted Hood",
+			"price": 8,
+			"currency": "GP"
+		},
+		{
+			"name": "Falconer’s Journal",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Falconry Bells (Set of 3)",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Leather Falconer’s Glove",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Lure and Creance Set",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Portable Mews",
+			"price": 20,
+			"currency": "GP"
+		},
+		{
+			"name": "Set of Jesses and Anklets",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Training Whistle",
+			"price": 3,
+			"currency": "GP"
+		},
+		{
+			"name": "Wooden Perch or Block",
+			"price": 5,
+			"currency": "SP"
+		}
+	],
+	"services": [
+		{
+			"name": "Advanced Training Program",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Basic Training Session",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Bird Health Checkup",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Custom Equipment Crafting",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Falconry Consultation",
+			"price": 10,
+			"currency": "GP"
+		}
+	],
+	"quest": {
+		"name": "PLACEHOLDER",
+		"description": "PLACEHOLDER",
+		"reward": "PLACEHOLDER",
+		"completed": false
+	},
+	"isSelected": false
+}

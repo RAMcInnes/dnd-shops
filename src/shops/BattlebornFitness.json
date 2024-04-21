@@ -1,0 +1,89 @@
+{
+	"name": "Battleborn Fitness",
+	"image": "/shops/BattlebornFitness.png",
+	"description": "PLACEHOLDER",
+	"attitude": "Neutral",
+	"discount": 0,
+	"tags": [],
+	"items": [
+		{
+			"name": "Climbing Rope",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Iron Kettlebell",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Leather Training Gloves",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Leather Weightlifting Belt",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Martial Arts Gi",
+			"price": 10,
+			"currency": "SP"
+		},
+		{
+			"name": "Pummel Horse",
+			"price": 20,
+			"currency": "GP"
+		},
+		{
+			"name": "Weighted Sandbag",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Wooden Practice Sword",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Wooden Shield (Practice)",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Wooden Training Dummy",
+			"price": 10,
+			"currency": "SP"
+		}
+	],
+	"services": [
+		{
+			"name": "Group Training Class (per session)",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Massage Therapy (30 minutes)",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Personal Training Session (1 hour)",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Steam Room Session (1 hour)",
+			"price": 5,
+			"currency": "SP"
+		}
+	],
+	"quest": {
+		"name": "PLACEHOLDER",
+		"description": "PLACEHOLDER",
+		"reward": "PLACEHOLDER",
+		"completed": false
+	},
+	"isSelected": false
+}

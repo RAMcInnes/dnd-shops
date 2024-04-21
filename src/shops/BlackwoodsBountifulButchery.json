@@ -1,0 +1,114 @@
+{
+	"name": "Blackwood's Bountiful Butchery",
+	"image": "/shops/Blackwood'sBountifulButchery.png",
+	"description": "PLACEHOLDER",
+	"attitude": "Neutral",
+	"discount": 0,
+	"tags": [],
+	"items": [
+		{
+			"name": "Beef (per pound)",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Blood Pudding (per pound)",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Bone Broth (per jug)",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Bones (variety of sizes, per pound)",
+			"price": 1,
+			"currency": "CP"
+		},
+		{
+			"name": "Chicken (per bird)",
+			"price": 5,
+			"currency": "CP"
+		},
+		{
+			"name": "Herbs and Spices (variety, per ounce)",
+			"price": 15,
+			"currency": "SP"
+		},
+		{
+			"name": "Jerky (per pound)",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Lamb (per pound)",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Meat Pies (each)",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Offal (variety of organ meats, per pound)",
+			"price": 5,
+			"currency": "CP"
+		},
+		{
+			"name": "Pepper (per pound)",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Pork (per pound)",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Rabbit (per pound)",
+			"price": 5,
+			"currency": "CP"
+		},
+		{
+			"name": "Salt (per pound)",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Sausages (per pound)",
+			"price": 3,
+			"currency": "SP"
+		},
+		{
+			"name": "Tallow (rendered animal fat, per pound)",
+			"price": 2,
+			"currency": "CP"
+		},
+		{
+			"name": "Venison (per pound)",
+			"price": 1,
+			"currency": "GP"
+		}
+	],
+	"services": [
+		{
+			"name": "Butchering Fee",
+			"price": 210,
+			"currency": "GP"
+		},
+		{
+			"name": "Custom Cuts (per request)",
+			"price": 31,
+			"currency": "SP"
+		}
+	],
+	"quest": {
+		"name": "PLACEHOLDER",
+		"description": "PLACEHOLDER",
+		"reward": "PLACEHOLDER",
+		"completed": false
+	},
+	"isSelected": false
+}

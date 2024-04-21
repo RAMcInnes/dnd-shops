@@ -1,0 +1,89 @@
+{
+	"name": "Knightwood Timberworks",
+	"image": "/shops/KnightwoodTimberworks.png",
+	"description": "PLACEHOLDER",
+	"attitude": "Neutral",
+	"discount": 0,
+	"tags": [],
+	"items": [
+		{
+			"name": "Bag of bark",
+			"price": 8,
+			"currency": "CP"
+		},
+		{
+			"name": "Bag of sawdust",
+			"price": 5,
+			"currency": "CP"
+		},
+		{
+			"name": "Fine Quality Plank (well-crafted, polished)",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Firewood - Aromatic Wood Bundle (e.g., cedar, pine)",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Firewood - Standard Bundle",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Ornate Design Beam (intricate carvings)",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Standard Quality Beam (per beam)",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Standard Quality Plank (per plank)",
+			"price": 2,
+			"currency": "SP"
+		}
+	],
+	"services": [
+		{
+			"name": "Bug Proofing Treatment (per log)",
+			"price": 2,
+			"currency": "CP"
+		},
+		{
+			"name": "Custom Sawing Per Log",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Distant Delivery (10-50 miles)",
+			"price": 515,
+			"currency": "GP"
+		},
+		{
+			"name": "Local Delivery (within 10 miles)",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Precision Sawing (for intricate designs)",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Waterproofing Treatment (per log)",
+			"price": 3,
+			"currency": "CP"
+		}
+	],
+	"quest": {
+		"name": "PLACEHOLDER",
+		"description": "PLACEHOLDER",
+		"reward": "PLACEHOLDER",
+		"completed": false
+	},
+	"isSelected": false
+}

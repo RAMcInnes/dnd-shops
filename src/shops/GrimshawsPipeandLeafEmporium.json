@@ -1,0 +1,149 @@
+{
+	"name": "Grimshaw's Pipe and Leaf Emporium",
+	"image": "/shops/Grimshaw'sPipeandLeafEmporium.png",
+	"description": "PLACEHOLDER",
+	"attitude": "Neutral",
+	"discount": 0,
+	"tags": [],
+	"items": [
+		{
+			"name": "Basic Tobacco Blend",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Basic Wooden Pipe Rack",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Carved Wooden Pipe Rack",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Cigarette Rolling Papers (pack of 10)",
+			"price": 1,
+			"currency": "CP"
+		},
+		{
+			"name": "Cigars (per piece)",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Clay Storage Jar",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Glass Storage Jar with Cork Lid",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Gold-plated snuff Box",
+			"price": 3,
+			"currency": "GP"
+		},
+		{
+			"name": "Metal Decorative Pipe",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Ornate Metal Pipe Rack",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Pipe Cleaners (bundle)",
+			"price": 1,
+			"currency": "CP"
+		},
+		{
+			"name": "Pipe Filters (set of 5)",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Pipe Screens (set of 5)",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Pipe Tamper",
+			"price": 5,
+			"currency": "CP"
+		},
+		{
+			"name": "Pipe Tobacco Blends (per pouch)",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Pipe Tool Set (includes tamper, scraper, and poker)",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Premium Tobacco Blend",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Silver Snuff Box",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Simple Pipe",
+			"price": 5,
+			"currency": "CP"
+		},
+		{
+			"name": "Tobacco Leaves (per ounce)",
+			"price": 5,
+			"currency": "CP"
+		},
+		{
+			"name": "Wooden Carved Pipe",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Wooden Snuff Box",
+			"price": 1,
+			"currency": "SP"
+		}
+	],
+	"services": [
+		{
+			"name": "Elaborate Pipe Engraving",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Pipe Bowl Replacement",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Pipe Cleaning and Polishing",
+			"price": 5,
+			"currency": "CP"
+		},
+		{
+			"name": "Simple Pipe Engraving",
+			"price": 2,
+			"currency": "GP"
+		}
+	],
+	"quest": {
+		"name": "PLACEHOLDER",
+		"description": "PLACEHOLDER",
+		"reward": "PLACEHOLDER",
+		"completed": false
+	},
+	"isSelected": false
+}

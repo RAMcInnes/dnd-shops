@@ -1,0 +1,224 @@
+{
+	"name": "Tunic & Tassel Tailors",
+	"image": "/shops/Tunic&TasselTailors.png",
+	"description": "PLACEHOLDER",
+	"attitude": "Neutral",
+	"discount": 0,
+	"tags": [],
+	"items": [
+		{
+			"name": "Basic Breeches",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Basic Tunic",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Belt (embroidered)",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Belt (leather)",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Common Cloak",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Cotton Fabric (per yard)",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Cotton Shirt",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Embroidered Dress (fancy)",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Embroidered Scarf",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Feathered Hat (fashionable)",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Fine Leather Pants",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Fine Woolen Tunic",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Leather Gloves",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Leather Hat",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Linen Fabric (per yard)",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Linen Shirt",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Noble Cloak (embroidered)",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Noblewoman’s Gown (elaborate)",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Pouch (embroidered)",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Pouch (leather)",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Silk Fabric (per yard)",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Silk Gloves (luxurious)",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Silk Scarf",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Silk Shirt (finely crafted)",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Silk Tunic (luxurious)",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Simple Dress",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Traveler’s Cloak (with hood)",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Woolen Cap",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Woolen Fabric (per yard)",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Woolen Gloves",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Woolen Pants",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Woolen Scarf",
+			"price": 5,
+			"currency": "SP"
+		}
+	],
+	"services": [
+		{
+			"name": "Advanced Tailoring (custom fit)",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Basic Alterations",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Basic Dyeing (common colors)",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Basic Embroidery (simple designs)",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Custom Dyeing (specific colors)",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Elaborate Embroidery (intricate designs)",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Noble Crest Embroidery (heraldic symbols)",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Noble Fabric Dyeing (rich hues)",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Noble Garment Commission (elaborate)",
+			"price": 5,
+			"currency": "GP"
+		}
+	],
+	"quest": {
+		"name": "PLACEHOLDER",
+		"description": "PLACEHOLDER",
+		"reward": "PLACEHOLDER",
+		"completed": false
+	},
+	"isSelected": false
+}

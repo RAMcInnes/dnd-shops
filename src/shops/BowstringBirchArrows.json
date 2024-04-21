@@ -1,0 +1,189 @@
+{
+	"name": "Bowstring & Birch Arrows",
+	"image": "/shops/Bowstring&BirchArrows.png",
+	"description": "PLACEHOLDER",
+	"attitude": "Neutral",
+	"discount": 0,
+	"tags": [],
+	"items": [
+		{
+			"name": "Arrow Poison (vial, enough for 10 arrows)",
+			"price": 1050,
+			"currency": "GP"
+		},
+		{
+			"name": "Arrow Repair Kit (Feathers, Glue, and Shaft)",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Arrowheads (Set of 20)",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Arrows (Set of 20)",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Bowstring",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Bowyer’s Wax",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Bundle of 5 Special Arrows (e.g., silvered, cold iron)",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Crossbow Bolts (Set of 20)",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Custom Grip Wrapping for Bows",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Decorative Arrow Set (for display)",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Enchanted Arrow",
+			"price": 1050,
+			"currency": "GP"
+		},
+		{
+			"name": "Fletcher’s Tool Kit",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Fletching Dye Kit",
+			"price": 3,
+			"currency": "GP"
+		},
+		{
+			"name": "Leather Arm Guard",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Masterwork Bow",
+			"price": 1001,
+			"currency": "GP"
+		},
+		{
+			"name": "Portable Target Stand",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Quick-Draw Quiver (speeds up arrow retrieval)",
+			"price": 15,
+			"currency": "GP"
+		},
+		{
+			"name": "Quiver of Holding + 200 arrows",
+			"price": 200,
+			"currency": "GP"
+		},
+		{
+			"name": "Quiver",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Recurve Bow",
+			"price": 50,
+			"currency": "GP"
+		},
+		{
+			"name": "Specialty Arrow Tips (for poison)",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Stabilizing Brace",
+			"price": 10,
+			"currency": "GP"
+		}
+	],
+	"services": [
+		{
+			"name": "Arrow Fletching (per arrow)",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Arrowhead Poisoning Service (per arrow)",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Arrowhead Sharpening (per arrow)",
+			"price": 2,
+			"currency": "CP"
+		},
+		{
+			"name": "Bow Customization (engravings, patterns)",
+			"price": 15,
+			"currency": "GP"
+		},
+		{
+			"name": "Bow Identification Service (for magical bows)",
+			"price": 20,
+			"currency": "GP"
+		},
+		{
+			"name": "Bow Repair",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Bow Re-stringing and Tuning",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Bowstring Replacement",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Bowyer’s Consultation (advice on selecting a bow)",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Custom Arrow Crafting (per arrow)",
+			"price": 25,
+			"currency": "SP"
+		},
+		{
+			"name": "Custom Quiver Design",
+			"price": 220,
+			"currency": "GP"
+		},
+		{
+			"name": "Fletching Masterclass (intensive arrow crafting workshop)",
+			"price": 50,
+			"currency": "GP"
+		}
+	],
+	"quest": {
+		"name": "PLACEHOLDER",
+		"description": "PLACEHOLDER",
+		"reward": "PLACEHOLDER",
+		"completed": false
+	},
+	"isSelected": false
+}

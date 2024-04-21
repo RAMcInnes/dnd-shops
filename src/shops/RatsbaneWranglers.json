@@ -1,0 +1,149 @@
+{
+	"name": "Ratsbane Wranglers",
+	"image": "/shops/RatsbaneWranglers.png",
+	"description": "PLACEHOLDER",
+	"attitude": "Neutral",
+	"discount": 0,
+	"tags": [],
+	"items": [
+		{
+			"name": "Exterminator’s Mask (protects against noxious fumes)",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Ferret Companion (trained for rat hunting)",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Herbal Rat Repellent",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Insect Spray",
+			"price": 3,
+			"currency": "GP"
+		},
+		{
+			"name": "Mousetrap",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Nightshade Extract (potent poison for large infestations)",
+			"price": 15,
+			"currency": "GP"
+		},
+		{
+			"name": "Pest Control Net (captures flying pests)",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Pest Repellent Candles (for indoor use)",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Poisoned Bait",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Polearm",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Rat Charm Amulet (folklore item, said to ward off rats)",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Ratbane Elixir (rat repellant)",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Rodent Teeth Necklace (folklore item, said to bring luck)",
+			"price": 3,
+			"currency": "GP"
+		},
+		{
+			"name": "Smoking Pot (for fumigation)",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Specialized Rat Trap",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Standard Rat Trap",
+			"price": 1,
+			"currency": "SP"
+		}
+	],
+	"services": [
+		{
+			"name": "Beehive Removal Service",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Custom Pest Control Plan (tailored to specific needs)",
+			"price": 15,
+			"currency": "GP"
+		},
+		{
+			"name": "Custom Rat Traps (crafted to specific needs)",
+			"price": 3,
+			"currency": "GP"
+		},
+		{
+			"name": "Emergency Rat Infestation Response",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Ferret Handling Lessons",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Full Property Inspection (includes preventive advice)",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Full Property Pest Inspection (including insects)",
+			"price": 8,
+			"currency": "GP"
+		},
+		{
+			"name": "Fumigation Service (with specialized smoke)",
+			"price": 3,
+			"currency": "GP"
+		},
+		{
+			"name": "Insect Extermination Service (per room)",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Rat Removal Service (per room)",
+			"price": 1,
+			"currency": "GP"
+		}
+	],
+	"quest": {
+		"name": "PLACEHOLDER",
+		"description": "PLACEHOLDER",
+		"reward": "PLACEHOLDER",
+		"completed": false
+	},
+	"isSelected": false
+}

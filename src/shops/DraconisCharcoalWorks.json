@@ -1,0 +1,79 @@
+{
+	"name": "Draconis Charcoal Works",
+	"image": "/shops/DraconisCharcoalWorks.png",
+	"description": "PLACEHOLDER",
+	"attitude": "Neutral",
+	"discount": 0,
+	"tags": [],
+	"items": [
+		{
+			"name": "Bag of High-Quality Charcoal (10 lbs)",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Charcoal Burner’s Apron",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Charcoal Maker’s Handbook (Basic Guide)",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Charcoal Sketching Kit",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Charcoal-Fueled Lantern",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Enchanted Charcoal (for magical purposes)",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Moonshadow Ember (Rare Charcoal)",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Mystical Charcoal Incense Sticks (Set of 5)",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Wooden Barrow for Charcoal Transportation",
+			"price": 3,
+			"currency": "SP"
+		},
+		{
+			"name": "Wooden Charcoal Storage Crate",
+			"price": 2,
+			"currency": "SP"
+		}
+	],
+	"services": [
+		{
+			"name": "Charcoal Making Workshop",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Custom Charcoal Order (Special Wood Type)",
+			"price": 5,
+			"currency": "GP"
+		}
+	],
+	"quest": {
+		"name": "PLACEHOLDER",
+		"description": "PLACEHOLDER",
+		"reward": "PLACEHOLDER",
+		"completed": false
+	},
+	"isSelected": false
+}

@@ -1,0 +1,139 @@
+{
+	"name": "Fortress Locks and Keys",
+	"image": "/shops/FortressLocksandKeys.png",
+	"description": "PLACEHOLDER",
+	"attitude": "Neutral",
+	"discount": 0,
+	"tags": [],
+	"items": [
+		{
+			"name": "Average-quality Padlock",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Brass Key with Intricate Design",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Decorative Keychain",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Engraved Lockplate (custom design)",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "High-quality Padlock with Elaborate Engravings",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Keyring (holds up to 10 keys)",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Lock Oil (small vial)",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Locksmith’s Toolkit (basic)",
+			"price": 20,
+			"currency": "GP"
+		},
+		{
+			"name": "Locksmith’s Toolkit (masterwork)",
+			"price": 50,
+			"currency": "GP"
+		},
+		{
+			"name": "Masterwork Lock",
+			"price": 25,
+			"currency": "GP"
+		},
+		{
+			"name": "Simple Lock",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Standard Iron Key",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Thieves’ Tools",
+			"price": 25,
+			"currency": "GP"
+		}
+	],
+	"services": [
+		{
+			"name": "Key Duplication (Brass Key with Intricate Design)",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Key Duplication (Standard Key)",
+			"price": 5,
+			"currency": "CP"
+		},
+		{
+			"name": "Lock Installation (Masterwork Lock)",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Lock Installation (Simple Lock)",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Lock Repair (Masterwork Lock)",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Lock Repair (Simple Lock)",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Locksmith Consultation (for security assessment)",
+			"price": 25,
+			"currency": "GP"
+		},
+		{
+			"name": "Padlock Installation (Average-quality)",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Padlock Installation (High-quality with Elaborate Engravings)",
+			"price": 3,
+			"currency": "GP"
+		},
+		{
+			"name": "Padlock Repair (Average-quality)",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Padlock Repair (High-quality with Elaborate Engravings)",
+			"price": 2,
+			"currency": "GP"
+		}
+	],
+	"quest": {
+		"name": "PLACEHOLDER",
+		"description": "PLACEHOLDER",
+		"reward": "PLACEHOLDER",
+		"completed": false
+	},
+	"isSelected": false
+}

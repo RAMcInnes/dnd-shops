@@ -1,0 +1,104 @@
+{
+	"name": "Artful Markings",
+	"image": "/shops/ArtfulMarkings.png",
+	"description": "PLACEHOLDER",
+	"attitude": "Neutral",
+	"discount": 0,
+	"tags": [],
+	"items": [
+		{
+			"name": "Custom Tattoo Design",
+			"price": 5,
+			"currency": "VA"
+		},
+		{
+			"name": "Herbal Salve",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Ink Pot (1 oz.)",
+			"price": 5,
+			"currency": "SP"
+		},
+		{
+			"name": "Needle (single use)",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Pain Relief Potion",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Parchment (for designs)",
+			"price": 2,
+			"currency": "CP"
+		},
+		{
+			"name": "Specialty Ink",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Sterilization Kit",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Tattoo Aftercare Kit",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Tattoo Designs (pre-made)",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Tattoo Transfer Paper",
+			"price": 2,
+			"currency": "SP"
+		}
+	],
+	"services": [
+		{
+			"name": "Custom Tattoo Design Fee",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Large Tattoo",
+			"price": 20,
+			"currency": "GP"
+		},
+		{
+			"name": "Medium Tattoo",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Small Tattoo",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Temporary Tattoo",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Touch-Up Session",
+			"price": 2,
+			"currency": "GP"
+		}
+	],
+	"quest": {
+		"name": "PLACEHOLDER",
+		"description": "PLACEHOLDER",
+		"reward": "PLACEHOLDER",
+		"completed": false
+	},
+	"isSelected": false
+}

@@ -1,0 +1,109 @@
+{
+	"name": "Serpent's Snare Outfitters",
+	"image": "/shops/Serpent'sSnareOutfitters.png",
+	"description": "PLACEHOLDER",
+	"attitude": "Neutral",
+	"discount": 0,
+	"tags": [],
+	"items": [
+		{
+			"name": "Bait (Bundle)",
+			"price": 2,
+			"currency": "SP"
+		},
+		{
+			"name": "Basic Fishing Net",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Durable Tackle Box",
+			"price": 4,
+			"currency": "GP"
+		},
+		{
+			"name": "Fine Mesh Nets (Various Sizes)",
+			"price": 515,
+			"currency": "GP"
+		},
+		{
+			"name": "Fish Cleaning Kit (Knife, Cutting Board, and Gutting Tools)",
+			"price": 3,
+			"currency": "GP"
+		},
+		{
+			"name": "Fisherman’s Toolkit (Hooks, Lines, Sinkers)",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Fisherman’s Waterproof Cloak",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Fishing Hoof Assortment",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Fishing Rod (Simple)",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Leather Fisherman’s Gloves",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Sturdy Crab Trap",
+			"price": 3,
+			"currency": "GP"
+		},
+		{
+			"name": "Waterproof Travel Bag",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Weatherproof Fishing Journal",
+			"price": 1,
+			"currency": "GP"
+		},
+		{
+			"name": "Weir Pole Set",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Wooden Fish Traps",
+			"price": 2,
+			"currency": "GP"
+		}
+	],
+	"services": [
+		{
+			"name": "Guided Fishing Expedition (Half-Day)",
+			"price": 2,
+			"currency": "GP"
+		},
+		{
+			"name": "Net Repair (per foot)",
+			"price": 1,
+			"currency": "SP"
+		},
+		{
+			"name": "Weir Inspection and Repair",
+			"price": 5,
+			"currency": "GP"
+		}
+	],
+	"quest": {
+		"name": "PLACEHOLDER",
+		"description": "PLACEHOLDER",
+		"reward": "PLACEHOLDER",
+		"completed": false
+	},
+	"isSelected": false
+}
