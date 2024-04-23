@@ -28,7 +28,7 @@ fs.createReadStream('shops.csv')
           shop = resetShop();
         }
         shop.name = shopName.trim();;
-        shop.image = `/shops/${shopName?.replace(/ +/g, "")}.png`;
+        shop.image = `/shops/${shopName?.replace(/[&\/\\#, +()$~%.'":*?<>{}]/g, '')}.png`;
         if (category === 'Item') {
           shop.items.push(formatProduct(product, cost.trim()));
         } else if (category === 'Service') {
