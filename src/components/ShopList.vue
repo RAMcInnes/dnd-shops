@@ -1,5 +1,5 @@
 <template>
-  <v-navigation-drawer permanent :width="mdAndUp ? 250 : 125">
+  <v-navigation-drawer permanent :width="mdAndUp ? 300 : 150">
     <br />
     <div style="display: flex">
       <v-select

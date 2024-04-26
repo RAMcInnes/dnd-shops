@@ -1,5 +1,5 @@
 import ArcaneBondsBestiary from './ArcaneBondsBestiary.json'
-import ArcanupEyewear from './ArcanupEyewear.json'
+import ArcanumEyewear from './ArcanumEyewear.json'
 import ArtfulMarkings from './ArtfulMarkings.json'
 import BattlebornFitness from './BattlebornFitness.json'
 import BeasLusciousSweets from './BeasLusciousSweets.json'
@@ -84,7 +84,7 @@ import WolfsClawTraps from './WolfsClawTraps.json'
 
 export default {
   ArcaneBondsBestiary,
-  ArcanupEyewear,
+  ArcanumEyewear,
   ArtfulMarkings,
   BattlebornFitness,
   BeasLusciousSweets,
