@@ -34,6 +34,7 @@ fs.createReadStream('shops.csv')
         } else if (category === 'Service') {
           shop.services.push(formatProduct(product, cost.trim()));
         }
+        shop.icon = '';
       } catch (err) {
         console.error('Error trying to createShop: ', err);
       }

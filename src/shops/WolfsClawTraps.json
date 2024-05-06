@@ -110,5 +110,6 @@
 		"reward": "PLACEHOLDER",
 		"completed": false
 	},
-	"isSelected": false
+	"isSelected": false,
+	"icon": "mdi-forest"
 }

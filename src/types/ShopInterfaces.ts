@@ -13,6 +13,7 @@ export interface ShopInterface {
   tags: string[]
   quest: ShopQuestInterface
   isSelected: boolean
+  icon: string
 }
 
 export interface ShopProductInterface {

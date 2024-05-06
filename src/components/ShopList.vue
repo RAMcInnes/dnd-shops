@@ -1,7 +1,10 @@
 <template>
-  <v-navigation-drawer permanent :width="mdAndUp ? 300 : 150">
+  <v-navigation-drawer
+    permanent
+    :rail="smAndDown"
+    width="300">
     <br />
-    <div style="display: flex">
+    <div v-if="mdAndUp" style="display: flex">
       <v-select
         v-model="searchType"
         label="Search Type"
@@ -24,6 +27,7 @@
           v-bind="props"
           :key="shop.name"
           :title="shop.name"
+          :prependIcon="shop.icon"
           @click="$emit('shop', shop)"
         >
           <template v-slot:append>
@@ -47,7 +51,7 @@ import { useAppStore } from '../stores/app'
 import shops from '../shops'
 import type { ShopInterface } from '../types/ShopInterfaces'
 
-const { mdAndUp } = useDisplay();
+const { smAndDown, mdAndUp } = useDisplay();
 
 const store = useAppStore()
 const shopsArray = Array<ShopInterface>()
