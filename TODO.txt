@@ -1,6 +1,4 @@
 TO DO
-- Sort ShopList by "highlighted shops" (if any)
-- Add icon when side panel is small (mobile size)
 - Come up with shop ideas (based on master list, maybe like 15) with actual item and services
   - Librarian with books to learn new languages
   - Blacksmith with weapon sharpening services

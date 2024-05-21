@@ -69,6 +69,12 @@ onMounted(() => {
 const highlightShop = (shop: ShopInterface) => {
   shop.isSelected = !shop.isSelected
   store.updateSelected(shop.name, shop.isSelected)
+
+  // This works, but is wonky. It doesn't happen right away. Idk, it's weird.
+  shownShops.value = shopsArray.sort(function(x, y) {
+        // true values first
+        return (x.isSelected === y.isSelected)? 0 : x.isSelected? -1 : 1;
+    })
 }
 
 function updateShownShops(searchTerm: string) {
