@@ -9,3 +9,4 @@ TO DO
 KNOWN ISSUES
 - Same haggle roll inputted twice in a roll doesn't work
 - createShop.js will not copy last shop in CSV
+- The ShopList does not update and will still show the last "highlighted" shop, even after the 'X' button is clicked.

@@ -2,7 +2,7 @@
   <v-app>
     <v-main>
       <ShopList @shop="updateSelectedShop" />
-      <GenericShop v-if="!!selectedShop" :shop="selectedShop" />
+      <GenericShop @shop="updateSelectedShop" v-if="!!selectedShop" :shop="selectedShop" />
       <WelcomeScreen v-else />
       <v-footer>
         <div class="text-center w-100">
@@ -33,6 +33,10 @@ const store = useAppStore()
 const selectedShop = ref()
 
 function updateSelectedShop(shop: ShopInterface) {
+  if (!shop) {
+    selectedShop.value = null;
+    return
+  }
   const shopName = shop.name.replace(/ +/g, '')
   selectedShop.value = store.getShop(shopName)
 }

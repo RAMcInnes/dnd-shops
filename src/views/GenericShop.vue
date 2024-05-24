@@ -2,7 +2,14 @@
   <v-container fluid>
     <v-row>
       <v-col cols="12">
-        <h1>{{ currentShop.name }}</h1>
+        <div style="display: flex; justify-content: space-between; align-items: center;">
+          <h1 style="text-align: left;">{{ currentShop.name }}</h1>
+          <v-tooltip text="Back to Home Page">
+            <template v-slot:activator="{ props }">
+              <v-btn  v-bind="props" icon="mdi-alpha-x" @click="$emit('shop', undefined)"></v-btn>
+            </template>
+          </v-tooltip>
+        </div>
         <h4 style="color: lightgray">
           <b>Tags: </b>
           <span v-for="(tag, index) of currentShop.tags" :key="index">
@@ -36,11 +43,7 @@
     </v-row>
     <v-row>
       <v-col cols="12">
-        <ShopProducts
-          type="Service"
-          :discount="currentShop.discount"
-          :products="currentShop.services"
-        />
+        <ShopProducts type="Service" :discount="currentShop.discount" :products="currentShop.services"/>
       </v-col>
     </v-row>
   </v-container>
