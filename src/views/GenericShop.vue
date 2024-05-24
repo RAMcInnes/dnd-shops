@@ -19,10 +19,10 @@
       </v-col>
     </v-row>
     <v-row>
-      <v-col cols="6">
+      <v-col :cols="mdAndUp ? 6 : 12">
         <ShopImage :shop-name="currentShop.name" />
       </v-col>
-      <v-col cols="6">
+      <v-col :cols="mdAndUp ? 6 : 12">
         <ShopDescription :description="currentShop.description" />
       </v-col>
     </v-row>
@@ -51,12 +51,15 @@
 
 <script lang="ts" setup>
 import { computed } from 'vue'
+import { useDisplay } from 'vuetify'
 import ShopImage from '../components/ShopImage.vue'
 import ShopDescription from '../components/ShopDescription.vue'
 import ShopAttitude from '../components/ShopAttitude.vue'
 import ShopQuestInfo from '../components/ShopQuestInfo.vue'
 import ShopProducts from '../components/ShopProducts.vue'
 import type { ShopInterface } from '../types/ShopInterfaces'
+
+const { mdAndUp } = useDisplay();
 
 const props = defineProps<{
   shop: ShopInterface
