@@ -102,7 +102,7 @@
 	"quest": {
 		"name": "The Lost Melody",
 		"description": "\tA traveling bard has been visiting luthier shops in every town they visited, seeking a master craftsperson who can make an instrument capable of playing a song they found in an ancient scroll. He went to Chordcraft Studios to see if Gideon could assist. They talk for hours, testing various instruments and being overheard by all the workers and quite a few customers. At the end of this long, tiring session, Gideon draws what he believes would be an instrument that could play the notes correctly but explains that the instrument alone is not enough. It needs a special resin to create the proper resonances to blend the tones to unleash the music fully. Gideon, an expert on resins, writes down a list of ingredients and harvesting instruc􀀡ons and explains that several sources are rare and almost impossible to find. He recommends that the bard hire a crew to travel with him to collect the items and return to the shop when done. They negotiate a price to build the instrument, and the bard pays a very large fee, promising to return when the ingredients are all collected. Gideon promises to have the instrument’s pieces constructed when he returns.",
-		"reward": "PLACEHOLDER",
+		"reward": "",
 		"completed": false
 	},
 	"isSelected": false,

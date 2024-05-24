@@ -137,7 +137,7 @@
 	"quest": {
 		"name": "The Lost Recipe of the Moonlit Brie",
 		"description": "\tWhile perusing an old book an apprentice gifted him, Cedric discovered a clue to the famous, long-lost recipe for Moonlit Brie, supposedly the finest brie cheese that has ever been made. Combined with other clues collected over the decades, he believes he finally knows enough to discover the location of the recipe. He now seeks a crew of seasoned travelers to accompany him on this journey and keep him safe as he follows the trail to hopefully recover the recipe and make this fabled cheese once before he dies.",
-		"reward": "PLACEHOLDER",
+		"reward": "",
 		"completed": false
 	},
 	"isSelected": false,

@@ -197,7 +197,7 @@
 	"quest": {
 		"name": "The Lost Earrings of Lady Fabiana",
 		"description": "As adventurers peruse Sorrel Thorne’s silversmith shop, they overhear a distraught noblewoman named Lady Fabiana lamenting the loss of a pair of exquisite silver earrings crafted by Sorrel many years ago. He explains to her that he can no longer make such delicate jewelry, so replacing them is impossible. He recommends she hire an investigator to hunt down their location and promises to assist by providing a small bit of the silver alloy used in their creation to help the investigator. The earrings are valuable and have protective enchantments she had a wizard place on them to protect her from harm. She is willing to pay handsomely for their return.",
-		"reward": "PLACEHOLDER",
+		"reward": "",
 		"completed": false
 	},
 	"isSelected": false,

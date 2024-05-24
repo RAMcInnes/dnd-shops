@@ -77,7 +77,7 @@
 	"quest": {
 		"name": "The Astral Chronograph",
 		"description": "\tA worker tearing down a decrepit manor discovered an odd object in a small bricked-up niche in the basement’s wall. He slipped it into his pocket for later study, and when he got a closer look, he figured it must be some timepiece because of its hands and numbers painted around its face. He figured he could get a few coins, so he took it to Timekeeper’s Haven to sell it. Filipe gave it a cursory look and offered him five gold, figuring the metal in it was worth that much if he couldn’t operate it again. While disassembling it, he touched a hidden crystal with a tiny screwdriver and was given such a strong shock that he was hurled against the wall and knocked out. His staff found him there in the morning, still unconscious. When he woke, he tried to explain what he was doing but got puzzled when he saw the device was fully assembled. He asked, but everyone swore they didn’t touch his workspace.\n\tHe brought it to a local magician who examined and returned it, hands shaking. The magician advised getting it as far away from town as possible and destroying it, preferably by tossing it into the molten center of a volcano. The magician would say no more. This prognosis only piqued Filipe’s curiosity, so he quietly put out his word that he was looking for a powerful wizard for a special task.",
-		"reward": "PLACEHOLDER",
+		"reward": "",
 		"completed": false
 	},
 	"isSelected": false,

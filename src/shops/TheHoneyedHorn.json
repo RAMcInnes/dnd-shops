@@ -112,7 +112,7 @@
 	"quest": {
 		"name": "The Lost Recipe of the Meadmaker’s Guild",
 		"description": "Buzz discovered an interesting recipe while reading an ancient mead history book. It was hidden behind the paste down end paper (i.e., the paper glued to the inside of the cover), and he only noticed it because he dropped the book and it tore, revealing a few written words. He reluctantly ripped the end paper off and became excited as he read the ancient letter. It offered a technique and a recipe for making an entirely unknown type of mead; in his heart, he knew it would be delicious. The problem is that he never heard of some of the ingredients. Some investigation and discussion with botanists led him to believe that the ingredients could be secured only by mounting an expedition to a far-off island.\n\tBurning with desire, he made a pact with one of the botanists to fund an expedition to the island to recover these rare ingredients and whatever else the botanist might find that interested them. He gave the botanist a generous budget, and now the botanist is seeking a group to travel with him and protect him while he performs his investigative work.",
-		"reward": "PLACEHOLDER",
+		"reward": "",
 		"completed": false
 	},
 	"isSelected": false,

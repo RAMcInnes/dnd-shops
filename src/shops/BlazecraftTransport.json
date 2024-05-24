@@ -87,7 +87,7 @@
 	"quest": {
 		"name": "The Lost Cartographer’s Legacy",
 		"description": "\tA mariner shares a tale with Jenks about a (deceased) legendary cartographer known for creating the most accurate and comprehensive maps of the waterways. The mariner tells Jenks that he has a clue to the whereabouts of the cartographer’s Opus Magnus and will sell the details for a few gold pieces. Jenks decides to buy the details – which turns out to be an old journal that speaks of a small island where the cartographer often retreated to when working on the finer details of his work. Jenks pours over the clues and drawings against his works and comes up with three possible small islands that might house the cartographer’s hideaway. Now, he is seeking a crew willing to brave dangerous waters and unknown challenges to explore these three islands to find this legendary collection of maps. The only condition is that Jenks will accompany the crew to examine anything they find.",
-		"reward": "PLACEHOLDER",
+		"reward": "",
 		"completed": false
 	},
 	"isSelected": false,

@@ -137,7 +137,7 @@
 	"quest": {
 		"name": "The Enchanted Loom",
 		"description": "Wamish is primarily a traditionalist, only buying modern equipment as the new generation wants to work with the latest. A slip of paper drifted to the floor while reviewing an old book of design techniques he had recently acquired. In an archaic form of the language, the paper talks about a loom that is hundreds of years old and operates itself when a design is placed on its small built-in desk. The paper even says that all it needs to create a masterpiece is spools of undyed yarns and any metallic wires in the design on the desk, and it creates it one hundred percent perfectly in one-quarter the time of a skilled artisan. Wamish believes the paper is true and wants to find and acquire this wondrous loom. He is currently making quiet inquiries to find a team of investigators to trace the book’s origin in hopes of finding clues to the loom’s location. He is willing to pay well for more clues and extravagantly to acquire the loom.",
-		"reward": "PLACEHOLDER",
+		"reward": "",
 		"completed": false
 	},
 	"isSelected": false,

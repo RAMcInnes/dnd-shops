@@ -192,7 +192,7 @@
 	"quest": {
 		"name": "The Lost Familiar’s Lament",
 		"description": "\tA sign on the front door offers a reward for recovering a lost monkey. It was sold as a familiar just two weeks ago, and the magician who bought it claims it was kidnapped right from his shoulder in the marketplace a few days ago. The magician is offering a stingy reward for its return, and Agathon is offering a separate, larger reward for its return to him, thinking that maybe the magician is not responsible enough for a familiar. The monkey is a small fey-born capuchin, loves pineapple, and answers to Freddie-Boy.",
-		"reward": "PLACEHOLDER",
+		"reward": "",
 		"completed": false
 	},
 	"isSelected": false,

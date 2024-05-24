@@ -122,7 +122,7 @@
 	"quest": {
 		"name": "The Lost Copper Bee",
 		"description": "\tIt’s not often that Frankie interacts with visitors to the shop, especially unexpected ones. But it’s impossible to say no to Lord Ervanis when he walks into a shop, especially when he is in a mood. Everyone in earshot quickly learned that his wife’s precious copper bee hat pin had been stolen and that it had been in her family for hundreds of years, a true family heirloom and treasure. (It is also imbued with potent protective magic, but Lord Ervanis doesn’t share that fact.)\n\tHe insists that Frankie follow him to his wagon, where his wife is waiting, and asks him to bring a sketch pad. His wife, Lilliane, quietly describes the pin while Frankie painstakingly draws it from her description and corrections until she states that the drawing is perfect. Lord Ervanis then gives Franke 10 gp, takes the drawing, and thanks him for his time. A few hours later, the town is plastered with reward posters featuring copies of Frankie’s drawings and an offer of a heavy reward for the pin’s return.",
-		"reward": "PLACEHOLDER",
+		"reward": "",
 		"completed": false
 	},
 	"isSelected": false,

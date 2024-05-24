@@ -82,7 +82,7 @@
 	"quest": {
 		"name": "The Silent Plague",
 		"description": "\tThe quality of the logs delivered to KnightWood Timberworks has deteriorated over the past few months. Many of the logs are riddled with small holes, but there are no signs of insect infestation. The logging groups are frustrated because their income has dropped by sixty percent. Even Bramlee has stopped purchasing inferior logs as he is oversupplied with them and has stopped buying. All concerned parties held a meeting and decided to pool together some funds to hire folks to study the forest and solve the plague affecting the trees before it is too late. They are now contacting government forestry agents and even posting notices on town job boards to find help for this perplexing problem.",
-		"reward": "PLACEHOLDER",
+		"reward": "",
 		"completed": false
 	},
 	"isSelected": false,

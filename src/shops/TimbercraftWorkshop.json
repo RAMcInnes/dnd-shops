@@ -106,7 +106,7 @@
 	"quest": {
 		"name": "The Lost Relic of the Woodland Temple",
 		"description": "\tWhile repairing a house, a long-forgotten journal is found in a wall. The worker who found it delivered it to the owner, who carefully read passages from it loud enough for the worker to hear. The language seemed archaic to the worker, but the message was clear. The journal speaks of a long-forgotten temple deep in the heart of the local woods and its altarpiece, the “Heartwood Talisman,” said to have the power to heal blights upon the land and grant prosperity to those who worship its power. After reading a bit more, the owner decides it’s a bunch of drivel and tosses it in the growing construction garbage pile. Convinced the book and story are real, the worker grabs the book while cleaning the garbage pile and is looking to pawn it off on some adventurers looking for a new quest.",
-		"reward": "PLACEHOLDER",
+		"reward": "",
 		"completed": false
 	},
 	"isSelected": false,

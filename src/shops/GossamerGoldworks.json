@@ -172,7 +172,7 @@
 	"quest": {
 		"name": "The Whispering Crown",
 		"description": "Edric has been meeting with a representative of the king for hours every day for a week. From snatches of conversation gathered by visitors, the king wishes to hire Edric to build a special circlet for his dead daughter. Edric is now quietly putting out the word that he seeks an adventuring party to travel to Coral’s Death, an undersea burial ground of an extinct maritime kingdom, to recover a ring said to be in the tomb of its last and greatest warrior. The ring is made of a rare material imbued with special properties that he needs to incorporate into the circle to make it hold the magic that will grant the king’s daughter the gift of hearing while it is being worn.",
-		"reward": "PLACEHOLDER",
+		"reward": "",
 		"completed": false
 	},
 	"isSelected": false,

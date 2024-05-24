@@ -82,7 +82,7 @@
 	"quest": {
 		"name": "The Lost Masterpiece",
 		"description": "\tA small section of Battleborn Fitness is a series of glassed-in displays showcasing weapons Ludovic used and collected during his illustrious career. The many medals he earned are mounted on the wall above them. A potential member was inspecting the collection and took a keen interest in a rusted greatsword mounted high up on the wall. Ludovic noticed the interest and spent an hour sharing the story of the battle against a foe almost as large as him, a battle that caused a great scar on his back, which he shows. Ludovic keeps it even though it is rusted and pitted because it is the only weapon in all the battles he fought that almost brought him down.\n\tThat night, the gym was vandalized, and the only thing that was taken was that rusty sword. Ludovic immediately calls on all his contacts and describes the person who showed great interest in the sword the prior day. Dozens of people take up the search but are unsuccessful. One of them suggested that he hire a crew of “bloodhounds” to hunt that person down and recover the sword.",
-		"reward": "PLACEHOLDER",
+		"reward": "",
 		"completed": false
 	},
 	"isSelected": false,

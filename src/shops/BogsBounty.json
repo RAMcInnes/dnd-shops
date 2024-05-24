@@ -37,7 +37,7 @@
 	"quest": {
 		"name": "The Lost Relic of the Marshland Monastery",
 		"description": "\tWhen moving it to the drying racks, a peat block fell apart, and an ancient, stained silver medallion was discovered in the crumbled pile. After Levi cleaned it a bit, he believed it to have some religious significance, so he brought it to the local temple. He showed it to an acolyte and was quickly ushered into the high priest’s chamber. The high priest blessed a pair of white gloves and put them on before examining the medallion. After a very brief examination, he proclaimed it is a remnant of an ancient, extremely rich and powerful evil sect that disappeared millenia ago. He recommended that Levi lose the item far away from town lest it brings misfortune to the town by attracting the attention of this long-dormant deity.",
-		"reward": "PLACEHOLDER",
+		"reward": "",
 		"completed": false
 	},
 	"isSelected": false,

@@ -82,7 +82,7 @@
 	"quest": {
 		"name": "The Enchanted Net of Whispering Shadows",
 		"description": "\tAs adventurers peruse the wares at Knots & Nets, they overhear scraps of a conversation between Otis and a cloaked visitor. The visitor is showing Otis a scrap of parchment that talks about the Net of Whispering Shadows, a fabled cowl said to grant the wearer unparalleled psychic powers. Otis tells the stranger he does not know of the net or the unusual knot designs shown in the scrap. An observant person might detect a tiny bit of falsehood in that statement and conclude that Otis does have information about this rare item.",
-		"reward": "PLACEHOLDER",
+		"reward": "",
 		"completed": false
 	},
 	"isSelected": false,

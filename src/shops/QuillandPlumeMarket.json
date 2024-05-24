@@ -217,7 +217,7 @@
 	"quest": {
 		"name": "The Enchanted Feather Hunt",
 		"description": "\tFelicia quietly inquires about a group of adventurers willing to take on a dangerous quest for excellent pay. One of her customers, a famed gladiator, wants a single tail feather from the rare celestial phoenix to tie around her neck as part of a wizard-designed necklace. This necklace will have the power to revive her if she dies, a tool she desires to allow her to fight even more recklessly while in the ring. The problem is that the celestial phoenix lives in a faraway, snowy mountain with a significant yeti population that is very proprietary towards their colorful companion and will actively defend it. The mission is high risk but also high reward if a group retrieves a tail feather plucked from the phoenix.",
-		"reward": "PLACEHOLDER",
+		"reward": "",
 		"completed": false
 	},
 	"isSelected": false,

@@ -1,11 +1,11 @@
 <template>
-  <v-data-table :headers="headers" :items="discountedProducts" item-value="name" items-per-page="5">
+  <v-data-table v-if="discountedProducts.length > 0" :headers="headers" :items="discountedProducts" item-value="name" items-per-page="5">
     <template v-slot:item.actions="{ item }">
       <v-btn icon="mdi-cart-arrow-down" variant="text" @click="addProductToCart(item)"></v-btn>
     </template>
   </v-data-table>
-  <br />
-  <v-btn @click="openCart()" prepend-icon="mdi-cart"> Buy {{ type }} ({{ cart.length }}) </v-btn>
+  <br v-if="discountedProducts.length > 0" />
+  <v-btn v-if="discountedProducts.length > 0" @click="openCart()" prepend-icon="mdi-cart"> Buy {{ type }} ({{ cart.length }}) </v-btn>
   <v-dialog v-model="dialog" width="auto">
     <v-card>
       <v-card-title> {{ type }} to Purchase </v-card-title>

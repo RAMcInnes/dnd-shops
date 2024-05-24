@@ -142,7 +142,7 @@
 	"quest": {
 		"name": "The Quest for the Lost Tobacconist’s Tome",
 		"description": "\tBart noticed a customer examining one of the many posters in the store with a magnifying lens. This particular poster is a page from a centuries-old product catalog book from a now-defunct civilization. After the customer finished his detailed examination, he asked Bart if he ever noticed the minuscule writing on the page. When Bart said, “No,” the customer had him take a look through the lens. The very tiny writing stated that this blend and many others available from “Red’s Smoke Workshop” were detailed in Red’s self-published tobacco book, “The Elegance of Smoke,” which could be purchased in his shop.\n\tBart and every tobacconist worth their smoke know about Red’s Smoke Workshop and that book but believe them to be just a legend. The minuscule words in this ad are the first time Bart has ever seen proof that the shop is real. That night, Bart digs through his collection of books to find the catalog and gets the name and city where it was published – relieved to see that the city is still extant. He now wishes to hire a detective to trace this scant information to find any existing records of Red’s or the book because he would love to have the formulas for some of the superb smokes that Red was reputed to offer.",
-		"reward": "PLACEHOLDER",
+		"reward": "",
 		"completed": false
 	},
 	"isSelected": false,

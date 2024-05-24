@@ -137,7 +137,7 @@
 	"quest": {
 		"name": "The Chronicles of the Forgotten Kingdom",
 		"description": "\tA visitor is digging through a box of “discard” books Antoine just acquired but hasn’t had a chance to sort yet. The book’s cover is severely cracked leather, and the spine barely keeps the pages together. The title has almost faded away but can just be made out - “The Chronicles of the Forgotten Kingdom.” The visitor opens the tome and discovers a cryptic inscription on the first page:\n\t“Seek ye the lost city of Elysium, Where shadows dance and secrets lie. In the heart of the ancient forest, Beneath the moonlit sky.” - Eregor Ironhand (A famous ancient ruler.)\n\tThe inscription hints at a long-forgotten kingdom known as Elysium, rumored to have been lost to the ravages of time and hidden within a dense, enchanted forest. The rest of the book is his diary, detailing every clue he followed to locate the city, but with no luck. He shares what he sees with Antoine, and they agree that competent historians should study the book for a reasonable split of any spoils from this research. They share a gentleman’s handshake, and both agree to quietly spread the word that they are looking for historians skilled in ferreting out clues.",
-		"reward": "PLACEHOLDER",
+		"reward": "",
 		"completed": false
 	},
 	"isSelected": false,

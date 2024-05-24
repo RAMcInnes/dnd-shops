@@ -117,7 +117,7 @@
 	"quest": {
 		"name": "The Lost Belt of Baron Thorne",
 		"description": "\tA noble’s carriage barreled down the street, making a scene. It stopped in front of Dragonhide Beltsmiths, and people gasped as Baron Rogelio Thorne himself jumped out and stomped into the shop. In a voice that couldn’t be ignored, the listening townsfolk heard him speak in a crazed manner and gesticulate wildly about his great, great, great grandfather’s belt and how it went missing last night. He is imploring Hoss to help in the search and use his contacts forged due to his hobby of collecting unique belt buckles to help recover this family heirloom. The Baron said it must be recovered in the next seven days as he absolutely must wear it for an upcoming duel of honor and will pay handsomely for its return.",
-		"reward": "PLACEHOLDER",
+		"reward": "",
 		"completed": false
 	},
 	"isSelected": false,

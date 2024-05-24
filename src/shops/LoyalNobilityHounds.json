@@ -127,7 +127,7 @@
 	"quest": {
 		"name": "The Noble Stag",
 		"description": "\tEvery townsperson knows that a majestic fey-stained stag with 16 points lives somewhere in the forest, but no hunter has ever been able to locate it except for quick glimpses at a distance. Many visitors to the town have tried to hire Sir Lazarus to hunt the creature, but he always refuses, saying it is a sacred animal and should be left alone. These disgruntled “armchair” hunters often seek another guide to take them out, ending in disappointment as no sign of the stag is seen, almost as though it knows people are hunting it. (Or the guides, all local, make sure they stay far away from its stomping grounds.) Some of these hunting groups are willing to pay very well for skilled trackers with knowledge of the territory.",
-		"reward": "PLACEHOLDER",
+		"reward": "",
 		"completed": false
 	},
 	"isSelected": false,

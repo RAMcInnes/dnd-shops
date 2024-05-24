@@ -122,7 +122,7 @@
 	"quest": {
 		"name": "Jolly’s Forest Lord",
 		"description": "While perusing the store’s shelves, Bart noticed an exquisitely worked, articulated wood doll shaped like a man transformed into a living tree. Bart asks all the workers who made it. No one takes credit for its creation. Bart puts it in his office to mull it over for a while. When he opened the shop the next morning, the doll was back on the shelf, and all the raw lumber in the back was sprouting leaves. Bart could smell trouble, so he threw the doll into the nearby lake. It was back the next morning, and this time, his beloved jack in the box on the roof was growing a flower out of its head. Next, Bart had a cleric come by, and the cleric confirmed that the doll was a cursed object and that it was too powerful for him to fix. Bart now seeks more powerful assistance to prevent the calamity from slowly spreading through his store.",
-		"reward": "PLACEHOLDER",
+		"reward": "",
 		"completed": false
 	},
 	"isSelected": false,

@@ -182,7 +182,7 @@
 	"quest": {
 		"name": "he Lost Arrow of the Whispering Woods",
 		"description": "\tWhile perusing the fletcher shop, the adventurers overhear a hushed conversation between Lorenzo Ironwood and a mysterious stranger. The stranger, clad in a hooded cloak, urgently requests the fletcher’s expertise in heling to craft a unique arrow—an arrow the stranger says will possess the power to open a long-forgotten portal hidden deep within the Whispering Woods. The stranger shows Lorenzo specific materials and designs that must be used and explains the steps that must be rigorously followed while the stranger focuses layers of magic into the design. The money offered is excellent and Lorenzo accepts the commission. The adventurers later learn that the portal in Whispering Woods was created by the fey and is rumored to lead to a fabled horde of a deceased ancient red dragon just waiting for someone to claim it.",
-		"reward": "PLACEHOLDER",
+		"reward": "",
 		"completed": false
 	},
 	"isSelected": false,

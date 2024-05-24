@@ -132,7 +132,7 @@
 	"quest": {
 		"name": "The Enigmatic Driftwood Charter",
 		"description": "\tA stranger approached Captain Ironwood with a large piece of driftwood he found washed up on shore while traveling to the city. The stranger wishes to sell it to the shop as it is a rare type of wood that can be used for making delicate parts. Also, the stranger wants to extract an odd metal ball embedded in it without destroying the value of the wood. The craftsmen worked on the piece and successfully recovered a good bit of usable wood and the ball. The ball turned out to be a container with a scrap of parchment and a partial map drawn on its reverse. The parchment detailed a partial treasure inventory, and the back shows an X on an island. The stranger asks Captain Ironwood for recommendations for people who might be able to identify the island and undertake a mission there to see if a treasure can be found.",
-		"reward": "PLACEHOLDER",
+		"reward": "",
 		"completed": false
 	},
 	"isSelected": false,

@@ -127,7 +127,7 @@
 	"quest": {
 		"name": "Silk Rot",
 		"description": "\tA strange rot is killing the mulberry plants at the local silk farm. The loss of so much of this vital feedstock is causing silk production to decline dramatically, and if it continues much longer, the silkworms will start dying off as they starve from a lack of food. A local druid was called in to inspect the mulberry plants and the soil, and they determined that a malevolence had taken root in the soil, something more powerful than their magical abilities could handle. The druid recommends seeking powerful sorcerers and brave fighters to call this evil forth from the ground and defeat it.",
-		"reward": "PLACEHOLDER",
+		"reward": "",
 		"completed": false
 	},
 	"isSelected": false,

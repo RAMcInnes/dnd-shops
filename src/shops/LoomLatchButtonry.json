@@ -87,7 +87,7 @@
 	"quest": {
 		"name": "The Secret in the Button",
 		"description": "\tOccasionally, urchins and adventurers will bring batches of buttons to Loom & Latch Buttonry to collect a few coins. Willem is happy to buy any usable buttons, especially when she gets enough of a single style for a tailor to use. Single buttons are harder to sell than sets of two to eight.\n\tLast week, a dirty, rugged-looking adventurer brought in a whole sack of buttons he’d been collecting on his past year’s journeys. Willem made an acceptable offer and was happy to receive some exotic buttons for her collection and several for sale. One button really intrigued her. It was thick, three inches across – perhaps taken from a giant’s jacket. She gave it to Lysander to clean and polish it so she could add it to her collection. He had a moment of clumsiness, and it dropped to the floor, cracked in half. He picked it up and saw that it could be fixed, but he also saw that it was hollow inside and held a small parchment that unfolded into what looked like a treasure map. As Willem wasn’t in the shop then, he kept the map and repaired the button, apologizing for dropping it when she returned. The next day, he left work for lunch and never came back. After a few days of not hearing from him, Willem checked his family home, and then they all made a report to the police and put up posters offering a reward for information leading to his whereabouts.",
-		"reward": "PLACEHOLDER",
+		"reward": "",
 		"completed": false
 	},
 	"isSelected": false,

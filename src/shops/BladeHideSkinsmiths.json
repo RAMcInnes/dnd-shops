@@ -112,7 +112,7 @@
 	"quest": {
 		"name": "Codex Pellix",
 		"description": "\tA stranger conversing with Torrance is busy showing him a scrap of parchment that mentions a fabled tanning book, the ancient Codex Pellix, the masterwork of tanning lost to the ages. The book has techniques and formulas to tan skins in less time with no smell and preserve them so well that they will stay soft and supple for decades. The stranger says he has another page detailing the book’s creator and where they lived. Torrance has a gleam in his eye that says he is interested but has no desire to go on a possible goose chase. He counters, telling the stranger that if they find a crew to seek out the book and succeed, he will pay twice the asking price for that page plus the cost of the crew.",
-		"reward": "PLACEHOLDER",
+		"reward": "",
 		"completed": false
 	},
 	"isSelected": false,

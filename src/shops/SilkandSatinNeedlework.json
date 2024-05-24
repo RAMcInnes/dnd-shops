@@ -172,7 +172,7 @@
 	"quest": {
 		"name": "The Cursed Tapestry of the Deep Marsh",
 		"description": "\tA peddler of decorative items has been going door to door trying to sell a tapestry he recently acquired. The tapestry shows an idyllic marsh scene, a lily pad covered pond, and frogs sitting on them, capturing lazy flies for their daily meal. (If someone looks closely with a magnifying lens, they will see those flies have human faces.)\n\tWhen the peddler brings it into Silk and Satin Needlework and opens it, Dez’z starts screaming incoherently and rolling around the floor in pain. Genevieve quickly shoos the peddler out and works for an hour to calm Dez’z down. When calmed, Dez’z shares that when the tapestry was opened, her mind was filled with images of a terrible place where demons were eating living people over and over again as torture, and the pain she felt temporarily shattered her mind. Genevieve later shares the story with a wizard she knows, and she says it needs to be investigated. She will seek out people to quest with.",
-		"reward": "PLACEHOLDER",
+		"reward": "",
 		"completed": false
 	},
 	"isSelected": false,

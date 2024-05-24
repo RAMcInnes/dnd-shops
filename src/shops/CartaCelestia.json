@@ -127,7 +127,7 @@
 	"quest": {
 		"name": "The Cartographer’s Lament",
 		"description": "\tAs visitors peruse Master Serentius’ mapmaker shop, they stumble upon a peculiar map hidden in the depths of the shelves.\n\tThis ancient parchment seems to reveal the location of a mythical city named “Caelum Noctus,” the Celestial City of Night. Legend has it that this city exists on the other side of the known world, accessible only during a celestial alignment that occurs once in a century. It sits unloved because Serentius believes it to be a fake and of no value– but he will happily sell it to the visitor for an exorbitant price.",
-		"reward": "PLACEHOLDER",
+		"reward": "",
 		"completed": false
 	},
 	"isSelected": false,

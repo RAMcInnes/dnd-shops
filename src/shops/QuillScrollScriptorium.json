@@ -87,7 +87,7 @@
 	"quest": {
 		"name": "The King’s Riddle",
 		"description": "\tMaster Fairweather left his shop six months ago for a special commission, leaving his second in command to run the operation while he was gone. He returned home in a shroud of mystery that was soon revealed when a royal proclamation was circulated throughout the land. Having no heir, the king decided to create a contest to determine the next ruler. He hired Master Fairweather to help him create six copies of an illustrated work containing more than a dozen clues to find the royal scepter. The one who finds the royal scepter and presents it to the king will be deemed the next in line to assume the throne. The rules are simple. The six books are identical and can only be examined while in the castle’s library, in a room under twenty-four-hour guard. Only six are allowed in the room at any given time, one for each book, and they can make and remove any notes they want to help them in their search. This contest is open to everyone, noble and commoner alike.",
-		"reward": "PLACEHOLDER",
+		"reward": "",
 		"completed": false
 	},
 	"isSelected": false,

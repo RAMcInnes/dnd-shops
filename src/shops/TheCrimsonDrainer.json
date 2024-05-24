@@ -47,7 +47,7 @@
 	"quest": {
 		"name": "The Codex of Bloodletting",
 		"description": "\tOne day, a stranger enters The Crimson Drainer and shows Alfonce a single ancient-looking page written in an archaic version of the common language, giving more weight to its authenticity. The stranger claims it is a page from “The Codex of Bloodletting,” an ancient, almost mystical volume that shares arcane lore on effective bloodletting for hundreds of diseases. The book has never been seen in memory and was believed to be a myth until this stranger showed up. The stranger says he has the rest of the book and will sell it for a large sum. When the stranger returns, Alfonce examines the book, matches up the torn page, and decides to buy it. Over the next few days, he reads it and realizes that the book is pretty much nonsense, a fake. But he believes the single page is real and that the book must really exist. He is now on a mission to find “bloodhounds” who can take this single page and find the rest of the book and is willing to pay handsomely for its discovery.",
-		"reward": "PLACEHOLDER",
+		"reward": "",
 		"completed": false
 	},
 	"isSelected": false,

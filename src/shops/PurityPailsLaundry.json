@@ -137,7 +137,7 @@
 	"quest": {
 		"name": "The Lost Locket",
 		"description": "\tAs the adventurers wait to get their blood-soaked clothes cleaned in Purity Pails, they overhear a distressed young woman, Evelyn, seeking Audrey’s assistance. Evelyn explains that her former seamstress grandmother had a cherished locket containing a family heirloom stolen a few days ago. Audrey recognizes the description of the locket as she remembers seeing it worn by someone who dropped off laundry a few days ago and hasn’t picked it up yet. Audrey tells Evelyn that she doesn’t want to get involved in any trouble but is willing to let a private guard or two stay in the shop during work hours so she can point out the person when they come to pick up their clothes and follow them to another place before confronting them about the theft. Evelyn agrees that would work and says she will find someone to hire and return to the shop – hopefully before the clothes get picked up.",
-		"reward": "PLACEHOLDER",
+		"reward": "",
 		"completed": false
 	},
 	"isSelected": false,

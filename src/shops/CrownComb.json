@@ -142,7 +142,7 @@
 	"quest": {
 		"name": "The Melancholy Minstrel’s Lament",
 		"description": "While waiting for a haircut, a party member overhears a disheartened minstrel named Chiara de Verona sharing her tale of woe with Reginald, the barber. A mysterious figure in a dark cloak has stolen her enchanted lute, a family heirloom passed down through generations. The minstrel believes the thief seeks to harness the lute’s magical properties for nefarious purposes. She tells Reg that she is looking for someone reliable to hunt down the thief and recover her property and is willing to pay handsomely for its return. She trusts that Reg will quietly spread the word to reach the right ears to help get her property returned.",
-		"reward": "PLACEHOLDER",
+		"reward": "",
 		"completed": false
 	},
 	"isSelected": false,

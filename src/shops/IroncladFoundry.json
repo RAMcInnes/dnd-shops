@@ -282,7 +282,7 @@
 	"quest": {
 		"name": "The Enchanted Anvil",
 		"description": "\tEaldred is looking for a group of tough adventurers to trace down a rumor of an enchanted anvil in a long abandoned, partially collapsed, and monster-filled dwarven mine in the nearby mountain range. His scant information suggests that the forge was built on the third level of the mine and that the anvil keeps the metal being worked hot for a longer time, allowing more work to be accomplished per heating session. He is willing to pay well and only cares about the anvil. Anything else the adventurers can recover is a bonus.",
-		"reward": "PLACEHOLDER",
+		"reward": "",
 		"completed": false
 	},
 	"isSelected": false,

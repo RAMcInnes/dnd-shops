@@ -77,7 +77,7 @@
 	"quest": {
 		"name": "It Lies Beneath",
 		"description": "\tThe Stonecutter’s Workshop is building a new government building on the old town square. When completed, the old one will be disassembled and become the spot for the new town square. The foundation was dug, poured, and left to dry for a few days before construction on the walls could commence. When it was inspected, it had huge cracks radiating from the center as though a massive object pushed up against it from the ground beneath. It was dug up, the earth smoothed, repoured, and then watched. On the second night, the observer saw the foundation bulge and crack, and a vine-like tentacle reached out of a crack to explore the surface before sinking back into the ground. After reporting it, Ludwig reported the situation to the town council, who decided that whatever entity makes its home under their town must be eradicated. They put out notices seeking a group willing to investigate, relocate, or destroy whatever creature they find.",
-		"reward": "PLACEHOLDER",
+		"reward": "",
 		"completed": false
 	},
 	"isSelected": false,

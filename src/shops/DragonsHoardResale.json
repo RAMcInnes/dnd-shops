@@ -196,7 +196,7 @@
 	"quest": {
 		"name": "The Whispering Spitoon",
 		"description": "\tYears ago, Gideon purchased an entire tavern, and many of its bits are still on the shelves. One of the items in the tavern was “The Whispering Spitoon,” a secretive magical device that acquired the memories of anyone who spit into it and then shared them with the tavern owner, who was attuned to the object. It currently resides in the shop’s secret basement. The secrets the owner learned kept him wealthy until he tried to blackmail an assassin and was killed. The tavern quickly went out of business after his death. An inquisitive shopper found and purchased a journal with a very decorative cover, planning to use it as an office decoration. Curiosity caused her to open it and discover it was written in code.\n\tShe now NEEDS to know what it says and is looking for someone to break the code and share the plain language of the entries. Someone translating it will discover that its first pages discuss the spitoon and how to work its magic, and the rest is a record of blackmail details. Many people discussed in these pages still live in the town. ",
-		"reward": "PLACEHOLDER",
+		"reward": "",
 		"completed": false
 	},
 	"isSelected": false,

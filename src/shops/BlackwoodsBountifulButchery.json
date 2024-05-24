@@ -107,7 +107,7 @@
 	"quest": {
 		"name": "The Silver Horned Wyrm Feast",
 		"description": "\tEmissaries of the King have been visiting every hunter, tracker, skinner, and butcher in the kingdom to find someone who has or can acquire a silver horned worm for the upcoming wedding of the king’s daughter with a prince of a nearby realm. The meat of this fabled creature is supposed to ensure the creation of lifelong bonds, peace, and harmony, something that is desperately needed to finally bring peace to the two kingdoms. Unfortunately, the search has proven to be futile. Finally, in desperation, the emissaries start posting on all the job boards in the kingdom, offering a substantial reward for any group that can hunt down and deliver a silver horned wyrm intact and suitable for presentation at the table. The creature is a type of dragon, very rare and hard to find. A mature one is typically fifteen feet long. The king desires to bring the entire cooked carcass to the reception and have chefs carve it in front of the audience, filling the entire room with its enticing aroma.",
-		"reward": "PLACEHOLDER",
+		"reward": "",
 		"completed": false
 	},
 	"isSelected": false,

@@ -117,7 +117,7 @@
 	"quest": {
 		"name": "The Lost Chain of the Guardian",
 		"description": "\tAccording to ancient texts and oral legends, a skilled chain maker forged the Chain of the Guardian centuries ago and imbued it with magical properties to protect the wearer from harm. The chain was said to have been entrusted to a noble family for generations until it mysteriously disappeared during a raid on their stronghold.\n\tA mysterious traveler visited Ironlink Forge to show Phineas a single chainmail link he found in the great desert that he claims has unusual properties. He demonstrated what he had learned through experimentation and arranged to sell that single link to Phineas for a large sum. Phineas studied it for months, trying to unravel its secrets. While unsuccessful, he concluded that this link must be a piece of the mythical Chain of the Guardian. He finally decided to find seekers of rare treasures to scour the earth to find more pieces, believing that if he can recover enough of the armor, he can fetter out its secrets and recreate it, creating an enduring legacy for himself.",
-		"reward": "PLACEHOLDER",
+		"reward": "",
 		"completed": false
 	},
 	"isSelected": false,

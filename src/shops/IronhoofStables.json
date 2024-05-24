@@ -92,7 +92,7 @@
 	"quest": {
 		"name": "War Shoes",
 		"description": "\tBards still sing of the mighty steed Midnight and his horseshoes that shot lightning bolts in battle when it reared up on its hind legs. The story credits Midnight with saving the king in a fierce battle that almost toppled the kingdom two hundred years ago. Midnight and its rider disappeared shortly after that battle, never to be seen again.\n\tToday, a local net fisherman dredged up a horseshoe from the river, still as pristine as the day it was made. He thought it might be worth a few coins, so he brought it to the town farrier and was given five silver for it. The farrier examined it and couldn’t figure out what it was made of, certainly not iron. Not knowing what to do with it, he sold it to the town alchemist for ten gold pieces. The alchemist determined it was magical and had some lightning-based power, but it was incomplete. She brought it to her friend Cecil and wondered if it could possibly be one of the horseshoes the fabled horse Midnight wore in the battle that saved the kingdom. Cecil took it and promised to investigate. He is now seeking skilled treasure hunters who might be able to find the origin point of the horseshoe and perhaps recover the other three and maybe even Midnight’s bones to give it a fitting hero’s burial.",
-		"reward": "PLACEHOLDER",
+		"reward": "",
 		"completed": false
 	},
 	"isSelected": false,

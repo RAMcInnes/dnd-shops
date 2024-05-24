@@ -157,7 +157,7 @@
 	"quest": {
 		"name": "Silverhoof’s Shoes",
 		"description": "\tA set of four silver horseshoes are prominently displayed on the wall of the Shield and Stirrup Smithy with a plaque underneath them that reads, “Silverhoof – died valiantly at the Battle of the Three Crossings while saving the life of Sir Galen the Valiant.” Everyone knows the story of the Battle of the Three Crossings and how Sir Galen was severely wounded and would have died if his horse Silverhoof didn’t get him to safety before expiring. Those who were in the battle said that Silverhoof suddenly reared up and ran towards help five times faster than a horse was ever made to run – and collapsed of a heart attack just as it reached friendly medics who saved Sir Galen’s life.\n\tRumors have persisted ever since that Silverhoof had a magical set of horseshoes that allowed it to run at three times normal speed all day with no ill effects, making it the most valuable steed in the entire Cavalry. Visitors always ask Roland if those horseshoes belonged to Silverhoof and if they were the ones it was wearing on its last, deadly run. Roland always laughs, says they are just a reminder of a great man and his horse, and sidesteps the primary question.\n[They are the real horseshoes – which Roland made. But he removed the magic from them after taking them off Silverhoof before it was buried with honor. His sadness at its death is why he doesn’t make custom items.]",
-		"reward": "PLACEHOLDER",
+		"reward": "",
 		"completed": false
 	},
 	"isSelected": false,

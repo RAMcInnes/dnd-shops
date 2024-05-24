@@ -28,14 +28,16 @@
           :key="shop.name"
           :title="shop.name"
           :prependIcon="shop.icon"
-          @click="$emit('shop', shop)"
+          :active="shop.name === selectedShop"
+          color="yellow"
+          @click="highlightSelectedShop(shop)"
         >
           <template v-slot:append>
             <v-icon
               v-if="isHovering || shop.isSelected"
               icon="mdi-store"
               :color="shop.isSelected ? 'yellow' : ''"
-              @click="highlightShop(shop)"
+              @click="addSelectedIconToShop(shop)"
             />
           </template>
         </v-list-item>
@@ -57,6 +59,9 @@ const store = useAppStore()
 const shopsArray = Array<ShopInterface>()
 const shownShops = ref<ShopInterface[]>()
 const searchType = ref('All')
+const selectedShop = ref('');
+
+const emits = defineEmits(['shop']);
 
 onMounted(() => {
   for (const shop in shops) {
@@ -66,7 +71,13 @@ onMounted(() => {
   shownShops.value = shopsArray
 })
 
-const highlightShop = (shop: ShopInterface) => {
+const highlightSelectedShop = (shop: ShopInterface) => {
+  selectedShop.value = shop.name;
+
+  emits('shop', shop)
+}
+
+const addSelectedIconToShop = (shop: ShopInterface) => {
   shop.isSelected = !shop.isSelected
   store.updateSelected(shop.name, shop.isSelected)
 

@@ -147,7 +147,7 @@
 	"quest": {
 		"name": "It Came from the Salt",
 		"description": "\tWhile boiling salt one day, a strange colored scum formed on the water, both foamy and lumpy, almost like foam-covered frog eggs. Thinking nothing of it, the worker skimmed it off and tossed it into the discard bucket to be hauled to a pit in the property’s rear. Nothing more was thought about it, and weeks passed. One dark, unseen night, hundreds of frog-like creatures crawled from the pit and made their way to the harbor’s waters, where they ate, hid, and planned conquest, biding their time until they reached maturity.\n\tOne year after being skimmed from the cauldron, they rose from the sea in the dark of night and conquered the harbor area with their unusual weapons and incredible toughness. The next morning, the town awoke to dead bodies stacked on the roads leading to the harbor, each guarded by a contingent of tall, frog-like creatures. In broken common, their leader communicated that the town has one week to clear out before they take it by force. The mayor has sent runners to all the nearby towns seeking reinforcements to deal wit this plague.",
-		"reward": "PLACEHOLDER",
+		"reward": "",
 		"completed": false
 	},
 	"isSelected": false,

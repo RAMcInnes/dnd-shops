@@ -87,7 +87,7 @@
 	"quest": {
 		"name": "The Enchanted Inkwell",
 		"description": "\tHemford’s latest acquisition of antique inkwells purchased for sale in his shop includes one very plain, ordinary-looking one. Even after polishing, it is unattractive. He placed it on a shelf with a very low price, figuring it would sell to someone if the price were right. Over the next several weeks, Kenzie noticed that people would not even pay it a bit of attention, or if they did, it was no more than a minor glance. She finally decided to buy it for her calligraphy ink, and Hemford gave it as a gift, happy to have it off his shelves. She used it that night and wrote her most inspired work in flawless script. When she awoke the next morning, her entire body was covered with writing, and the paper was blank. It would not wash off. She covered herself head to toe and took the inkwell to Hemford for advice.\n\tTogether, they took it to a sage and discovered it had a rare curse on it, and the only cure would be to write another document with a very rare ink from a faraway village in a remote and dangerous part of the world. Hemford, feeling responsible for the debacle, is seeking a crew to go to that village and acquire some of this special ink.",
-		"reward": "PLACEHOLDER",
+		"reward": "",
 		"completed": false
 	},
 	"isSelected": false,

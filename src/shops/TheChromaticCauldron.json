@@ -112,7 +112,7 @@
 	"quest": {
 		"name": "The Lost Pigment Recipe of Pergon",
 		"description": "\tThe king’s young daughter was perusing an ancient illuminated book in the royal library and fell in love with a color she found used on one of its pages. Every day for the last three months, she’s been running into the royal chambers and whining about wanting her room painted that color. Finally exasperated at these constant outbursts, her father calls all the pigment makers in the region to the castle to show them the page, examine the color, and make enough to paint his daughter’s room. Many pigment makers answered the king’s call. Most said they didn’t have the skills or ingredients to make that color. One, an ancient pigment maker, claimed to recognize the pigment’s creator, a talented woman named Pergon, who died over two hundred years ago in a nearby town. He said her recipes died with her.\n\tRumors have popped up occasionally about her keeping a recipe book, but it has never been found. The ancient one apologized to the king but said it would be impossible to make that color without Pergon’s original recipe. The king, needing to calm his daughter, issued a royal decree to offer a knighthood and a small valley to the person or group that could find that book. The decree seemed to quiet the daughter as she accepted that her father was doing all he could to make her wish come true. It created quite a buzz in the kingdom, with everyone wondering if the decree would be fulfilled.",
-		"reward": "PLACEHOLDER",
+		"reward": "",
 		"completed": false
 	},
 	"isSelected": false,

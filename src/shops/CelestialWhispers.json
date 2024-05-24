@@ -92,7 +92,7 @@
 	"quest": {
 		"name": "The Celestial Heirloom",
 		"description": "\tWhile perusing the astrology shop, a visitor discovers a crystal that shimmers when they pick it up. It floods their mind with images of a hidden realm where the spirits of the stars reside and promises a great reward for the one who can open the gateway. They are placed under a geas to perform this quest, immediately purchase the crystal, and seek out an adventuring crew to follow the path unfolding in their mind as the journey progresses. The crystal will speak to whatever crew they find, promising untold riches for the successful completion of the mission.",
-		"reward": "PLACEHOLDER",
+		"reward": "",
 		"completed": false
 	},
 	"isSelected": false,

@@ -30,7 +30,7 @@
         <span style="color: orange">Annoyed</span>.<br />
         <span class="tab"
           >If the shop owner is already <span style="color: orange">Annoyed</span> and the Player
-          fails the Haggle roll by 10+, the shop owner will become
+          fails the Haggle Roll by 10+, the shop owner will become
           <span style="color: red">Aggravated</span>.</span
         ><br />
         <span class="tab"

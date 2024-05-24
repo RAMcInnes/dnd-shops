@@ -72,7 +72,7 @@
 	"quest": {
 		"name": "The Moonshadow Grove’s Enchantment",
 		"description": "\tA shopper overhears Yon speaking with a mysterious robed figure about a special order – Moonshadow Ember charcoal. From the snatches of overheard conversation, the shopper learns that there is a rare type of tree that has grown entirely from the light of the moon and absorbed special properties, but it is located in the dark center of a very dangerous forest. The next day, Yon places a notice on the town’s job board seeking those skilled in lumber retrieval under dangerous conditions to perform a special task for him at a to-be-negotiated but generous pay rate. Yon has a map to the forest, drawings showing the tree that must be found, and instructions on how to harvest and transport the wood. He even supplies notes on the various creatures he knows about that they might encounter and offers suggestions on how they can be defeated. Whether the information is still good is unknown as Yon hasn’t traveled to that part of the world in decades.",
-		"reward": "PLACEHOLDER",
+		"reward": "",
 		"completed": false
 	},
 	"isSelected": false,

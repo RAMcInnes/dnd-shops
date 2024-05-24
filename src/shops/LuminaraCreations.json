@@ -107,7 +107,7 @@
 	"quest": {
 		"name": "The Fading Flame Festival",
 		"description": "\tThe “Fading Flame Festival,” filled with vendors selling candles, crystals, and other items with purported healing properties, is being held in the town square in a week. Every year, Emily makes a special collection of candles just for it, but when she went into the shop this morning, she discovered a robbery during the night. The thief stole her box of special scents she was reserving for the candles she planned on making. Emily reported the theft to the constable, but they recommended hiring private investigators to find and recover them. She respects the advice and is contacting her contacts to find skilled sleuths to help her. ",
-		"reward": "PLACEHOLDER",
+		"reward": "",
 		"completed": false
 	},
 	"isSelected": false,

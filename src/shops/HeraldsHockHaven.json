@@ -292,7 +292,7 @@
 	"quest": {
 		"name": "The Beaming Scepter",
 		"description": "\tAn old mage stumbles upon an old, intricately carved scepter intermixed with a collection of canes and walking sticks among the items in the pawn shop. The mage detects hidden depths within its structure that their skills might be able to call to the surface. She strikes a deal with the shop and pays a princely sum to become the proud owner of an interestingly carved walking stick with a nicely faceted piece of rose quartz atop it. Two days later, at the stroke of midnight, a huge explosion rocks the town, accompanied by a blindingly bright beam of energy that traveled for miles, causing a very visible explosion at the highest point of a nearby mountain range. When the rubble was investigated, the constables found that the mage’s shop was totally incinerated, and the only thing that survived was the scepter.",
-		"reward": "PLACEHOLDER",
+		"reward": "",
 		"completed": false
 	},
 	"isSelected": false,

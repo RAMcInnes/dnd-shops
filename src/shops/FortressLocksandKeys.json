@@ -132,7 +132,7 @@
 	"quest": {
 		"name": "The Missing Key",
 		"description": "\tAs visitors peruse the locksmith shop, they overhear a conversation between Alysam and a distressed noblewoman, Lady Penelope Haverthorn. Her family’s cherished heirloom, a mystical locket with a secret compartment containing the secret formula for their world-famous distilling process, has been misplaced or stolen. She needs access to the compartment to make their next batch of liquor and will pay a huge sum if it can be opened or the key found. Alysam tells her that he can’t help due to the unique magical nature of the lock mechanism and that she should seek out someone who has skills in finding lost objects to hunt down the key.",
-		"reward": "PLACEHOLDER",
+		"reward": "",
 		"completed": false
 	},
 	"isSelected": false,

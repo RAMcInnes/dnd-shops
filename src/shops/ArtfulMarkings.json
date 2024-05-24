@@ -97,7 +97,7 @@
 	"quest": {
 		"name": "The Mark of Destiny",
 		"description": "A customer walks into Artful Markings with an old sheet of parchment showing a brave knight slaying a dragon with a single blow. Alaris can tell the parchment has some magic weaved into it. The customer wants a back tattoo of that scene and wants the magic in the parchment transferred into the tattoo.\n\tAlaris says he can make an exact copy of the tattoo on the customer’s back, even matching the simple color scheme. He warns the customer that transferring magic is tricky and could cause all types of complications, and he asks three times before proceeding. When Alaris is finished, the parchment crumbles into dust, and the customer can feel magic coursing through the tattoo. The customer leaves, delighted. A few days later, the customer’s back starts itching. Fearing an infection, they go back to Artful Markings and have Alaris examine the tattoo. Alaris shares the bad news that the magic is causing a transformation in the customer’s back. The skin is turning into scales. Alaris figures that the magic was corrupted at some point, perhaps even when it was transferred – or the customer misunderstood what the magic would do and recommends seeking the advice of the town’s resident wizard.\n\tThe wizard studies the back and then researches several of his dusty old tomes before declaring that the magic is working perfectly and he will be transformed into a wormling over the next thirty days – unless he seeks out a healing spring deep in the Mabash forest, a dark and desolate place full of heinous dangers. The wizard recommends they find help if they wish to survive the journey.",
-		"reward": "PLACEHOLDER",
+		"reward": "",
 		"completed": false
 	},
 	"isSelected": false,

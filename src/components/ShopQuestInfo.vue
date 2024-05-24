@@ -14,11 +14,14 @@
         ></v-textarea>
         <div>
           <b>Reward:</b>
-          <br />
-          {{ shopQuest?.reward }}
-          <br />
-          The shop owner's attitude will change to <span style="color: lightgreen">Friendly</span>.
-          <br /><br />
+          <div v-if="shopQuest.reward">
+            {{ shopQuest?.reward }}
+          </div>
+          <div>
+            The shop owner's attitude will change to <span style="color: lightgreen">Friendly</span>.
+            <br />
+            <br />
+          </div>
           <input
             v-model="checked"
             type="checkbox"

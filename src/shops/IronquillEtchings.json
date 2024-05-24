@@ -72,7 +72,7 @@
 	"quest": {
 		"name": "The Lost Heirloom Engraving",
 		"description": "\tAs adventurers peruse Eamon Ironquill’s engraver shop, they overhear a distraught noble seeking Eamon’s services. The noble is sharing that their family heirloom, a legendary sword engraved with mystical symbols, has stopped working. He explains that the centuries of polishing the sword have taken its toll and practically erased the engravings. He wants the engravings restored to their original state to hopefully restore the sword’s powers. Eamon states a reluctance to take on the task and suggests someone with magical abilities and engraving skills might be a better choice. The noble offers a large sum of money, which Eamon reluctantly turns down.",
-		"reward": "PLACEHOLDER",
+		"reward": "",
 		"completed": false
 	},
 	"isSelected": false,

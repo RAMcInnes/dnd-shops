@@ -71,7 +71,7 @@
 	"quest": {
 		"name": "The Lost Ledger",
 		"description": "\tWhile organizing the main vault, Elara stumbles upon an old dusty ledger. Upon examination, it becomes clear that this ledger dates back several decades, from before Lord Cedric owned the business. It contains records of loans, investments, and transactions long thought to be lost. The significance of this rediscovery is twofold:\n1. The ledger unveils long-buried secrets and forgotten debts. The entries hint at questionable financial dealings, potential scandals, and connections to influential figures of the past.\n2. The rediscovery of the ledger can have unintended consequences if they are made public. If the entries are kept private, they could be used for blackmail against those still living or against their descendants.\n\tElara returned the ledger to the vault and discussed what to do about it with her boyfriend, the black sheep of his particular family. She thinks she should destroy the book, afraid of what Cedric might do with the knowledge if it is turned over to him, but is highly conflicted over the idea of destroying bank property.",
-		"reward": "PLACEHOLDER",
+		"reward": "",
 		"completed": false
 	},
 	"isSelected": false,

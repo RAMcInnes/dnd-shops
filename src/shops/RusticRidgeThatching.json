@@ -117,7 +117,7 @@
 	"quest": {
 		"name": "The Thatchwight",
 		"description": "\tMortimer’s fall from the roof was no accident. A rarely seen fey creature known as the Thatchwight pushed him off. It rested amongst the thatch material already laid down, and Mortimer stepped on its face. Before he could apologize, it gave him a strong push and ended his career.\n\tNo one believed him, believing it to be an old folk tale roofers use to excuse their clumsiness. But Mortimer knew what he saw and vowed to seek revenge if he ever discovered the creature. Fortune shined on Mortimer as the Thatchwight followed a supply of hay right into Rustic Ridge Thatching and is now hiding out amongst the bundles, all snug and warm, away from the frigid winds of this record-cold winter. Mortimer tells his crew many times that he keeps seeing glimpses of the creature, but they all just nod politely. Finally, at wit’s end, he discretely reaches out to his contacts to find a crew he can pay to help capture and dispose of this vile creature.",
-		"reward": "PLACEHOLDER",
+		"reward": "",
 		"completed": false
 	},
 	"isSelected": false,

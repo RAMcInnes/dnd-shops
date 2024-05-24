@@ -132,7 +132,7 @@
 	"quest": {
 		"name": "The Enchanted Masquerade",
 		"description": "While perusing the hatter shop, a visitor stumbles upon a peculiar hat hidden in the corner of the store. Alaric Thorne, noticing the visitor’s interest, reveals the hat’s intriguing history. This hat is part of a set created for a masquerade many years ago. When the owner came to pick up the hats, he didn’t like this one and ordered a new one made. This reject has been here ever since. The odd thing is that the owner never returned to pick up the replacement because he and his partner were trampled to death by a runaway wagon a few days before the big event. No one wants to buy this hat because they fear it is part of a chain of bad luck. Alaric is willing to sell it for a very reasonable price. (And yes, the hat is cursed to bring misfortune if it is mistreated by the owner.)",
-		"reward": "PLACEHOLDER",
+		"reward": "",
 		"completed": false
 	},
 	"isSelected": false,

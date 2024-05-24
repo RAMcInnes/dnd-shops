@@ -87,7 +87,7 @@
 	"quest": {
 		"name": "The Elixir of the Ethereal Vine",
 		"description": "\tWhile walking past Blackwood Distillery, a group of people overhear Bran chewing out a supplier in one of his more extreme rages. He demands that the supplier deliver more of a rare and elusive ingredient essential for distilling the fabled Aldyris Brandy, and the supplier is trying to explain that an unnatural drought is preventing the plants from flowering and making the seed that Bran is so desperate to acquire. As Bran’s famous temper burns out, the people hear him say to the supplier:\n\t“Unnatural, you say? Fix it! I’ll pay whatever it takes.”\nThen, he walks back into the distillery to handle another problem.",
-		"reward": "PLACEHOLDER",
+		"reward": "",
 		"completed": false
 	},
 	"isSelected": false,

@@ -72,7 +72,7 @@
 	"quest": {
 		"name": "The Mystery of the Vanishing Dairy Animals",
 		"description": "\tSummer is a tough time for the milk business. Even with the cooling waters of the river, it spoils way too quickly after being delivered. Customers demand more frequent deliveries of smaller quantities and balk whenever Barley raises prices to pay for the more frequent deliveries. All summer, he hears grumbles and complaints for something out of his control, breaking his jolly heart. Finally, he sent a letter to the wizard college asking them if they could create a device that could enspell the bottles to make milk last longer or develop a process or potion that could be added to the milk for the same effect. They considered it a worthy challenge and set their students to work on this issue. The solution could benefit the entire kingdom and bring great glory to the college.\n\tAfter months of work, a student found a solution, but it required a root powder from an almost extinct plant, and the student used the last of their supply in the formula. The college contacted Barley with the good and bad news, and together, they decided to fund a quest to travel to a remote island and gather more of these roots and some living plants to grow locally with a touch of horticultural magic from a local druid.",
-		"reward": "PLACEHOLDER",
+		"reward": "",
 		"completed": false
 	},
 	"isSelected": false,

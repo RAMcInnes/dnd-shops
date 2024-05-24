@@ -77,7 +77,7 @@
 	"quest": {
 		"name": "The Lost Cauldron",
 		"description": "\tWhile getting a tool repaired at Iron Remedies, the adventurers overhear Norton-Ken sharing a story with Aeliana about an almost mythical iron pot that can turn heated water and a few simple herbs into ten powerful healing potions once a day. He further added that he saw the pot perform more than a decade ago and is just remembering it now because the owner contacted him yesterday to inform him that it was stolen. The owner is offering a reward for its return. Norton-Ken is convinced the pot will never be seen again as it is too rare and valuable for thieves to brag that they stole it. If the adventurers inquire, Norton-Ken will happily share the owner’s name and location so they can inquire further.",
-		"reward": "PLACEHOLDER",
+		"reward": "",
 		"completed": false
 	},
 	"isSelected": false,

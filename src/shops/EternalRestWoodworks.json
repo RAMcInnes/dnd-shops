@@ -67,7 +67,7 @@
 	"quest": {
 		"name": "Restless Earth",
 		"description": "A significant series of tremors and a strong earthquake have been shaking the ground in the region, and the big one caused a massive fissure to open in the cemetery. Broken, empty coffins litter the bottom of the fissure, and scratch marks cover the walls, almost as though creatures crawled from the bowels of the earth to freedom. Since this fissure appeared three days ago, one person has died every night in a gruesome way, often torn to shreds in a dark alley. Franko is upset because none of these names are in his magical book. Without revealing what he knows about people’s death date, he implores the town council to hire investigators to scour the streets at night and hunt down the scourge killing off the populace. They agree to his impassioned plea and send word far and wide, looking for a band of mercenaries to hire to protect the town and hunt down this creature or whatever it is.",
-		"reward": "PLACEHOLDER",
+		"reward": "",
 		"completed": false
 	},
 	"isSelected": false,

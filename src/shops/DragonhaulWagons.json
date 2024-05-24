@@ -127,7 +127,7 @@
 	"quest": {
 		"name": "The Missing Cargo Convoy",
 		"description": "While perusing Cedric Blackwood’s cartwright shop, the adventurers catch wind of a distressing situation on the tongues of all the workers. Chatter suggests that a wealthy merchant guild that hired the shop to create a convoy of specialized cargo carts had his caravan, loaded with valuable goods, mysteriously go missing in the nearby wilderness. They wonder if any blame will be placed on their shop and if there is going to be a reward offered to investigate and try to recover the cargo.",
-		"reward": "PLACEHOLDER",
+		"reward": "",
 		"completed": false
 	},
 	"isSelected": false,

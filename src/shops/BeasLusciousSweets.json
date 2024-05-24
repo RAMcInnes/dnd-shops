@@ -127,7 +127,7 @@
 	"quest": {
 		"name": "The Sweet Thief’s Mischief",
 		"description": "\tWhile in Bea’s shop, one of the team’s adventurers is bumped into by an urchin on the way to the counter to get a free treat from Bea. When they go to pay for his purchase, they find their coin purse missing and runs out the door to try to find that urchin. Being unsuccessful, they return to the shop to find out who that urchin was and where she lives. Bea tells them she can’t keep track of them all, and so many children live on the street. They can’t tell if Bea is telling the truth or is just sympathetic.\n\tAs they go to leave, Bea calls them back and offers them their treats – on the house. A bit later, they realize that a magical ring (or other really valuable item) was also stolen. Since that is truly valuable, they insist that the group help retrieve it, no matter what it takes.",
-		"reward": "PLACEHOLDER",
+		"reward": "",
 		"completed": false
 	},
 	"isSelected": false,

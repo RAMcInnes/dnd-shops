@@ -122,7 +122,7 @@
 	"quest": {
 		"name": "The Apiarist Automaton",
 		"description": "\tA tinkerer is in town and is demonstrating his latest invention, a prototype clockwork beekeeper, in front of The Honeyed Hive. He sets up an entire display with several “hives” laid out on the ground and then commands the automaton to perform various tasks that the beekeepers normally perform. At first, the automaton performs admirably, and then an urchin throws a rock at it and laughs. The automaton is angered and chases the urchin into an alley, coming out a few minutes later covered in blood and gore. Seeing what happened, the observers all start to stone it, and it twirls in a confused frenzy before bashing through the crowd, killing two, and running into the woods. When the shock wears off, the tinkerer is nowhere to be found, and the townsfolk fear there is a killer machine running amok in the woods, a potential danger to the entire town. The mayor puts out a call to hearty adventurers to hunt it down and return with its head for a reward.",
-		"reward": "PLACEHOLDER",
+		"reward": "",
 		"completed": false
 	},
 	"isSelected": false,

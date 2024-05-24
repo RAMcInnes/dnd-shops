@@ -107,7 +107,7 @@
 	"quest": {
 		"name": "The Enchanted Pelt",
 		"description": "\tInman is enjoying an afternoon chat on the porch rocking chairs with an old timer who knows the local woods better than him. Anyone listening will hear them talking about a mythical creature called the Moonshadow Lynx. It is a rare and elusive beast that roams the depths of     enchanted woods; its fur imbued with the magic of the moonlit glades. One hasn’t been seen in this area for over a hundred years, yet the old timer says he saw one just the other day when working his trap line.\n\tIf one inquires, they learn the pelt of such a creature is very valuable, but capturing one is almost impossible. It can shape its environment, laying traps for those who hunt it. No one knows how to catch one, and cannot remember anyone ever succeeding in such a quest.",
-		"reward": "PLACEHOLDER",
+		"reward": "",
 		"completed": false
 	},
 	"isSelected": false,

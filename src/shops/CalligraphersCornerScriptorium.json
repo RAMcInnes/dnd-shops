@@ -87,7 +87,7 @@
 	"quest": {
 		"name": "The Lost Tome of the Dead Knights ",
 		"description": "\tAlaric keeps a few very rare and powerful books locked away in a secondary safe in the locked room in the shop. These are books customers occasionally find in the bottom of chests in their attics and other places. Alaric has purchased the most dangerous ones for safekeeping and advised the customers to sell the others at the bookshop down the street, even suggesting the price they should get. Most of the books contain heretical writings that should be destroyed, but he doesn’t have the heart to do so due to their beautiful illumination work. One book, “The Tome of the Dead Knights,” is different. It is a true book of power, and, in the wrong hands, it can be used to raise an army of thousands of undead knights under their command.\n\tThis morning, Alaric discovered the back wall of his shop was torn apart, and the safe with his rare book collection was stolen. He immediately reported to the constable, mayor, and local representative of the king, stressing the damage that could be caused if that book was used. His plea was impassioned enough that the king’s representative immediately authorized a very generous reward for recovering that volume.",
-		"reward": "PLACEHOLDER",
+		"reward": "",
 		"completed": false
 	},
 	"isSelected": false,

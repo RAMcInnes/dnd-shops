@@ -177,7 +177,7 @@
 	"quest": {
 		"name": "The Cobbler’s Conundrum",
 		"description": "\tBartholomew recently acquired a kangaroo hide and discovered that, when treated with certain chemicals, it creates an ultra-comfortable boot that absorbs most of the stress of walking, allowing the owner to travel fifty percent further before becoming tired. Unfortunately, the hide was large enough for only a single pair of boots, and the supplier cannot get any more. They can only offer the name of the small island where the animal kangaroo was acquired. Bartholomew sees an opportunity to revolutionize the shoe business if he can get enough of these hides. He is now seeking a crew of experienced hunters to go to the island and acquire as many hides as possible.",
-		"reward": "PLACEHOLDER",
+		"reward": "",
 		"completed": false
 	},
 	"isSelected": false,

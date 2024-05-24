@@ -202,7 +202,7 @@
 	"quest": {
 		"name": "Moonstone Berry",
 		"description": "\tA herbalist approached Solomon one day to ask if he could acquire some Moonstone Berries. Solomon asked if the herbalist knew of any place where they grew, as he was under the impression that the only place that grew them was a hostile, forbidden land more than a thousand miles across the sea.\n\tThe herbalist, hoping Solomon knew of another source, was disappointed in that answer. He hoped to get some to make a powerful potion to enhance one’s natural ability to use magic. After chatting a bit longer, Solomon suggests that a quest could probably be paid for if they are that important and if he has the funds. He wished the herbalist good luck finding a group willing to travel there and offered to share what he knew about the island’s danger,s and the mystical guardians said to protect the Moonstone trees from harm.",
-		"reward": "PLACEHOLDER",
+		"reward": "",
 		"completed": false
 	},
 	"isSelected": false,

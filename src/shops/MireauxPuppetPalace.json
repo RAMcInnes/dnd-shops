@@ -97,7 +97,7 @@
 	"quest": {
 		"name": "The Marionette’s Lament",
 		"description": "\tOccasionally, Master Mireaux has an opportunity to buy worn puppets from traveling theaters and circuses. He hates the thought of them being destroyed when they could easily be restored and give joy to entirely new audiences. A recent purchase included a badly broken marionette puppet needing major restoration work. Master Mireaux laid all the pieces out and carefully constructed new pins and fasteners, fixed cracked arms, and slowly pieced them together. Once together, he felt a force begin to take over his body as he painted and clothed the puppet. With each completed task, he felt his personality be pushed deeper and deeper into the dark recesses of his brain as a malevolent force crowded it out.\n\tFinally, the puppet was the master, and Mireaux its stringless mannequin. Over the coming weeks, the workers noticed strange people visiting Mireaux in his office at all hours as he neglected the shows. Being professionals, they picked up the slack. Eventually, they confronted him and noticed that he frequently looked at the marionette sitting in a chair in the corner before answering. Not sure what to do, they procrastinated until a crime wave struck the town. When they noticed that the people on some wanted posters were the same as those who frequented Mireaux’s office, they reported the odd behavior to the constable. The next day, the constable was dead, and they noticed drops of blood on the floor of the shop. Not knowing what else to do, they put out feelers for a more capable person to investigate.",
-		"reward": "PLACEHOLDER",
+		"reward": "",
 		"completed": false
 	},
 	"isSelected": false,

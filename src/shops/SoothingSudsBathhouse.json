@@ -97,7 +97,7 @@
 	"quest": {
 		"name": "The Lost Temple of Selenea",
 		"description": "\tA long-time patron of the baths noticed that the map of the region in the receptionist’s room used to track all the places patrons have traveled from to have a bath has subtly changed. The map is filled with pins showing where each patron calls home. Today, the patron noticed a pin in the center of the dead zone, a large desolate wasteland where no one can possibly survive. He learned that the person from that area checked in just an hour ago and is still in the baths. He asks for an introduction, and the receptionist calls Lucian to ask the other if he is willing to receive a guest. Moments later, high-pitched screaming is heard. As they run to find the issue, they see Lucian screaming because an inanimate skeleton is in repose in this now filthy private bath. Beside the bath is a scroll and an ancient necklace dedicated to the goddess Selenea, the ancient deity that was worshiped in the desolate area. The scroll contains a series of rights and rituals to bring Selenea into prominence again and includes a map that leads to an artifact necessary to kick off the series of rituals.",
-		"reward": "PLACEHOLDER",
+		"reward": "",
 		"completed": false
 	},
 	"isSelected": false,

@@ -127,7 +127,7 @@
 	"quest": {
 		"name": "The Lost Chronicle",
 		"description": "\table Paldross, the owner of Scribe’s Couriers, seeks a crew of skilled guards to protect a runner as he travels to a distant kingdom to pick up a book from an ancient wizard for delivery to the local court to help resolve a murder case. The book contains a very powerful magic that compels anyone who places their hand on it to tell the unvarnished truth for the next ten minutes.\n\tThe accused comes from an old, powerful, noble family. They are paying a huge fee to ensure the book arrives safely – and warning that those who committed the murder and framed their family member are still loose and will do everything in their power to defeat this delivery or at least delay it until it is too late.",
-		"reward": "PLACEHOLDER",
+		"reward": "",
 		"completed": false
 	},
 	"isSelected": false,

@@ -197,7 +197,7 @@
 	"quest": {
 		"name": "The Whispering Blade",
 		"description": "\tA snitch overheard Norbiss talking quietly with a customer about creating a special blade with a unique, magically enhanced metal that would force anyone pierced by the blade (even a tiny prick) to become paralyzed and truthfully answer any questions asked for as long as the blade stays in the flesh. The snitch is now slinking around town, seeking a buyer for this valuable information.",
-		"reward": "PLACEHOLDER",
+		"reward": "",
 		"completed": false
 	},
 	"isSelected": false,

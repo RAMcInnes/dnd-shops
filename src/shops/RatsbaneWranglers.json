@@ -142,7 +142,7 @@
 	"quest": {
 		"name": "The Rat King’s Curse",
 		"description": "As pass by Ratsbane Wranglers, they overhear a hushed conversation between Hannibal Blackthorn and a distressed local in the alley beside the building. The desperate noble, Bainbridge Royse, seeks Hannibal’s help with a peculiar rat infestation that has plagued their ancestral estate. Bainbridge describes the rats as being twice as large as sewer rats, with their leader being three times as large, with silvery hair, and glowing, bloodshot red eyes. He said the leader looks like a rat drawn in his great, great, great grandfather’s journal, a rat his ancestor dubbed Rat King because it seemed to have powers to direct other rats and turn them into fierce, organized predators. The journal told of how the rats overtook their home and spread out into the city and it took a band of mighty adventurers to rid the town and his home of the infestation. And now the scourge seems to be back.",
-		"reward": "PLACEHOLDER",
+		"reward": "",
 		"completed": false
 	},
 	"isSelected": false,

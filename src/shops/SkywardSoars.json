@@ -82,7 +82,7 @@
 	"quest": {
 		"name": "The Lost Heirloom Falcon",
 		"description": "\tWhile perusing Tressa’s falconer shop, the adventurers overhear a distraught noble seeking Tressa’s assistance. The noble’s family has a long-standing tradition of practicing falconry, and their most prized raptor, a majestic falcon with unique markings, has mysteriously disappeared. The noble is convinced that this falcon, known as “Aerion’s Pride,” is being sold off to a royal in another kingdom, and they are imploring Tressa to put out the word amongst her circle to find out where it is so it can be retrieved. They are willing to offer a significant payment to her for spreading the word and a sizeable reward for its safe return.",
-		"reward": "PLACEHOLDER",
+		"reward": "",
 		"completed": false
 	},
 	"isSelected": false,

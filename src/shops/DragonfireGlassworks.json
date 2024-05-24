@@ -117,7 +117,7 @@
 	"quest": {
 		"name": "The Luminous Chalice",
 		"description": "\tWhile shopping, adventurers overhear a whispered conversation between Kras and Rosemarie about an ancient artifact known as the Luminous Chalice. The conversation sounds like they have discovered a clue to its location. According to local lore, the chalice was crafted centuries ago and holds a hidden map showing how to successfully traverse a deadly trap-filled dungeon killed with a king’s ransom of wealth that has killed many talented adventurers over the years.",
-		"reward": "PLACEHOLDER",
+		"reward": "",
 		"completed": false
 	},
 	"isSelected": false,

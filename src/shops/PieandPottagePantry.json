@@ -42,7 +42,7 @@
 	"quest": {
 		"name": "Pie – Die!",
 		"description": "\tPie and Pottage Pantry frequently makes custom pies for customers. Many home gardeners want to use their fruits or specific spice mixes in their pies, and Agatha is happy to accommodate these requests as long as she is given reasonable notice.\n\tOne day, a stranger stopped in the shop with a bag of apples and a packet of spices and asked for a custom pie to be made. He said it must be done today and was willing to pay ten times the going rate to ensure he could pick it up by five p.m. The price was right, so Agatha agreed and made the apple pie but found the odor of the spice mix quite odd. She asked one of the urchins to follow the stranger after he left the shop. The urchin saw him share it with a well-known merchant and her family over a friendly-looking dinner.\n\tThe next day, the talk of the town was about the suicide of that entire family over their evening meal. The stranger was not among those dead. Agatha reported what she saw to the constables and, through careful testing, determined that the pie was poisoned. Agatha then told the constables that she was willing to pay a reward to whoever found that stranger to prove it was him who poisoned the pie and murdered that family.",
-		"reward": "PLACEHOLDER",
+		"reward": "",
 		"completed": false
 	},
 	"isSelected": false,
