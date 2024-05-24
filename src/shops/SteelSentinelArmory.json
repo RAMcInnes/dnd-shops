@@ -1,10 +1,10 @@
 {
 	"name": "Steel Sentinel Armory",
 	"image": "/shops/SteelSentinelArmory.png",
-	"description": "PLACEHOLDER",
+	"description": "The Steel Sentinel Armory, located near the town’s main thoroughfare, is a stone-constructed armorer’s shop with a large courtyard for gear testing and a forge for metalworking. Inside, the shop is filled with various accessories and armor, some ready-made and others custom-built. The owner, <u>Thaddeus Ironforge</u>, is a master craftsman with a rugged appearance and a preference for the forge over social interactions. His apprentice, <u>Aria Stoneforge</u>, is a strong young woman with an authoritative demeanor, who enjoys working with Thaddeus and instructing customers in the courtyard.",
 	"attitude": "Neutral",
 	"discount": 0,
-	"tags": [],
+	"tags": ["Smith", "Blacksmith", "Bladesmith", "Plateworker", "Mailsmith"],
 	"items": [
 		{
 			"name": "Armor Rack (holds up to 3 sets of armor)",
@@ -175,8 +175,8 @@
 		}
 	],
 	"quest": {
-		"name": "PLACEHOLDER",
-		"description": "PLACEHOLDER",
+		"name": "Dragonbane Armor",
+		"description": "\tWhile digging through the room with used equipment ready to be repaired, Thaddeus came across an odd, black metal suit of armor. He asked his nephew if he had a history on it – but all the nephew could share was that he bought an entire wagon full of armor and accessories a few months ago from some adventurer looking for quick cash, and it must have been part of that haul. Intrigued by the odd metal, Thaddeus started the restoration by polishing it to evaluate it better. As he polished the interior, he saw runs start to glow, and suddenly, the armor spoke to him in a very ancient language that started making sense after it spoke a few dozen words. The armor beseeched Thaddeus to don the armor, which he reluctantly did. It fit perfectly, and Thaddeus felt a tremendous surge of energy flow through him, and his face took on an angelic glow. He then picked up a massive sword he had recently finished forging, told Aria he was going dragon hunting in the nearby mountains, and walked out. After not hearing from him for several days, the nephew posted a notice on the job board asking for a good tracker to hunt him down.",
 		"reward": "PLACEHOLDER",
 		"completed": false
 	},

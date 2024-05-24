@@ -1,10 +1,10 @@
 {
 	"name": "Chordcraft Studios",
 	"image": "/shops/ChordcraftStudios.png",
-	"description": "PLACEHOLDER",
+	"description": "Chordcraft Studios, a quaint shop in the bustling market district, displays beautiful instruments in its picture window. The interior, part retail shop and part workshop, offers a variety of instruments for purchase and houses workbenches where instruments are crafted and repaired. The owner, <u>Gideon Blackwood</u>, a bespectacled middle-aged man, assesses every instrument through every stage of the creation process, demonstrates instruments to budding musicians, and tutors beginners. Apprentice <u>Gwendolyn Finch</u>, a budding musician, experiments with various instruments, helps ensure completed instruments stay in tune, and assists in the retail store.",
 	"attitude": "Neutral",
 	"discount": 0,
-	"tags": [],
+	"tags": ["Violin Maker", "Instrument Maker", "Fiddle Maker", "Lute Maker"],
 	"items": [
 		{
 			"name": "Bow",
@@ -100,8 +100,8 @@
 		}
 	],
 	"quest": {
-		"name": "PLACEHOLDER",
-		"description": "PLACEHOLDER",
+		"name": "The Lost Melody",
+		"description": "\tA traveling bard has been visiting luthier shops in every town they visited, seeking a master craftsperson who can make an instrument capable of playing a song they found in an ancient scroll. He went to Chordcraft Studios to see if Gideon could assist. They talk for hours, testing various instruments and being overheard by all the workers and quite a few customers. At the end of this long, tiring session, Gideon draws what he believes would be an instrument that could play the notes correctly but explains that the instrument alone is not enough. It needs a special resin to create the proper resonances to blend the tones to unleash the music fully. Gideon, an expert on resins, writes down a list of ingredients and harvesting instruc􀀡ons and explains that several sources are rare and almost impossible to find. He recommends that the bard hire a crew to travel with him to collect the items and return to the shop when done. They negotiate a price to build the instrument, and the bard pays a very large fee, promising to return when the ingredients are all collected. Gideon promises to have the instrument’s pieces constructed when he returns.",
 		"reward": "PLACEHOLDER",
 		"completed": false
 	},

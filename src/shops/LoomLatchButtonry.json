@@ -1,10 +1,10 @@
 {
 	"name": "Loom & Latch Buttonry",
 	"image": "/shops/LoomLatchButtonry.png",
-	"description": "PLACEHOLDER",
+	"description": "Loom & Latch Buttonry is a small artisanal workshop in a bustling market square, known for its button-covered door and button-themed exterior. Inside, the scent of natural materials fills the air and shelves display a variety of buttons. The owner, <u>Willem Thornwood</u>, is a matronly woman with a passion for button-making and a collection of exotic buttons. Despite her aging body and the challenges of running the shop, she finds joy in her work. Apprentice <u>Lysander Wells</u>, a young man with a physical disability, appreciates the seated nature of the work. He’s inquisitive, diligent, and brings a refreshing sense of humor to the shop, dividing his time between crafting buttons and interacting with customers. Together, they keep the tradition of button-making alive in their quaint workshop.",
 	"attitude": "Neutral",
 	"discount": 0,
-	"tags": [],
+	"tags": ["Buttoner", "Buttonsmith", "Buttonwright", "Button Turner"],
 	"items": [
 		{
 			"name": "Basic Button Sewing Kit",
@@ -85,8 +85,8 @@
 		}
 	],
 	"quest": {
-		"name": "PLACEHOLDER",
-		"description": "PLACEHOLDER",
+		"name": "The Secret in the Button",
+		"description": "\tOccasionally, urchins and adventurers will bring batches of buttons to Loom & Latch Buttonry to collect a few coins. Willem is happy to buy any usable buttons, especially when she gets enough of a single style for a tailor to use. Single buttons are harder to sell than sets of two to eight.\n\tLast week, a dirty, rugged-looking adventurer brought in a whole sack of buttons he’d been collecting on his past year’s journeys. Willem made an acceptable offer and was happy to receive some exotic buttons for her collection and several for sale. One button really intrigued her. It was thick, three inches across – perhaps taken from a giant’s jacket. She gave it to Lysander to clean and polish it so she could add it to her collection. He had a moment of clumsiness, and it dropped to the floor, cracked in half. He picked it up and saw that it could be fixed, but he also saw that it was hollow inside and held a small parchment that unfolded into what looked like a treasure map. As Willem wasn’t in the shop then, he kept the map and repaired the button, apologizing for dropping it when she returned. The next day, he left work for lunch and never came back. After a few days of not hearing from him, Willem checked his family home, and then they all made a report to the police and put up posters offering a reward for information leading to his whereabouts.",
 		"reward": "PLACEHOLDER",
 		"completed": false
 	},

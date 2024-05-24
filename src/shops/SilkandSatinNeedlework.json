@@ -1,10 +1,10 @@
 {
 	"name": "Silk and Satin Needlework",
 	"image": "/shops/SilkandSatinNeedlework.png",
-	"description": "PLACEHOLDER",
+	"description": "Silk and Satin Needlework is a sun-washed stucco-covered brick structure with a welcoming porch and a pink front door. The shop, filled with the scent of fresh herbs and beeswax, offers a variety of clothing and sewing supplies. The work area bustles with sewists crafting garments, operating a loom, and stirring a dye vat. The owner, <u>Genevieve Hawthorne</u>, is a determined and successful seamstress who spends most of her time assisting customers. Her apprentice, <u>Dez Rivers</u>, is a fiery young woman whose scattered thoughts are calmed by the repetitive tasks of sewing and embroidery, leading to a noticeable mellowing of her mood.",
 	"attitude": "Neutral",
 	"discount": 0,
-	"tags": [],
+	"tags": ["Tailoress", "Modiste", "Seamstress", "Couturier", "Costumier"],
 	"items": [
 		{
 			"name": "Basic Cloak",
@@ -170,8 +170,8 @@
 		}
 	],
 	"quest": {
-		"name": "PLACEHOLDER",
-		"description": "PLACEHOLDER",
+		"name": "The Cursed Tapestry of the Deep Marsh",
+		"description": "\tA peddler of decorative items has been going door to door trying to sell a tapestry he recently acquired. The tapestry shows an idyllic marsh scene, a lily pad covered pond, and frogs sitting on them, capturing lazy flies for their daily meal. (If someone looks closely with a magnifying lens, they will see those flies have human faces.)\n\tWhen the peddler brings it into Silk and Satin Needlework and opens it, Dez’z starts screaming incoherently and rolling around the floor in pain. Genevieve quickly shoos the peddler out and works for an hour to calm Dez’z down. When calmed, Dez’z shares that when the tapestry was opened, her mind was filled with images of a terrible place where demons were eating living people over and over again as torture, and the pain she felt temporarily shattered her mind. Genevieve later shares the story with a wizard she knows, and she says it needs to be investigated. She will seek out people to quest with.",
 		"reward": "PLACEHOLDER",
 		"completed": false
 	},

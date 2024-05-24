@@ -22,6 +22,7 @@ fs.createReadStream('shops.csv')
         const previousShop = csvData[index - 1];
         const previousShopName = previousShop ? previousShop['Shop Name'] : '';
         // If previous shop is different than the current shop, write out the previous shop to a file.
+        // ** This does not work for the last Shop in the CSV
         if (previousShopName && (previousShopName !== shopName)) {
           const fileName = `${previousShopName.replace(/[&\/\\#, +()$~%.'":*?<>{}]/g, '')}.json`;
           fs.writeFileSync(`src/shops/${fileName}`, JSON.stringify(shop, null, "\t"));

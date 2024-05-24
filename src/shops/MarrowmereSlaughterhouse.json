@@ -1,10 +1,10 @@
 {
 	"name": "Marrowmere Slaughterhouse",
 	"image": "/shops/MarrowmereSlaughterhouse.png",
-	"description": "PLACEHOLDER",
+	"description": "The Marrowmere Slaughterhouse is a bustling, efficient operation in a less affluent area, known for its unpleasant odors and muddy stockyards. It features a large barn-like structure where animals are swiftly processed into parts and waste, with sections iced for delivery to buyers. The sight inside is grim, with blood-soaked workers and slippery floors, yet it meets minimum sanitary standards. Owner <u>Gideon Blackwood</u>, a short-tempered man who prefers the cool of the ice room, ensures minimal animal suffering with efficient tools, delegating floor management to his staff. Among them is <u>Tamsin Reed</u>, a butcher with a tough past and a pleasant demeanor, who skillfully separates valuable offal on the cow processing line.",
 	"attitude": "Neutral",
 	"discount": 0,
-	"tags": [],
+	"tags": ["Slaughterhouse", "Butchery", "Carnage House", "Meatworks"],
 	"items": [
 		{
 			"name": "Animal Fat (per pound)",
@@ -150,8 +150,8 @@
 		}
 	],
 	"quest": {
-		"name": "PLACEHOLDER",
-		"description": "PLACEHOLDER",
+		"name": "The Cursed Meat",
+		"description": "\tMarrowmere Slaughterhouse offers butchering services for a few hunters who are friends with the owner. One such hunter brought three large bears from his most recent hunt for processing. He then sold the broken-down meat to a specialty butcher in town. After selling a good portion of the bear meat over the past few days, he pulled the rest from the shelves as several buyers complained of getting sick. He refunded those who complained, and everyone went their merry way. The town was overrun by bears that rampaged and caused massive destruction on the next full moon. When the residents tried to find tracks to hunt them down the next day, they could find no evidence of the bears leaving the town. The mayor, worried about another attack, is putting out the word that the town needs expert trackers and hunters to find and kill these rampaging bears before they do more than just cause property damage.",
 		"reward": "PLACEHOLDER",
 		"completed": false
 	},

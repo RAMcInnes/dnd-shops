@@ -1,10 +1,10 @@
 {
 	"name": "Blackwood's Bountiful Butchery",
 	"image": "/shops/BlackwoodsBountifulButchery.png",
-	"description": "PLACEHOLDER",
+	"description": "Blackwood’s Bountiful Butchery is a stone building located on the edge of the shopping district. The prevailing winds carry the odors of blood, meat, smoke, and spices away from the rest of the market. Inside, the well-lit space features a front area with staple food items, a long glass case displaying meats, sausages, and other chilled items, and a swinging door leading to the main butchery. The formidable owner, <u>Gwendolyn “Gwen” Blackwood</u>, treats customers like family, runs the shop confidently, and has a soft spot for stray cats. Her apprentice, <u>Bryce Bailinridge</u>, is an enthusiastic sausage maker, and Gwen invests in her development, hoping to transform her from a street urchin into a respectable lady.",
 	"attitude": "Neutral",
 	"discount": 0,
-	"tags": [],
+	"tags": ["Meatman", "Fleshmonger", "Carnifex", "Meat Cutter", "Beefmonger"],
 	"items": [
 		{
 			"name": "Beef (per pound)",
@@ -105,8 +105,8 @@
 		}
 	],
 	"quest": {
-		"name": "PLACEHOLDER",
-		"description": "PLACEHOLDER",
+		"name": "The Silver Horned Wyrm Feast",
+		"description": "\tEmissaries of the King have been visiting every hunter, tracker, skinner, and butcher in the kingdom to find someone who has or can acquire a silver horned worm for the upcoming wedding of the king’s daughter with a prince of a nearby realm. The meat of this fabled creature is supposed to ensure the creation of lifelong bonds, peace, and harmony, something that is desperately needed to finally bring peace to the two kingdoms. Unfortunately, the search has proven to be futile. Finally, in desperation, the emissaries start posting on all the job boards in the kingdom, offering a substantial reward for any group that can hunt down and deliver a silver horned wyrm intact and suitable for presentation at the table. The creature is a type of dragon, very rare and hard to find. A mature one is typically fifteen feet long. The king desires to bring the entire cooked carcass to the reception and have chefs carve it in front of the audience, filling the entire room with its enticing aroma.",
 		"reward": "PLACEHOLDER",
 		"completed": false
 	},

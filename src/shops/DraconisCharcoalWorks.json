@@ -1,10 +1,10 @@
 {
 	"name": "Draconis Charcoal Works",
 	"image": "/shops/DraconisCharcoalWorks.png",
-	"description": "PLACEHOLDER",
+	"description": "Draconis Charcoal Works, located on the edge of town, is a stone building that specializes in charcoal production. The owner, <u>Yon Emberbean</u>, is a seasoned charcoal maker known for his patience and expertise in wood and burn characteristics. The shop sells specialty wood charcoal used by various professionals, and common charcoal for blacksmiths, metalworkers, and households. The apprentice, <u>Pila Dormas</u>, enjoys the smoke and burning odors, and is proficient in all aspects of the charcoal-making process, from sawing logs to operating kilns and filling customer orders.",
 	"attitude": "Neutral",
 	"discount": 0,
-	"tags": [],
+	"tags": ["Charburner", "Carbonasius", "Carboner", "Pitman", "Carbonist"],
 	"items": [
 		{
 			"name": "Bag of High-Quality Charcoal (10 lbs)",
@@ -70,8 +70,8 @@
 		}
 	],
 	"quest": {
-		"name": "PLACEHOLDER",
-		"description": "PLACEHOLDER",
+		"name": "The Moonshadow Grove’s Enchantment",
+		"description": "\tA shopper overhears Yon speaking with a mysterious robed figure about a special order – Moonshadow Ember charcoal. From the snatches of overheard conversation, the shopper learns that there is a rare type of tree that has grown entirely from the light of the moon and absorbed special properties, but it is located in the dark center of a very dangerous forest. The next day, Yon places a notice on the town’s job board seeking those skilled in lumber retrieval under dangerous conditions to perform a special task for him at a to-be-negotiated but generous pay rate. Yon has a map to the forest, drawings showing the tree that must be found, and instructions on how to harvest and transport the wood. He even supplies notes on the various creatures he knows about that they might encounter and offers suggestions on how they can be defeated. Whether the information is still good is unknown as Yon hasn’t traveled to that part of the world in decades.",
 		"reward": "PLACEHOLDER",
 		"completed": false
 	},

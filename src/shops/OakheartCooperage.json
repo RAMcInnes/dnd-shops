@@ -1,10 +1,10 @@
 {
 	"name": "Oakheart Cooperage",
 	"image": "/shops/OakheartCooperage.png",
-	"description": "PLACEHOLDER",
+	"description": "Oakheart Cooperage, a large barn-like building, is conveniently located near the sawyer for easy lumber inspection. The building is filled with the rhythmic sounds of woodworking tools and the smell of fresh wood. The process involves selecting the finest lumber pieces, crafting them into staves, assembling them into barrels, and ensuring a tight, leakproof fit. The owner, <u>Perriot Oakheart</u>, is a stout, well-muscled man in his early fifties with a passion for woodworking. He is hands-on, often assisting workers and meeting customers for custom orders. Apprentice <u>Willow Brightwood</u>, a woman in her early thirties with a natural affinity for wood, is a dedicated worker who keeps up with the best of the workers. She is quiet and focused, often working for hours in a zen-like state. Both Perriot and Willow are committed to maintaining the high-quality standards of Oakheart Cooperage.",
 	"attitude": "Neutral",
 	"discount": 0,
-	"tags": [],
+	"tags": ["Hooper", "Barrel Maker", "Cask Maker", "Barrelwright", "Barrelsmith", "Hogshead Maker"],
 	"items": [
 		{
 			"name": "Small Barrel (holds 40 gallons)",
@@ -125,8 +125,8 @@
 		}
 	],
 	"quest": {
-		"name": "PLACEHOLDER",
-		"description": "PLACEHOLDER",
+		"name": "The Lost Recipe",
+		"description": "\tFor decades, Oakheart Cooperage has bought a superior barrel sealant from a wandering merchant. They are three weeks late with their latest shipment, which could become a problem for the cooperage in another month if they don’t show up. Perriot decides to leave nothing to chance and puts up a notice for a crew to travel the merchant’s route to locate the merchant and assist them until they reach the town.",
 		"reward": "PLACEHOLDER",
 		"completed": false
 	},

@@ -1,10 +1,10 @@
 {
 	"name": "Chalice Vine Vault",
 	"image": "/shops/ChaliceVineVault.png",
-	"description": "PLACEHOLDER",
+	"description": "Chalice Vine Vault, a weighty stone building with a porch and stained-glass windows, offers a cool interior ideal for wine storage. The owner, <u>Isabella D’Vincent</u>, a timeless beauty with deep chestnut brown hair and storm-blue eyes, dresses elegantly and has a deep knowledge of vineyards from her family’s business. Apprentice <u>Lucien Thorne</u>, a young man with a portly frame and vibrant blue eyes, treats each customer respectfully, assists in the showroom, and organizes new shipments in the basement, showcasing a particular flair for choosing the right foods to pair with the event’s wine selections.",
 	"attitude": "Neutral",
 	"discount": 0,
-	"tags": [],
+	"tags": ["Vintner", "Cellarer", "Vinoteca", "Wine Peddler"],
 	"items": [
 		{
 			"name": "Barrel of Premium Wine",
@@ -135,8 +135,8 @@
 		}
 	],
 	"quest": {
-		"name": "PLACEHOLDER",
-		"description": "PLACEHOLDER",
+		"name": "The Lost Vineyard Heirloom",
+		"description": "While cleaning the basement, Lucien discovers an ancient-looking, unlabeled bottle of wine. He shows it to Isabella, and she tells him it is the last known bottle of the legendary Lost Vineyard. This once-famous winery produced the highest quality wines before disappearing. She refuses to open it because she believes it to be the last known bottle, which is supposed to have magical properties. Plus, it is almost priceless to the right collector. She asks Lucien to return it to its spot and keep quiet about it. Unfortunately, while in his cups, he shared the story with others, and it was stolen. Isabella has contacted the authorities about the theft and is quietly offering a reward to anyone who can return it to her.",
 		"reward": "PLACEHOLDER",
 		"completed": false
 	},

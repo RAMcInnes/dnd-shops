@@ -1,10 +1,10 @@
 {
 	"name": "Crown & Comb",
 	"image": "/shops/CrownComb.png",
-	"description": "PLACEHOLDER",
+	"description": "Crown & Comb, a small shop on a bustling cobblestone street, offers barber and surgical services. The interior, filled with the scent of herbs and tonics, features styling chairs, surgical tools, and shelves of bottles and jars. The owner, <u>Reginald “Reg” Shearsworth</u>, is a skilled barber and surgeon known for his professionalism and ability to put customers at ease. His apprentice, <u>Lily Blossomfoot</u>, is an enthusiastic young woman who assists with grooming tasks, maintains the tools, and observes Reg’s techniques, eager to learn the trade.",
 	"attitude": "Neutral",
 	"discount": 0,
-	"tags": [],
+	"tags": ["Tonstrinae", "Tonsor", "Shaver", "Coxcomb", "Barber-Surgeon"],
 	"items": [
 		{
 			"name": "Antique Style Hand Mirror",
@@ -140,8 +140,8 @@
 		}
 	],
 	"quest": {
-		"name": "PLACEHOLDER",
-		"description": "PLACEHOLDER",
+		"name": "The Melancholy Minstrel’s Lament",
+		"description": "While waiting for a haircut, a party member overhears a disheartened minstrel named Chiara de Verona sharing her tale of woe with Reginald, the barber. A mysterious figure in a dark cloak has stolen her enchanted lute, a family heirloom passed down through generations. The minstrel believes the thief seeks to harness the lute’s magical properties for nefarious purposes. She tells Reg that she is looking for someone reliable to hunt down the thief and recover her property and is willing to pay handsomely for its return. She trusts that Reg will quietly spread the word to reach the right ears to help get her property returned.",
 		"reward": "PLACEHOLDER",
 		"completed": false
 	},

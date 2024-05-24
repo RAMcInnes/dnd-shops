@@ -1,10 +1,10 @@
 {
 	"name": "Sovereign Vault Services",
 	"image": "/shops/SovereignVaultServices.png",
-	"description": "PLACEHOLDER",
+	"description": "Sovereign Vault Services, a secure brick building located near the city’s government seat, offers a variety of banking services to its exclusive clientele. The interior, featuring a warm wood floor and rich paneled walls, houses a private office and a counter serviced by bankers. The owner, <u>Lord Cedric Ravenscroft</u>, is a distinguished man in his mid-50s known for his astuteness in financial matters. His apprentice, <u>Elara Whistledown</u>, is a young woman who enjoys interacting with clients and learning the intricacies of banking. The guard, <u>Gideon Ironhand</u>, is a robust young man responsible for security and handling collection issues.",
 	"attitude": "Neutral",
 	"discount": 0,
-	"tags": [],
+	"tags": ["Moneylender", "Money Changer", "Financier", "Usurer"],
 	"items": [],
 	"services": [
 		{
@@ -69,8 +69,8 @@
 		}
 	],
 	"quest": {
-		"name": "PLACEHOLDER",
-		"description": "PLACEHOLDER",
+		"name": "The Lost Ledger",
+		"description": "\tWhile organizing the main vault, Elara stumbles upon an old dusty ledger. Upon examination, it becomes clear that this ledger dates back several decades, from before Lord Cedric owned the business. It contains records of loans, investments, and transactions long thought to be lost. The significance of this rediscovery is twofold:\n1. The ledger unveils long-buried secrets and forgotten debts. The entries hint at questionable financial dealings, potential scandals, and connections to influential figures of the past.\n2. The rediscovery of the ledger can have unintended consequences if they are made public. If the entries are kept private, they could be used for blackmail against those still living or against their descendants.\n\tElara returned the ledger to the vault and discussed what to do about it with her boyfriend, the black sheep of his particular family. She thinks she should destroy the book, afraid of what Cedric might do with the knowledge if it is turned over to him, but is highly conflicted over the idea of destroying bank property.",
 		"reward": "PLACEHOLDER",
 		"completed": false
 	},

@@ -1,10 +1,10 @@
 {
 	"name": "Gossamer Goldworks",
 	"image": "/shops/GossamerGoldworks.png",
-	"description": "PLACEHOLDER",
+	"description": "Gossamer Goldworks, located near a town guard post, is a secure brick and timber jewelry shop with leaded glass windows. The shop showcases finished pieces in brightly lit display cases and has a consultation counter for custom works. The workspace is equipped with various tools for crafting gold and other materials into jewelry. The owner, <u>Edric Gildenthorn</u>, is a detail-oriented craftsman and shrewd businessman who guides the creation of custom pieces and mentors his workers. Apprentice <u>Befanis Orlass</u>, a multilingual widow with a strong work ethic, is learning the trade, serving customers, and maintaining the shop’s cleanliness and display aesthetics.",
 	"attitude": "Neutral",
 	"discount": 0,
-	"tags": [],
+	"tags": ["Goldworker", "Chaser", "Orfèvre", "Beadle", "Caster", "Medallist", "Bullionist"],
 	"items": [
 		{
 			"name": "Citrine-studded Cufflinks",
@@ -170,8 +170,8 @@
 		}
 	],
 	"quest": {
-		"name": "PLACEHOLDER",
-		"description": "PLACEHOLDER",
+		"name": "The Whispering Crown",
+		"description": "Edric has been meeting with a representative of the king for hours every day for a week. From snatches of conversation gathered by visitors, the king wishes to hire Edric to build a special circlet for his dead daughter. Edric is now quietly putting out the word that he seeks an adventuring party to travel to Coral’s Death, an undersea burial ground of an extinct maritime kingdom, to recover a ring said to be in the tomb of its last and greatest warrior. The ring is made of a rare material imbued with special properties that he needs to incorporate into the circle to make it hold the magic that will grant the king’s daughter the gift of hearing while it is being worn.",
 		"reward": "PLACEHOLDER",
 		"completed": false
 	},

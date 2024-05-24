@@ -1,10 +1,10 @@
 {
 	"name": "Mythical Chains Silverworks",
 	"image": "/shops/MythicalChainsSilverworks.png",
-	"description": "PLACEHOLDER",
+	"description": "Mythical Chains Silverworks, a small, brightly lit workshop with sturdy stone walls, showcases its wares in its intimate showroom. The workshop, filled with tables, desks, and shelves of supplies and equipment, houses a small forge for melting ingots for shaping. The owner, <u>Sorrel Thorne</u>, a wizened senior with yellow-white hair, has a passion for working with silver and often shares stories about his creations with long-time customers. Apprentice <u>Loren Rivers</u>, a matronly woman in her late thirties, loves the creative aspects of working with silver and is learning the foundational skills of the craft, aiming to become a master silversmith before her fortieth birthday.",
 	"attitude": "Neutral",
 	"discount": 0,
-	"tags": [],
+	"tags": ["Argentarius", "Plateworker", "Repoussé Master", "Spinner", "Beater"],
 	"items": [
 		{
 			"name": "Elaborate Silver Clock",
@@ -195,8 +195,8 @@
 		}
 	],
 	"quest": {
-		"name": "PLACEHOLDER",
-		"description": "PLACEHOLDER",
+		"name": "The Lost Earrings of Lady Fabiana",
+		"description": "As adventurers peruse Sorrel Thorne’s silversmith shop, they overhear a distraught noblewoman named Lady Fabiana lamenting the loss of a pair of exquisite silver earrings crafted by Sorrel many years ago. He explains to her that he can no longer make such delicate jewelry, so replacing them is impossible. He recommends she hire an investigator to hunt down their location and promises to assist by providing a small bit of the silver alloy used in their creation to help the investigator. The earrings are valuable and have protective enchantments she had a wizard place on them to protect her from harm. She is willing to pay handsomely for their return.",
 		"reward": "PLACEHOLDER",
 		"completed": false
 	},

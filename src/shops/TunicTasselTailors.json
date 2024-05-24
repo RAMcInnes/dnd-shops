@@ -1,10 +1,10 @@
 {
 	"name": "Tunic & Tassel Tailors",
 	"image": "/shops/TunicTasselTailors.png",
-	"description": "PLACEHOLDER",
+	"description": "Tunic & Tassel Tailors, a modestly sized wood frame shop located in the market square near the government center, offers various types of ready-to-wear clothing and custom-made garments. The interior, filled with the pleasant smell of fresh air and underlying layer of wool, linen, and other fabric smells, houses a sewing workshop with several worktables and shelves filled with bolts of colorful fabrics. The owner, <u>Elias Hawthorne</u>, a middle-aged man with a slender build and perfectly styled jet-black hair, is a talented line artist and a master of small talk. Apprentice <u>Gwendolyn “Gwen” Rivers</u>, a young woman in her late teens with a figure that flatters any clothing she wears, enjoys sewing and hopes to build up her skills enough to make original dress designs.",
 	"attitude": "Neutral",
 	"discount": 0,
-	"tags": [],
+	"tags": ["Sartor", "Sewer", "Couturier", "Modiste", "Haberdasher", "Costumier"],
 	"items": [
 		{
 			"name": "Basic Breeches",
@@ -215,8 +215,8 @@
 		}
 	],
 	"quest": {
-		"name": "PLACEHOLDER",
-		"description": "PLACEHOLDER",
+		"name": "The Missing Heirloom",
+		"description": "\tLady Winnifred Bumberstump is distraught, and Elias is trying to calm her down and get her to move from the storefront to a fitting room to calm her down. She is loudly lamenting the loss of her family’s heirloom—a legendary cloak with magical properties. The cloak, known as the “Cloak of Shadows,” has been passed down through generations of her family. It allows the wearer to blend seamlessly into the shadows, making them virtually invisible. She knows it was stolen from her family’s estate, probably at last weekend’s party, but it could have been earlier. She describes it to Elias in case anyone brings it into the shop and tells him that whoever returns it will be rewarded handsomely.",
 		"reward": "PLACEHOLDER",
 		"completed": false
 	},

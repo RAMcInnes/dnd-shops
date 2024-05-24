@@ -1,10 +1,10 @@
 {
 	"name": "Timber & Tides Shipworks",
 	"image": "/shops/TimberTidesShipworks.png",
-	"description": "PLACEHOLDER",
+	"description": "Timber & Tides Shipworks, a large barn-like building near the harbor, operates around the clock, providing ship repair and construction services. The interior, filled with workbenches and tool racks, houses a huge space for holding a large ship in place as it is being built or repaired. The owner, <u>Captain Thoren Ironwood</u>, a hale and hearty man in his mid-50s, is a skilled draftsman and well-liked by his crew. Apprentice <u>Hasel Karrington</u>, a young woman with a small, muscular frame and good balance, is almost ready to become a full-fledged shipwright and spends her day preparing timber, sawing and sanding raw wood to specifications, and assisting others on multiple-person endeavors.",
 	"attitude": "Neutral",
 	"discount": 0,
-	"tags": [],
+	"tags": ["Boatwrights", "Constructors", "Naval Architects", "Shipmakers"],
 	"items": [
 		{
 			"name": "Brass Ship’s Bell",
@@ -130,8 +130,8 @@
 		}
 	],
 	"quest": {
-		"name": "PLACEHOLDER",
-		"description": "PLACEHOLDER",
+		"name": "The Enigmatic Driftwood Charter",
+		"description": "\tA stranger approached Captain Ironwood with a large piece of driftwood he found washed up on shore while traveling to the city. The stranger wishes to sell it to the shop as it is a rare type of wood that can be used for making delicate parts. Also, the stranger wants to extract an odd metal ball embedded in it without destroying the value of the wood. The craftsmen worked on the piece and successfully recovered a good bit of usable wood and the ball. The ball turned out to be a container with a scrap of parchment and a partial map drawn on its reverse. The parchment detailed a partial treasure inventory, and the back shows an X on an island. The stranger asks Captain Ironwood for recommendations for people who might be able to identify the island and undertake a mission there to see if a treasure can be found.",
 		"reward": "PLACEHOLDER",
 		"completed": false
 	},

@@ -1,10 +1,10 @@
 {
 	"name": "Herald's Hock Haven",
 	"image": "/shops/HeraldsHockHaven.png",
-	"description": "PLACEHOLDER",
+	"description": "Herald’s Hock Haven, a warehouse-like building in a seedier part of town, is a pawn shop that displays popular items in its front window and organizes items into sensible sections inside. The shop also acts as a lender, giving secured loans against the value of goods. The owner, <u>Andromenous Fish</u>, an older gentleman with iron-gray hair, enjoys dressing up for work and has a good sense of the value of items. Apprentice <u>Xu Bi’Li</u>, a young woman in her late teens with a spirited demeanor, is skilled at pointing out thieves working the store and is trusted to negotiate values for simpler items.",
 	"attitude": "Neutral",
 	"discount": 0,
-	"tags": [],
+	"tags": ["Lombard Shops", "Mont de Piété", "Hock Shop", "Pledge Shop"],
 	"items": [
 		{
 			"name": "Alchemical Fire Flask",
@@ -290,8 +290,8 @@
 		}
 	],
 	"quest": {
-		"name": "PLACEHOLDER",
-		"description": "PLACEHOLDER",
+		"name": "The Beaming Scepter",
+		"description": "\tAn old mage stumbles upon an old, intricately carved scepter intermixed with a collection of canes and walking sticks among the items in the pawn shop. The mage detects hidden depths within its structure that their skills might be able to call to the surface. She strikes a deal with the shop and pays a princely sum to become the proud owner of an interestingly carved walking stick with a nicely faceted piece of rose quartz atop it. Two days later, at the stroke of midnight, a huge explosion rocks the town, accompanied by a blindingly bright beam of energy that traveled for miles, causing a very visible explosion at the highest point of a nearby mountain range. When the rubble was investigated, the constables found that the mage’s shop was totally incinerated, and the only thing that survived was the scepter.",
 		"reward": "PLACEHOLDER",
 		"completed": false
 	},

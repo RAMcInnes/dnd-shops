@@ -1,10 +1,10 @@
 {
 	"name": "Iron Remedies",
 	"image": "/shops/IronRemedies.png",
-	"description": "PLACEHOLDER",
+	"description": "Iron Remedies, a modest stone and mortar shop with a slate roof, specializes in metalworking, as indicated by its sign featuring crossed hammers, an anvil, and a repaired pot. The shop’s interior, warmed by a constantly glowing furnace, is filled with the sound of hammers on metal and displays various metal goods for purchase. The owner, <u>Norton-Ken Shapeseer</u>, a man in his late 30s with a cherry-red complexion and hands marked by forge work, spends most of his time in the workshop, only leaving to evaluate items for repair. Apprentice <u>Aeliana Daggerforth</u>, a fiery-haired tomboy in her mid-20s, surprises customers with her strength and skill in handling heavy iron pots and creating rough designs.",
 	"attitude": "Neutral",
 	"discount": 0,
-	"tags": [],
+	"tags": ["Tinsmith", "Tinker", "Coppersmith", "Pewterer", "Metalsmith"],
 	"items": [
 		{
 			"name": "Brewer’s Kettle",
@@ -75,8 +75,8 @@
 		}
 	],
 	"quest": {
-		"name": "PLACEHOLDER",
-		"description": "PLACEHOLDER",
+		"name": "The Lost Cauldron",
+		"description": "\tWhile getting a tool repaired at Iron Remedies, the adventurers overhear Norton-Ken sharing a story with Aeliana about an almost mythical iron pot that can turn heated water and a few simple herbs into ten powerful healing potions once a day. He further added that he saw the pot perform more than a decade ago and is just remembering it now because the owner contacted him yesterday to inform him that it was stolen. The owner is offering a reward for its return. Norton-Ken is convinced the pot will never be seen again as it is too rare and valuable for thieves to brag that they stole it. If the adventurers inquire, Norton-Ken will happily share the owner’s name and location so they can inquire further.",
 		"reward": "PLACEHOLDER",
 		"completed": false
 	},

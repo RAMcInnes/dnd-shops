@@ -1,10 +1,10 @@
 {
 	"name": "Skyward Soars",
 	"image": "/shops/SkywardSoars.png",
-	"description": "PLACEHOLDER",
+	"description": "Skyward Soars, a small shop and barn located near a meadow and wooded hills, specializes in falconry. The shop, marked by a small falcon painted on the door, houses various falconry equipment and a back room filled with food for the falcons. The barn serves as a training area and holds several falcon cages. The owner, <u>Tressa Hawkbeak</u>, is a former army falconer who educates potential customers about falcon care and participates in group hunts. Apprentice <u>Ealdred Hawksworth</u>, a young man in his late teens, assists Tressa in caring for the birds, maintaining the equipment, and learning how to work with the falcons in their natural environment.",
 	"attitude": "Neutral",
 	"discount": 0,
-	"tags": [],
+	"tags": ["Austringer", "Hawker", "Sparrowhawkers", "Merliner", "Lannerer", "Tierceler", "Faulconer", "Raptorer"],
 	"items": [
 		{
 			"name": "Custom Fitted Hood",
@@ -80,8 +80,8 @@
 		}
 	],
 	"quest": {
-		"name": "PLACEHOLDER",
-		"description": "PLACEHOLDER",
+		"name": "The Lost Heirloom Falcon",
+		"description": "\tWhile perusing Tressa’s falconer shop, the adventurers overhear a distraught noble seeking Tressa’s assistance. The noble’s family has a long-standing tradition of practicing falconry, and their most prized raptor, a majestic falcon with unique markings, has mysteriously disappeared. The noble is convinced that this falcon, known as “Aerion’s Pride,” is being sold off to a royal in another kingdom, and they are imploring Tressa to put out the word amongst her circle to find out where it is so it can be retrieved. They are willing to offer a significant payment to her for spreading the word and a sizeable reward for its safe return.",
 		"reward": "PLACEHOLDER",
 		"completed": false
 	},

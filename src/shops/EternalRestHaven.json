@@ -1,10 +1,10 @@
 {
 	"name": "Eternal Rest Haven",
 	"image": "/shops/EternalRestHaven.png",
-	"description": "PLACEHOLDER",
+	"description": "Eternal Rest Woodworks, a ramshackle workshop near the cemetery, specializes in coffin production. The owner, <u>Tobias Grimwood</u>, an elderly man with a pronounced limp, oversees the meticulous construction of coffins, from wood cutting and assembly to staining and polishing. Despite his cantankerous demeanor, he is an efficient seller and finds joy in assisting workers with construction tasks. The apprentice, <u>Hiede Dorchamp</u>, a middle-aged woman, finds fulfillment in sewing the interior materials of the coffins.",
 	"attitude": "Neutral",
 	"discount": 0,
-	"tags": [],
+	"tags": ["Undertaker", "Coffin Wright", "Casket Maker", "Mortician"],
 	"items": [
 		{
 			"name": "Burial Shroud (Simple)",
@@ -85,8 +85,8 @@
 		}
 	],
 	"quest": {
-		"name": "PLACEHOLDER",
-		"description": "PLACEHOLDER",
+		"name": "The Curse of the Forgotten Tomb",
+		"description": "\tWhile digging a grave, the gravediggers discover a pristine coffin already in the hole. They call the cemetery owner over before digging further and pulling it out. They bring it to the undertakers and call on Tobias to help clean it and possibly identify its age and the material it is made from before opening it.\n\tAs Tobias starts cleaning the outside, odd symbols are revealed. Once enough are revealed, they start glowing, and the entire box unexpectedly begins to eject the rest of the dirt as though it can no longer stick to the material. The cleaned box is a masterpiece built entirely from carefully filled and glued pieces of ivory. Tobias thinks the symbols are helping keep the box together and preserved but isn’t sure. He doesn’t recognize them and is only inferring that based on what he witnessed while cleaning it.\n\tThe cemetery owner has the two gravediggers try to lift the cover, which they eventually do with the help of crowbars. As it opens, a wall of field air flows out, making everyone sick. Next, hundreds of frogs pour out and jump around the undertaker’s shop. Finally, a beautifully robed figure sits up, says something in an unknown language, and blinks out of existence.\n\tHundreds of miles away, a monk of an obscure order thought to have disbanded hundreds of years ago wakes up screaming. Malakar the Malevolent has been freed from his tomb. He informs the two other members of the order, and recognizing that they are too few to recapture this scourge, they leave their mountain hideaway with all their treasure, seeking brave heroes to help them track Malakar down and recapture him.",
 		"reward": "PLACEHOLDER",
 		"completed": false
 	},

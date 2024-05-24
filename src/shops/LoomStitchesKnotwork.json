@@ -1,10 +1,10 @@
 {
 	"name": "Loom & Stitches Knotwork",
 	"image": "/shops/LoomStitchesKnotwork.png",
-	"description": "PLACEHOLDER",
+	"description": "Looms & Stitches Knotwork, a quaint timber-framed building adorned with colorful textiles, specializes in rug and tapestry making. The interior, filled with the faint smell of dyes, wool, and other animal fibers, houses a bright and crowded showroom and a workshop where workers operate several looms. The owner, <u>Wamish Weaverholm</u>, a seasoned rug weaver in his mid-fifties, dresses in colorful professional suits and assists customers in designing custom rugs and tapestries. Apprentice <u>Jassie Threadspinner</u>, a young woman in her twenties, is learning the skills of weaving rugs and tapestries on the looms and meticulously records each process in her notebook.",
 	"attitude": "Neutral",
 	"discount": 0,
-	"tags": [],
+	"tags": ["Carpetmakers", "Textile Artisans", "Mat Makers", "Kilim Crafters", "Dhurrie Makers"],
 	"items": [
 		{
 			"name": "Embroidery Threads (for adding intricate details)",
@@ -135,8 +135,8 @@
 		}
 	],
 	"quest": {
-		"name": "PLACEHOLDER",
-		"description": "PLACEHOLDER",
+		"name": "The Enchanted Loom",
+		"description": "Wamish is primarily a traditionalist, only buying modern equipment as the new generation wants to work with the latest. A slip of paper drifted to the floor while reviewing an old book of design techniques he had recently acquired. In an archaic form of the language, the paper talks about a loom that is hundreds of years old and operates itself when a design is placed on its small built-in desk. The paper even says that all it needs to create a masterpiece is spools of undyed yarns and any metallic wires in the design on the desk, and it creates it one hundred percent perfectly in one-quarter the time of a skilled artisan. Wamish believes the paper is true and wants to find and acquire this wondrous loom. He is currently making quiet inquiries to find a team of investigators to trace the book’s origin in hopes of finding clues to the loom’s location. He is willing to pay well for more clues and extravagantly to acquire the loom.",
 		"reward": "PLACEHOLDER",
 		"completed": false
 	},

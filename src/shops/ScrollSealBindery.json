@@ -1,10 +1,10 @@
 {
 	"name": "Scroll & Seal Bindery",
 	"image": "/shops/ScrollSealBindery.png",
-	"description": "PLACEHOLDER",
+	"description": "The Scroll & Seal Bindery is a tan brick building with a neutral appearance, housing a workshop filled with desks, tables, and presses. Upon entering, the smell of glue, ink, and paper dust greets customers. The owner, <u>Antoine De la Rosa</u>, is a skilled bookbinder with a scar from his war days. He takes pride in meticulously inspecting every project before delivery. The apprentice, <u>Yolande Brightwood</u>, is a determined young woman who improves her skills daily, fascinated by embossing equipment and eager to contribute to the shop’s work.",
 	"attitude": "Neutral",
 	"discount": 0,
-	"tags": [],
+	"tags": ["Stationer", "Bookmaker", "Scribener", "Parchmenter", "Binder"],
 	"items": [
 		{
 			"name": "Blank Parchment (per sheet)",
@@ -135,8 +135,8 @@
 		}
 	],
 	"quest": {
-		"name": "PLACEHOLDER",
-		"description": "PLACEHOLDER",
+		"name": "The Chronicles of the Forgotten Kingdom",
+		"description": "\tA visitor is digging through a box of “discard” books Antoine just acquired but hasn’t had a chance to sort yet. The book’s cover is severely cracked leather, and the spine barely keeps the pages together. The title has almost faded away but can just be made out - “The Chronicles of the Forgotten Kingdom.” The visitor opens the tome and discovers a cryptic inscription on the first page:\n\t“Seek ye the lost city of Elysium, Where shadows dance and secrets lie. In the heart of the ancient forest, Beneath the moonlit sky.” - Eregor Ironhand (A famous ancient ruler.)\n\tThe inscription hints at a long-forgotten kingdom known as Elysium, rumored to have been lost to the ravages of time and hidden within a dense, enchanted forest. The rest of the book is his diary, detailing every clue he followed to locate the city, but with no luck. He shares what he sees with Antoine, and they agree that competent historians should study the book for a reasonable split of any spoils from this research. They share a gentleman’s handshake, and both agree to quietly spread the word that they are looking for historians skilled in ferreting out clues.",
 		"reward": "PLACEHOLDER",
 		"completed": false
 	},

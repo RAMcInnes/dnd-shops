@@ -1,10 +1,10 @@
 {
 	"name": "Rustic Ridge Thatching",
 	"image": "/shops/RusticRidgeThatching.png",
-	"description": "PLACEHOLDER",
+	"description": "Rustic Ridge Thatching, a naturally weathered wooden warehouse, specializes in roofing materials. The shop, filled with the grassy smell of large bundles of hay, houses a service counter, a vast warehouse, and several iron stoves for maintaining temperature during winter months. The owner, <u>Mortimer Bramblethatch</u>, a third-generation roofer with a pronounced limp from a severe injury, continues the family legacy in a somewhat different role and uses his infirmity as a sales tool. Apprentice <u>Alden Willowtwine</u>, a young man with a lean frame and wiry strength, starts his day early by helping load a cart full of roofing materials and spends the day climbing the ladder, placing and affixing the roofing materials.",
 	"attitude": "Neutral",
 	"discount": 0,
-	"tags": [],
+	"tags": ["Thacksters", "Thacksmen", "Thackwrights", "Reeders", "Strawwrights", "Thatchlayers"],
 	"items": [
 		{
 			"name": "Baling Needle",
@@ -115,8 +115,8 @@
 		}
 	],
 	"quest": {
-		"name": "PLACEHOLDER",
-		"description": "PLACEHOLDER",
+		"name": "The Thatchwight",
+		"description": "\tMortimer’s fall from the roof was no accident. A rarely seen fey creature known as the Thatchwight pushed him off. It rested amongst the thatch material already laid down, and Mortimer stepped on its face. Before he could apologize, it gave him a strong push and ended his career.\n\tNo one believed him, believing it to be an old folk tale roofers use to excuse their clumsiness. But Mortimer knew what he saw and vowed to seek revenge if he ever discovered the creature. Fortune shined on Mortimer as the Thatchwight followed a supply of hay right into Rustic Ridge Thatching and is now hiding out amongst the bundles, all snug and warm, away from the frigid winds of this record-cold winter. Mortimer tells his crew many times that he keeps seeing glimpses of the creature, but they all just nod politely. Finally, at wit’s end, he discretely reaches out to his contacts to find a crew he can pay to help capture and dispose of this vile creature.",
 		"reward": "PLACEHOLDER",
 		"completed": false
 	},

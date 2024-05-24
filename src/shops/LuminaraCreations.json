@@ -1,10 +1,10 @@
 {
 	"name": "Luminara Creations",
 	"image": "/shops/LuminaraCreations.png",
-	"description": "PLACEHOLDER",
+	"description": "Luminara Creations, a stone building near the town center, is a candle shop and workshop known for its magical sign and fragrant atmosphere. The shop offers a wide variety of candles and scents, with a workshop in the back filled with cauldrons, molds, and wicks for candle-making. The owner, <u>Emily Tallyworth</u>, is a young woman with a robust frame and brightly dyed hair who is superstitious about her candle-making process and shares her vast knowledge of scents and waxes with customers. Apprentice <u>Gina Wickworth</u>, a young woman who prefers the predictability of the workshop, is experimenting with layered and clear wax candles, and is learning the art of creating candle molds and carving techniques.",
 	"attitude": "Neutral",
 	"discount": 0,
-	"tags": [],
+	"tags": ["Chandler", "Cirier", "Candlewright", "Waxworker", "Luminarist"],
 	"items": [
 		{
 			"name": "Aromatherapy Candle Set",
@@ -105,8 +105,8 @@
 		}
 	],
 	"quest": {
-		"name": "PLACEHOLDER",
-		"description": "PLACEHOLDER",
+		"name": "The Fading Flame Festival",
+		"description": "\tThe “Fading Flame Festival,” filled with vendors selling candles, crystals, and other items with purported healing properties, is being held in the town square in a week. Every year, Emily makes a special collection of candles just for it, but when she went into the shop this morning, she discovered a robbery during the night. The thief stole her box of special scents she was reserving for the candles she planned on making. Emily reported the theft to the constable, but they recommended hiring private investigators to find and recover them. She respects the advice and is contacting her contacts to find skilled sleuths to help her. ",
 		"reward": "PLACEHOLDER",
 		"completed": false
 	},

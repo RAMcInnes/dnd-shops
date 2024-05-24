@@ -1,10 +1,10 @@
 {
 	"name": "Wolf's Claw Traps",
 	"image": "/shops/WolfsClawTraps.png",
-	"description": "PLACEHOLDER",
+	"description": "Wolf’s Claw Traps, a rustic shop on the outskirts of the market district, specializes in various types of traps. The shop, filled with bright lamps and shelves of traps, houses a counter staffed by a pleasant-looking person, a storeroom containing more inventory and some specialized items, and a workshop for repairing damaged traps. The owner, <u>Inman Grimmsbane</u>, a man in his sixties with an outdoorsman build, spends his mornings in the nearby woods, working a set of personal traps. Apprentice <u>Lysandra Thorne</u>, a young woman with a healthy appreciation for the danger of traps, helps customers pick out the right trap for the job and occasionally helps repair traps in the back.",
 	"attitude": "Neutral",
 	"discount": 0,
-	"tags": [],
+	"tags": ["Pelt Hunters", "Bushwhackers", "Snaresmiths"],
 	"items": [
 		{
 			"name": "Animal Bait",
@@ -105,8 +105,8 @@
 		}
 	],
 	"quest": {
-		"name": "PLACEHOLDER",
-		"description": "PLACEHOLDER",
+		"name": "The Enchanted Pelt",
+		"description": "\tInman is enjoying an afternoon chat on the porch rocking chairs with an old timer who knows the local woods better than him. Anyone listening will hear them talking about a mythical creature called the Moonshadow Lynx. It is a rare and elusive beast that roams the depths of     enchanted woods; its fur imbued with the magic of the moonlit glades. One hasn’t been seen in this area for over a hundred years, yet the old timer says he saw one just the other day when working his trap line.\n\tIf one inquires, they learn the pelt of such a creature is very valuable, but capturing one is almost impossible. It can shape its environment, laying traps for those who hunt it. No one knows how to catch one, and cannot remember anyone ever succeeding in such a quest.",
 		"reward": "PLACEHOLDER",
 		"completed": false
 	},

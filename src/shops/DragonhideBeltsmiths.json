@@ -1,10 +1,10 @@
 {
 	"name": "Dragonhide Beltsmiths",
 	"image": "/shops/DragonhideBeltsmiths.png",
-	"description": "PLACEHOLDER",
+	"description": "Dragonhide Beltsmiths, a unique belt-focused shop, greets customers with the earthy scent of leather and a warm glow from oil lamps. The small space showcases a variety of leather hues and buckle designs, with workbenches for crafting belts to customer specifications. The owner, <u>Hoss Thornby</u>, is known for his keen sense of style, engaging storytelling, and his ever-changing, outlandish belt buckle. Apprentice <u>Tamsin Reed</u>, a petite woman with a bright smile, enjoys interacting with customers, showcasing belt styles, and maintaining a workspace adorned with wildflowers or handmade roses.",
 	"attitude": "Neutral",
 	"discount": 0,
-	"tags": [],
+	"tags": ["Girder", "Strapmaker", "Leathersmith", "Beltwright"],
 	"items": [
 		{
 			"name": "Belt Axe Loop",
@@ -115,8 +115,8 @@
 		}
 	],
 	"quest": {
-		"name": "PLACEHOLDER",
-		"description": "PLACEHOLDER",
+		"name": "The Lost Belt of Baron Thorne",
+		"description": "\tA noble’s carriage barreled down the street, making a scene. It stopped in front of Dragonhide Beltsmiths, and people gasped as Baron Rogelio Thorne himself jumped out and stomped into the shop. In a voice that couldn’t be ignored, the listening townsfolk heard him speak in a crazed manner and gesticulate wildly about his great, great, great grandfather’s belt and how it went missing last night. He is imploring Hoss to help in the search and use his contacts forged due to his hobby of collecting unique belt buckles to help recover this family heirloom. The Baron said it must be recovered in the next seven days as he absolutely must wear it for an upcoming duel of honor and will pay handsomely for its return.",
 		"reward": "PLACEHOLDER",
 		"completed": false
 	},

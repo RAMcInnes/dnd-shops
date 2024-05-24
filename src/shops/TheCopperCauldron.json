@@ -1,10 +1,10 @@
 {
 	"name": "The Copper Cauldron",
 	"image": "/shops/TheCopperCauldron.png",
-	"description": "PLACEHOLDER",
+	"description": "The Copper Cauldron is a stone building with a copper-coated barrel roof, housing a workshop and a retail room for copper-based goods. The owner, <u>Frankie Forgeheart</u>, is a seasoned artisan with a love for storytelling and a hands-off approach to sales. His apprentice, <u>Stefani Ironhand</u>, is a young woman with an innate understanding of the shop’s rhythms and a desire to forge her own path. Together, they work in harmony, creating and selling a variety of copper items, from cookware to jewelry, all while maintaining a warm, inviting atmosphere.",
 	"attitude": "Neutral",
 	"discount": 0,
-	"tags": [],
+	"tags": ["Brassworker", "Copperwright", "Copperer", "Redsmith", "Bronzesmith"],
 	"items": [
 		{
 			"name": "Belt Buckle",
@@ -120,8 +120,8 @@
 		}
 	],
 	"quest": {
-		"name": "PLACEHOLDER",
-		"description": "PLACEHOLDER",
+		"name": "The Lost Copper Bee",
+		"description": "\tIt’s not often that Frankie interacts with visitors to the shop, especially unexpected ones. But it’s impossible to say no to Lord Ervanis when he walks into a shop, especially when he is in a mood. Everyone in earshot quickly learned that his wife’s precious copper bee hat pin had been stolen and that it had been in her family for hundreds of years, a true family heirloom and treasure. (It is also imbued with potent protective magic, but Lord Ervanis doesn’t share that fact.)\n\tHe insists that Frankie follow him to his wagon, where his wife is waiting, and asks him to bring a sketch pad. His wife, Lilliane, quietly describes the pin while Frankie painstakingly draws it from her description and corrections until she states that the drawing is perfect. Lord Ervanis then gives Franke 10 gp, takes the drawing, and thanks him for his time. A few hours later, the town is plastered with reward posters featuring copies of Frankie’s drawings and an offer of a heavy reward for the pin’s return.",
 		"reward": "PLACEHOLDER",
 		"completed": false
 	},

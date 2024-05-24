@@ -1,10 +1,10 @@
 {
 	"name": "The Crimson Cauldron",
 	"image": "/shops/TheCrimsonCauldron.png",
-	"description": "PLACEHOLDER",
+	"description": "The Crimson Cauldron, a modest wooden building near a stream, is a dye shop known for its colorful sign and the earthy scent of dyes. The shop offers a service area for customers to bring in items for dyeing and sells white fabric that can be dyed a specific color. The workshop is equipped with tools and ingredients for dye-making, and the dyeing process involves heating, diluting, and applying the dye, followed by drying, rinsing, and packaging. The owner, <u>Aldric Demeter</u>, is a vibrant, hardworking man who oversees the dyeing process. Apprentice <u>Jackie Blandon</u>, a hardworking teen living on her own, is learning the dyeing business and hopes to take on more responsibilities in the future.",
 	"attitude": "Neutral",
 	"discount": 0,
-	"tags": [],
+	"tags": ["Colorists", "Tinters", "Tintex", "Dye Makers"],
 	"items": [
 		{
 			"name": "Alum (basic mordant)",
@@ -115,8 +115,8 @@
 		}
 	],
 	"quest": {
-		"name": "PLACEHOLDER",
-		"description": "PLACEHOLDER",
+		"name": "The Chromatic Shard",
+		"description": "\tAlways looking for better ways to dye clothes, Aldric speaks with people from many lands, inquiring about their clothes’ colors and examining the materials. He is in heaven when he runs into suppliers and retired dyers. He also has an open order with traders to collect any books on dying techniques, guaranteeing their purchase as long as they are less than a certain price. One recurring theme he has been tracing for years, one only mentioned in passing in some of his oldest books, is the “Chromatic Shard,” a magical crystal cylinder made up of many plates that can be spun. Each twist turns the crystal into a different color. If the crystal is placed in a tub with water, it turns the water into a magnificent, long-lasting dye matching the color of the crystal. The most recent book he received, Jebby’s Treatise on Dye Vibrancy, has a chapter on the shard, a seemingly firsthand account of someone who used it in a town that no longer exists due to an ancient volcanic eruption. Aldric believes the crystal must s􀀡ll be there, buried under lava flows. He is offering his savings to any group with mining and retrieval experience to travel to the area and seek out the shard.",
 		"reward": "PLACEHOLDER",
 		"completed": false
 	},

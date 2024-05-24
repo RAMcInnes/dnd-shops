@@ -1,10 +1,10 @@
 {
 	"name": "The Honeyed Hive",
 	"image": "/shops/TheHoneyedHive.png",
-	"description": "PLACEHOLDER",
+	"description": "The Honeyed Hive is a delightful, beehive-shaped shop in the food district, known for its warm, honey-infused air and a wide array of honey products. It has numerous beehives scattered across the region and a workshop for honey processing and hive building. The owner, <u>Polly Amber</u>, is a knowledgeable and extroverted beekeeper who enjoys creating beeswax candles and getting to know her customers. Her apprentice, <u>Lizbeth Brightwing</u>, is a petite woman with a lovely smile who enjoys the fragrance of honey, telling stories to children, and learning the intricacies of the business from Polly.",
 	"attitude": "Neutral",
 	"discount": 0,
-	"tags": [],
+	"tags": ["Bee Yard", "Bee Farm", "Beekeeper"],
 	"items": [
 		{
 			"name": "Bee Pollen (small pouch)",
@@ -120,8 +120,8 @@
 		}
 	],
 	"quest": {
-		"name": "PLACEHOLDER",
-		"description": "PLACEHOLDER",
+		"name": "The Apiarist Automaton",
+		"description": "\tA tinkerer is in town and is demonstrating his latest invention, a prototype clockwork beekeeper, in front of The Honeyed Hive. He sets up an entire display with several “hives” laid out on the ground and then commands the automaton to perform various tasks that the beekeepers normally perform. At first, the automaton performs admirably, and then an urchin throws a rock at it and laughs. The automaton is angered and chases the urchin into an alley, coming out a few minutes later covered in blood and gore. Seeing what happened, the observers all start to stone it, and it twirls in a confused frenzy before bashing through the crowd, killing two, and running into the woods. When the shock wears off, the tinkerer is nowhere to be found, and the townsfolk fear there is a killer machine running amok in the woods, a potential danger to the entire town. The mayor puts out a call to hearty adventurers to hunt it down and return with its head for a reward.",
 		"reward": "PLACEHOLDER",
 		"completed": false
 	},

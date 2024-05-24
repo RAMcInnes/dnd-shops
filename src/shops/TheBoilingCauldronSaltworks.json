@@ -1,10 +1,10 @@
 {
 	"name": "The Boiling Cauldron Saltworks",
 	"image": "/shops/TheBoilingCauldronSaltworks.png",
-	"description": "PLACEHOLDER",
+	"description": "The Boiling Cauldron Saltworks, a small shop near the shore, specializes in extracting salt from seawater. The shop’s interior is set up for retail trade, selling various types of salt, including those smoked to absorb flavors from wood and herbs. The owner, <u>Aldric Salford</u>, a sea-weathered man in his late thirties, enjoys being beside the sea and has a knack for creating interesting salt combinations. Apprentice <u>Maris Farley</u>, a young woman in her twenties with a wiry frame, enjoys working outdoors and daydreams while working at the cauldrons.",
 	"attitude": "Neutral",
 	"discount": 0,
-	"tags": [],
+	"tags": ["Saltmakers", "Saliniers", "Salters", "Brine Workers", "Saltern Workers"],
 	"items": [
 		{
 			"name": "Brine Barrel (10 gallons)",
@@ -145,8 +145,8 @@
 		}
 	],
 	"quest": {
-		"name": "PLACEHOLDER",
-		"description": "PLACEHOLDER",
+		"name": "It Came from the Salt",
+		"description": "\tWhile boiling salt one day, a strange colored scum formed on the water, both foamy and lumpy, almost like foam-covered frog eggs. Thinking nothing of it, the worker skimmed it off and tossed it into the discard bucket to be hauled to a pit in the property’s rear. Nothing more was thought about it, and weeks passed. One dark, unseen night, hundreds of frog-like creatures crawled from the pit and made their way to the harbor’s waters, where they ate, hid, and planned conquest, biding their time until they reached maturity.\n\tOne year after being skimmed from the cauldron, they rose from the sea in the dark of night and conquered the harbor area with their unusual weapons and incredible toughness. The next morning, the town awoke to dead bodies stacked on the roads leading to the harbor, each guarded by a contingent of tall, frog-like creatures. In broken common, their leader communicated that the town has one week to clear out before they take it by force. The mayor has sent runners to all the nearby towns seeking reinforcements to deal wit this plague.",
 		"reward": "PLACEHOLDER",
 		"completed": false
 	},

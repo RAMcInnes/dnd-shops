@@ -1,10 +1,10 @@
 {
 	"name": "Gear & Gadget Craftworks",
 	"image": "/shops/GearGadgetCraftworks.png",
-	"description": "PLACEHOLDER",
+	"description": "Gear & Gadget Craftworks, a long, low stone-constructed building beside a river, uses a waterwheel to power its many tools. The shop, filled with the smell of oil, fired metals, solder, and organic odors, houses a small display room and a workshop devoted to repairs and store creations. The owner, <u>Inspiration Lightseeker</u>, a wizened old man with features etched with lines of wisdom and experience, exudes the quiet confidence of a master craftsperson and works longer and harder than everyone else in the shop. Apprentice <u>Melodie Brightweld</u>, a studious young woman who always preferred books and tools to playmates, constantly asks questions during work and is well-liked by her colleagues.",
 	"attitude": "Neutral",
 	"discount": 0,
-	"tags": [],
+	"tags": ["Artificer", "Mechanic", "Blacksmith", "Engineer", "Crafter", "Fixer"],
 	"items": [
 		{
 			"name": "Alchemist’s Supplies (basic set)",
@@ -210,8 +210,8 @@
 		}
 	],
 	"quest": {
-		"name": "PLACEHOLDER",
-		"description": "PLACEHOLDER",
+		"name": "The Clockwork Conspiracy",
+		"description": "\tInspiration has learned that a shadowy organization known as the “Clockwork Consortium” is plotting to unleash chaos and destruction upon the realm using an army of advanced clockwork automatons. The Consortium’s leader, a mysterious figure known as the “Clockmaker,” is a master Tinkerer with a genius for crafting intricate and deadly machines.\n\tWhile in college, Inspiration studied with a woman who had an odd view of life and could possibly be the “Clockmaker.” He thinks the profile fits based on the rumors he’s heard. He pleads to the region’s military to take the rumors seriously and investigate. They sent several members to investigate, but they never returned.\n\tNow, they wish to fund Inspiration and whatever crew he wishes to hire to chase down the clues and stop what seems to be an impending crisis. They pledge an almost unlimited purse for supplies and pay for a team of specialists.",
 		"reward": "PLACEHOLDER",
 		"completed": false
 	},

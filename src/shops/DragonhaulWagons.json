@@ -1,10 +1,10 @@
 {
 	"name": "Dragonhaul Wagons",
 	"image": "/shops/DragonhaulWagons.png",
-	"description": "PLACEHOLDER",
+	"description": "Dragonhaul Wagons, located on the outskirts of town, is a large barn and outdoor workspace specializing in wagon construction and repair. The owner, <u>Cedric Blackwood</u>, is a seasoned craftsman known for his stern but professional demeanor and high standards. Apprentices <u>Elara Riversong</u> and <u>Thorne Montfort</u> assist in the workshop, with Elara focusing on detailed wheel making and Thorne maintaining tools and optimizing machinery. The operation offers a range of services, from design and material selection to woodworking, metalworking, and upholstery, ensuring each wagon is tailored to its intended function.",
 	"attitude": "Neutral",
 	"discount": 0,
-	"tags": [],
+	"tags": ["Wainwright", "Charioteer", "Wheelwright", "Wagoner", "Carriage Maker"],
 	"items": [
 		{
 			"name": "Braking System",
@@ -125,8 +125,8 @@
 		}
 	],
 	"quest": {
-		"name": "PLACEHOLDER",
-		"description": "PLACEHOLDER",
+		"name": "The Missing Cargo Convoy",
+		"description": "While perusing Cedric Blackwood’s cartwright shop, the adventurers catch wind of a distressing situation on the tongues of all the workers. Chatter suggests that a wealthy merchant guild that hired the shop to create a convoy of specialized cargo carts had his caravan, loaded with valuable goods, mysteriously go missing in the nearby wilderness. They wonder if any blame will be placed on their shop and if there is going to be a reward offered to investigate and try to recover the cargo.",
 		"reward": "PLACEHOLDER",
 		"completed": false
 	},

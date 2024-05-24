@@ -23,6 +23,7 @@ import DragonhideBeltsmiths from './DragonhideBeltsmiths.json'
 import DragonsHoardResale from './DragonsHoardResale.json'
 import EternalRestHaven from './EternalRestHaven.json'
 import EternalRestWoodworks from './EternalRestWoodworks.json'
+import ExquisiteGemworks from './ExquisiteGemworks.json'
 import FortressLocksandKeys from './FortressLocksandKeys.json'
 import FruitsoftheRealm from './FruitsoftheRealm.json'
 import GearGadgetCraftworks from './GearGadgetCraftworks.json'
@@ -108,6 +109,7 @@ export default {
   DragonsHoardResale,
   EternalRestHaven,
   EternalRestWoodworks,
+  ExquisiteGemworks,
   FortressLocksandKeys,
   FruitsoftheRealm,
   GearGadgetCraftworks,

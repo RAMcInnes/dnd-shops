@@ -1,10 +1,10 @@
 {
 	"name": "Shield & Cipher Investigations",
 	"image": "/shops/ShieldCipherInvestigations.png",
-	"description": "PLACEHOLDER",
+	"description": "Shield & Cipher Investigations, an elegant marble shop in the town center, offers upscale clients various services including surveillance, research, document authentication, decoding ciphers, and locating missing persons. The owner, <u>Rappton Kneebis</u>, a distinguished senior with a commanding presence, ensures each client feels fully attended to. The apprentice, <u>Daniel Bruster</u>, Rappton’s nephew, is a curious and eager young man with a knack for tracking, who spends his time researching and learning code-breaking when not on a case.",
 	"attitude": "Neutral",
 	"discount": 0,
-	"tags": [],
+	"tags": ["Sleuth", "Gumshoe", "Private Eye", "Inquisitor"],
 	"items": [],
 	"services": [
 		{
@@ -64,8 +64,8 @@
 		}
 	],
 	"quest": {
-		"name": "PLACEHOLDER",
-		"description": "PLACEHOLDER",
+		"name": "The Enigmatic Alchemist’s Codex",
+		"description": "\tA potential new client, Gizelle Amberleek, is talking to the secretary about her situa􀀡on and trying to get an immediate appointment. Gizelle is an alchemist of modest means who recently came across an ancient codex filled with powerful alchemical secrets she has been slowly translating. She has translated enough of the secret knowledge to know this codex is hugely powerful and could literally tip the scales of society in the wrong hands.\n\tUnfortunately, she was careless talking about it over one too many drinks, and her laboratory was broken into, and the book was stolen. The secretary conferred with Rappton and returned to reluctantly reject service as Gizelle doesn’t have the funds to pay their exorbitant fees.\n\tThe secretary suggested she put a notice on the town’s job board and even told her how to word it to attract the right sort of help. Gizelle agrees and places a post on the board shortly after.",
 		"reward": "PLACEHOLDER",
 		"completed": false
 	},

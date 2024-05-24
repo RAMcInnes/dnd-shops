@@ -1,10 +1,10 @@
 {
 	"name": "Dragonfire Glassworks",
 	"image": "/shops/DragonfireGlassworks.png",
-	"description": "PLACEHOLDER",
+	"description": "Dragonfire Glassworks, a fireproof stone structure, is a vibrant artisan workshop in the market square, known for its colorful stained glass panels and ornate ironwork designs. The interior, illuminated by the furnace’s cherry-red heat, houses a showroom of creations and an efficient workshop with various tools and raw materials for glassmaking. The owner, <u>Kras Emberglass</u>, is a seasoned glassblower known for his commitment to quality and his collection of colored beads, which customers can use to customize their orders. Apprentice <u>Rosemarie Starglow</u>, a promising young artisan, is known for her focus, dexterity, and her love for making glass flowers. She also handles stocking workbenches, basic shaping of items, and cleaning the shop.",
 	"attitude": "Neutral",
 	"discount": 0,
-	"tags": [],
+	"tags": ["Glasier", "Glassmith", "Furnaceman", "Flameworker", "Bottle-maker", "Lampworker"],
 	"items": [
 		{
 			"name": "Candle Holders",
@@ -115,8 +115,8 @@
 		}
 	],
 	"quest": {
-		"name": "PLACEHOLDER",
-		"description": "PLACEHOLDER",
+		"name": "The Luminous Chalice",
+		"description": "\tWhile shopping, adventurers overhear a whispered conversation between Kras and Rosemarie about an ancient artifact known as the Luminous Chalice. The conversation sounds like they have discovered a clue to its location. According to local lore, the chalice was crafted centuries ago and holds a hidden map showing how to successfully traverse a deadly trap-filled dungeon killed with a king’s ransom of wealth that has killed many talented adventurers over the years.",
 		"reward": "PLACEHOLDER",
 		"completed": false
 	},

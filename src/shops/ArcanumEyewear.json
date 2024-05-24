@@ -1,10 +1,10 @@
 {
 	"name": "Arcanum Eyewear",
 	"image": "/shops/ArcanumEyewear.png",
-	"description": "PLACEHOLDER",
+	"description": "Arcanum Eyewear, a small converted house with a lime-green exterior, offers eye examinations and spectacles. The interior, divided into a reception area, a display room, an examination room, and a lens-grinding workshop, is inviting and filled with the fresh scent of scented candles. Customers, who typically visit by appointment, have their eyes examined using charts and precision-ground lenses, and then choose frames for their spectacles. The owner, <u>Trapton Fairweather</u>, a bespectacled man in his fifties, conducts the examinations and enjoys interacting with customers. Apprentice <u>Hildie Swiftlens</u>, a petite woman in her early twenties, assists customers in selecting frames and inserts lenses into the chosen frames.",
 	"attitude": "Neutral",
 	"discount": 0,
-	"tags": [],
+	"tags": ["Opticarii", "Oculists", "Glassmakers", "Glass Grinders"],
 	"items": [
 		{
 			"name": "Eyeglasses (Quality)",
@@ -70,8 +70,8 @@
 		}
 	],
 	"quest": {
-		"name": "PLACEHOLDER",
-		"description": "PLACEHOLDER",
+		"name": "The Lost Lens of Clarity",
+		"description": "\tTrapton misplaced one of his rare magical glasses, one that contained the Lens of Clarity, a powerful set of lenses that lets one see possibilities spinning off in the future, allowing one to make better choices. He swears he placed them by his work table after a productive session working on the new glasses material, but when he returned from a long lunch break, he couldn’t find them. Hildie said no one came into the shop except for a delivery person who brought a new case of frames and asked to use the bathroom before leaving.\n\tHildie confirmed that it wasn’t the usual delivery person and that he was out of her sight for under five minutes. While this discussion was taking place, they heard thumping sounds at the rear door, where they discovered the usual delivery person knocking on the door, half unconscious and bleeding from a head wound. Trapton closes the shop, gets help for the delivery person, and then has Hildie sit down with the constable to describe the person, get a poster drawn, and plaster it across town with a generous reward offered for anyone who brings this person to justice.",
 		"reward": "PLACEHOLDER",
 		"completed": false
 	},

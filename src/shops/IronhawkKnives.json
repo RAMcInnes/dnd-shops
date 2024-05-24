@@ -1,10 +1,10 @@
 {
 	"name": "Ironhawk Knives",
 	"image": "/shops/IronhawkKnives.png",
-	"description": "PLACEHOLDER",
+	"description": "Ironhawk Knives, located in a shopping district, is a stone-and-mortar building showcasing its wares through a picture window. The interior, divided into a storefront and a workshop, displays a variety of items and houses a forge. The open design allows customers to observe the crafting process, and a side corridor provides a testing area for weapons. The owner, <u>Norbiss Darkspar</u>, a retired gladiator, invests his passion for sharp blades into the business, often designing new throwing blades. Apprentice <u>Leofric Traske</u>, a wheelchair-bound ex-huntsman, contributes to sales and crafting, particularly enjoying the task of finishing knives.",
 	"attitude": "Neutral",
 	"discount": 0,
-	"tags": [],
+	"tags": ["Bladesmith", "Swordsmith", "Cutler", "Knifemaker"],
 	"items": [
 		{
 			"name": "Belt Sheath",
@@ -195,8 +195,8 @@
 		}
 	],
 	"quest": {
-		"name": "PLACEHOLDER",
-		"description": "PLACEHOLDER",
+		"name": "The Whispering Blade",
+		"description": "\tA snitch overheard Norbiss talking quietly with a customer about creating a special blade with a unique, magically enhanced metal that would force anyone pierced by the blade (even a tiny prick) to become paralyzed and truthfully answer any questions asked for as long as the blade stays in the flesh. The snitch is now slinking around town, seeking a buyer for this valuable information.",
 		"reward": "PLACEHOLDER",
 		"completed": false
 	},

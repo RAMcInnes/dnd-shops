@@ -1,10 +1,10 @@
 {
 	"name": "Ironlink Forge",
 	"image": "/shops/IronlinkForge.png",
-	"description": "PLACEHOLDER",
+	"description": "Ironlink Forge, an imposing three-story stone structure, is a chain making workshop that offers a variety of chains and chainmail items. The owner, <u>Phineas Phee</u>, a heavily muscled man with a finely groomed mustache, oversees the quality of work and ensures the shop stays well-stocked. He also frequents the harbor to inspect ship chains and drum up business. Apprentice <u>Sallie-Mae Storm</u>, a former ship’s mate, is a diligent worker in charge of inspecting links and learning forging techniques. Despite the harsh conditions, the workshop maintains a tolerable atmosphere and continues to produce high-quality chains.",
 	"attitude": "Neutral",
 	"discount": 0,
-	"tags": [],
+	"tags": ["Chainwrights", "Chainweavers", "Fettlers", "Chainforgers"],
 	"items": [
 		{
 			"name": "Anchor Chain",
@@ -115,8 +115,8 @@
 		}
 	],
 	"quest": {
-		"name": "PLACEHOLDER",
-		"description": "PLACEHOLDER",
+		"name": "The Lost Chain of the Guardian",
+		"description": "\tAccording to ancient texts and oral legends, a skilled chain maker forged the Chain of the Guardian centuries ago and imbued it with magical properties to protect the wearer from harm. The chain was said to have been entrusted to a noble family for generations until it mysteriously disappeared during a raid on their stronghold.\n\tA mysterious traveler visited Ironlink Forge to show Phineas a single chainmail link he found in the great desert that he claims has unusual properties. He demonstrated what he had learned through experimentation and arranged to sell that single link to Phineas for a large sum. Phineas studied it for months, trying to unravel its secrets. While unsuccessful, he concluded that this link must be a piece of the mythical Chain of the Guardian. He finally decided to find seekers of rare treasures to scour the earth to find more pieces, believing that if he can recover enough of the armor, he can fetter out its secrets and recreate it, creating an enduring legacy for himself.",
 		"reward": "PLACEHOLDER",
 		"completed": false
 	},

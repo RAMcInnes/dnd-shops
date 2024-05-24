@@ -1,10 +1,10 @@
 {
 	"name": "Bowstring & Birch Arrows",
 	"image": "/shops/BowstringBirchArrows.png",
-	"description": "PLACEHOLDER",
+	"description": "Bowstring & Birch Arrows, a timber-framed building with a thatched roof, is a shop specializing in arrow crafting. The shop, filled with the scent of wood and feathers, displays various arrow shafts and offers a practice area for customers to test different arrow styles. The owner, <u>Lorenzo de Lacy</u>, is a war veteran with a keen sense of observation who often shares his military experiences and tips on various techniques with customers. His apprentice, <u>Madison Swiftarrow</u>, is a young woman with a talent for archery who is learning to create better and more accurate arrows, often collecting stray feathers for her personal experiments. ",
 	"attitude": "Neutral",
 	"discount": 0,
-	"tags": [],
+	"tags": ["Arrowwright", "Bowyer", "Quarrel-Maker", "Shaftsman", "Shaftwright", "Arrowsmith", "Flighter", "Arblaster", "Bowyer"],
 	"items": [
 		{
 			"name": "Arrow Poison (vial, enough for 10 arrows)",
@@ -180,8 +180,8 @@
 		}
 	],
 	"quest": {
-		"name": "PLACEHOLDER",
-		"description": "PLACEHOLDER",
+		"name": "he Lost Arrow of the Whispering Woods",
+		"description": "\tWhile perusing the fletcher shop, the adventurers overhear a hushed conversation between Lorenzo Ironwood and a mysterious stranger. The stranger, clad in a hooded cloak, urgently requests the fletcher’s expertise in heling to craft a unique arrow—an arrow the stranger says will possess the power to open a long-forgotten portal hidden deep within the Whispering Woods. The stranger shows Lorenzo specific materials and designs that must be used and explains the steps that must be rigorously followed while the stranger focuses layers of magic into the design. The money offered is excellent and Lorenzo accepts the commission. The adventurers later learn that the portal in Whispering Woods was created by the fey and is rumored to lead to a fabled horde of a deceased ancient red dragon just waiting for someone to claim it.",
 		"reward": "PLACEHOLDER",
 		"completed": false
 	},

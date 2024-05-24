@@ -1,10 +1,10 @@
 {
 	"name": "Serpent's Snare Outfitters",
 	"image": "/shops/SerpentsSnareOutfitters.png",
-	"description": "PLACEHOLDER",
+	"description": "Serpent’s Snare Outfitters, a small shack with a thatch roof on the edge of town beside a fork in its twin rivers, offers a selection of supplies, nets, pole sets, and other river traps. The shop, filled with open-air windows and a chalkboard with prices, houses a workshop where crafters build and repair weir poles and netting. The owner, <u>Giorgi Weirhook</u>, a grizzled middle-aged man with sun-bleached features, wears a salmon-shaped wood-carved talisman around his neck and often tests out repairs and new design ideas in the river nearby. Apprentice <u>Matt Rivershaper</u>, a young woman and the daughter of one of Giorgi’s better customers, often shares ideas with Giorgi about new designs and spends her day weaving and repairing nets, keeping the tools sharp, and making occasional forays on the river with Giorgi.",
 	"attitude": "Neutral",
 	"discount": 0,
-	"tags": [],
+	"tags": ["Fish Trapper", "Netter", "Fish Harvester", "Trawler"],
 	"items": [
 		{
 			"name": "Bait (Bundle)",
@@ -100,8 +100,8 @@
 		}
 	],
 	"quest": {
-		"name": "PLACEHOLDER",
-		"description": "PLACEHOLDER",
+		"name": "The Whispering Weir",
+		"description": "While sharing dinner with her dad, she asks if he has ever heard of “The Whispering Weir.” She speaks loudly and explains that a customer was speaking with Giorgi about it and that it sounds like an amazing magic item. Her father shares what he knows. He tells her that the rumors say that a powerful water deity created a weir trap in ages past to capture magical fish in the realm of the gods. It was said to be so powerful that it was always filled with a bountiful catch of delicious fish in hours. People believe it was lost in a battle that caused a massive tidal wave to sweep down the river, and it fell to earth, never to be seen again. He thinks if the story is true and if someone could find it and master its magic, they would become rich beyond their wildest dreams. He finishes by mentioning a journal he has maintained over the past twenty years with all the stories, rumors, and tidbits he has learned about the trap. He tells her she is welcome to read it and shares where he keeps it in their house.",
 		"reward": "PLACEHOLDER",
 		"completed": false
 	},

@@ -1,10 +1,10 @@
 {
 	"name": "Scribe's Couriers",
 	"image": "/shops/ScribesCouriers.png",
-	"description": "PLACEHOLDER",
+	"description": "Scribe’s Couriers, a quaint shop located between the town’s legal and merchant districts, provides courier services through a front service window. The interior holds two desks, a cubbyhole shelf unit for documents to be delivered, and a table for customer confirmation of details. The couriers, who deliver the packages and return with confirmations, store the documents in special bags that can only be opened with their conscious intent. The owner, <u>Oris Paldross</u>, an energetic man with experience in the town clerk’s office, is personable and can speak, read, and write over ten languages. Apprentice <u>Fatima Joop</u>, a young woman with an athletic build, is a fast runner who delivers in-town documents and is tutored by Oris every evening.",
 	"attitude": "Neutral",
 	"discount": 0,
-	"tags": [],
+	"tags": ["Courier", "Runner", "Herald", "Crier", "Bearer", "Dispatch Rider"],
 	"items": [
 		{
 			"name": "Ink Blotter (absorbent paper)",
@@ -125,8 +125,8 @@
 		}
 	],
 	"quest": {
-		"name": "PLACEHOLDER",
-		"description": "PLACEHOLDER",
+		"name": "The Lost Chronicle",
+		"description": "\table Paldross, the owner of Scribe’s Couriers, seeks a crew of skilled guards to protect a runner as he travels to a distant kingdom to pick up a book from an ancient wizard for delivery to the local court to help resolve a murder case. The book contains a very powerful magic that compels anyone who places their hand on it to tell the unvarnished truth for the next ten minutes.\n\tThe accused comes from an old, powerful, noble family. They are paying a huge fee to ensure the book arrives safely – and warning that those who committed the murder and framed their family member are still loose and will do everything in their power to defeat this delivery or at least delay it until it is too late.",
 		"reward": "PLACEHOLDER",
 		"completed": false
 	},

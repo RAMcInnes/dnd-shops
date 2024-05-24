@@ -1,10 +1,10 @@
 {
 	"name": "Hemp Haven",
 	"image": "/shops/HempHaven.png",
-	"description": "PLACEHOLDER",
+	"description": "Hemp Haven, a long, slender, barn-like structure, specializes in creating spools of heavy rope. The shop, filled with the smell of hemp and other fibers, houses a workshop floor where several machines weave fibers into different thicknesses of rope. The owner, <u>Tobias Weaver</u>, an older man with hawk-like features and a sturdy build, enjoys laughter and has a soft spot for animals. Apprentice <u>Kayleigh Finch</u>, a woman in her forties with an athletic frame and bright green eyes, tends to keep to herself, focusing on her work and seeking tips or instructions from her fellow workers.",
 	"attitude": "Neutral",
 	"discount": 0,
-	"tags": [],
+	"tags": ["Cordwainer", "Cordwinder", "Ropeworker", "Rope Spinner", "Cordelier", "Cordmaker", "Ropeman"],
 	"items": [
 		{
 			"name": "10 feet of bast rope",
@@ -125,8 +125,8 @@
 		}
 	],
 	"quest": {
-		"name": "PLACEHOLDER",
-		"description": "PLACEHOLDER",
+		"name": "Silk Rot",
+		"description": "\tA strange rot is killing the mulberry plants at the local silk farm. The loss of so much of this vital feedstock is causing silk production to decline dramatically, and if it continues much longer, the silkworms will start dying off as they starve from a lack of food. A local druid was called in to inspect the mulberry plants and the soil, and they determined that a malevolence had taken root in the soil, something more powerful than their magical abilities could handle. The druid recommends seeking powerful sorcerers and brave fighters to call this evil forth from the ground and defeat it.",
 		"reward": "PLACEHOLDER",
 		"completed": false
 	},

@@ -1,10 +1,10 @@
 {
 	"name": "Bog's Bounty",
 	"image": "/shops/BogsBounty.png",
-	"description": "PLACEHOLDER",
+	"description": "Bog’s Bounty, a timber-framed structure situated on the edge of town near a bog, is a compact shop that specializes in peat production. The shop, which has a central entrance flanked by small shuttered windows, two outbuildings, and a small stable, has a field for drying blocks of peat. The owner, <u>Levi Mosswood</u>, a middle-aged man with bog-stained features, frequently works in the bog alongside his digging crew. Apprentice <u>Irine Reedbrook</u>, a young woman in her late teens, handles most of the sales transactions, keeps the books for the shop, and helps load peat into a cart for delivery.",
 	"attitude": "Neutral",
 	"discount": 0,
-	"tags": [],
+	"tags": ["Turf Cutters", "Sof Harvesters", "Bog Miners", "Fen Workers", "Peat Extractors", "Bogtrotters", "Moor Men/Women"],
 	"items": [
 		{
 			"name": "Bag of Loose Peat (5 pounds)",
@@ -35,8 +35,8 @@
 		}
 	],
 	"quest": {
-		"name": "PLACEHOLDER",
-		"description": "PLACEHOLDER",
+		"name": "The Lost Relic of the Marshland Monastery",
+		"description": "\tWhen moving it to the drying racks, a peat block fell apart, and an ancient, stained silver medallion was discovered in the crumbled pile. After Levi cleaned it a bit, he believed it to have some religious significance, so he brought it to the local temple. He showed it to an acolyte and was quickly ushered into the high priest’s chamber. The high priest blessed a pair of white gloves and put them on before examining the medallion. After a very brief examination, he proclaimed it is a remnant of an ancient, extremely rich and powerful evil sect that disappeared millenia ago. He recommended that Levi lose the item far away from town lest it brings misfortune to the town by attracting the attention of this long-dormant deity.",
 		"reward": "PLACEHOLDER",
 		"completed": false
 	},

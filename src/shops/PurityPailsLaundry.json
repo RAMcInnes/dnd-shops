@@ -1,10 +1,10 @@
 {
 	"name": "Purity Pails Laundry",
 	"image": "/shops/PurityPailsLaundry.png",
-	"description": "PLACEHOLDER",
+	"description": "Purity Pails Laundry, located on a cobblestone street beside a stream, is a timber and wattle building with a sign depicting clean linen. The interior, filled with the scent of cleaning chemicals, houses wooden tables for folding and mending garments, and shelves stocked with soaps and cleaning agents. Various tools, including wash tubs, washboards, drying racks, and a water wheel-powered agitator, are used for cleaning various cloth items. The owner, <u>Audrey Thornton</u>, is a hardworking woman in her late 40s who enjoys ironing and folding linens. Apprentice <u>Thomas Weaver</u>, a sixteen-year-old boy, contributes to the business by operating the clotheslines and folding dried clothes.",
 	"attitude": "Neutral",
 	"discount": 0,
-	"tags": [],
+	"tags": ["Washerwoman", "Launderer", "Lavandière", "Fuller", "Buckster", "Fullster", "Mangler"],
 	"items": [
 		{
 			"name": "Bar of Soap",
@@ -135,8 +135,8 @@
 		}
 	],
 	"quest": {
-		"name": "PLACEHOLDER",
-		"description": "PLACEHOLDER",
+		"name": "The Lost Locket",
+		"description": "\tAs the adventurers wait to get their blood-soaked clothes cleaned in Purity Pails, they overhear a distressed young woman, Evelyn, seeking Audrey’s assistance. Evelyn explains that her former seamstress grandmother had a cherished locket containing a family heirloom stolen a few days ago. Audrey recognizes the description of the locket as she remembers seeing it worn by someone who dropped off laundry a few days ago and hasn’t picked it up yet. Audrey tells Evelyn that she doesn’t want to get involved in any trouble but is willing to let a private guard or two stay in the shop during work hours so she can point out the person when they come to pick up their clothes and follow them to another place before confronting them about the theft. Evelyn agrees that would work and says she will find someone to hire and return to the shop – hopefully before the clothes get picked up.",
 		"reward": "PLACEHOLDER",
 		"completed": false
 	},

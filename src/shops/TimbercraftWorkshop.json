@@ -1,10 +1,10 @@
 {
 	"name": "Timbercraft Workshop",
 	"image": "/shops/TimbercraftWorkshop.png",
-	"description": "PLACEHOLDER",
+	"description": "Timbercraft Workshop is a bright, sturdy wooden building in the town center, featuring a showroom of wooden furniture and a workshop filled with tools and lumber. The owner, <u>Tobias Woodborne</u>, is a robust man who spends his days managing the workshop, inspecting construction jobs, and nurturing a passion for building birdhouses. Apprentice <u>Elinor Ashwood</u>, a young woman in her late teens, is enthusiastic and hardworking, eager to prove herself in the world of carpentry despite her uncertainties about her future.",
 	"attitude": "Neutral",
 	"discount": 0,
-	"tags": [],
+	"tags": ["Joiner", "Wright", "Woodworker", "Cabinetmaker", "Timberman", "Woodwright"],
 	"items": [
 		{
 			"name": "Barrel",
@@ -104,8 +104,8 @@
 	],
 	"services": [],
 	"quest": {
-		"name": "PLACEHOLDER",
-		"description": "PLACEHOLDER",
+		"name": "The Lost Relic of the Woodland Temple",
+		"description": "\tWhile repairing a house, a long-forgotten journal is found in a wall. The worker who found it delivered it to the owner, who carefully read passages from it loud enough for the worker to hear. The language seemed archaic to the worker, but the message was clear. The journal speaks of a long-forgotten temple deep in the heart of the local woods and its altarpiece, the “Heartwood Talisman,” said to have the power to heal blights upon the land and grant prosperity to those who worship its power. After reading a bit more, the owner decides it’s a bunch of drivel and tosses it in the growing construction garbage pile. Convinced the book and story are real, the worker grabs the book while cleaning the garbage pile and is looking to pawn it off on some adventurers looking for a new quest.",
 		"reward": "PLACEHOLDER",
 		"completed": false
 	},

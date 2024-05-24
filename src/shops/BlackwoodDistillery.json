@@ -1,10 +1,10 @@
 {
 	"name": "Blackwood Distillery",
 	"image": "/shops/BlackwoodDistillery.png",
-	"description": "PLACEHOLDER",
+	"description": "Blackwood Distillery, a large yellow brick building on the town’s edge, specializes in distillation. The interior, filled with the odors of distillation and fermenting grains, houses a business office and a distillation floor with wooden barrels, copper stills, and a central hearth. The owner, <u>Bran Blackwood</u>, a robust man with a curly black beard, is a fourth-generation rectifier who knows the distillery’s inner workings by sound and smell. Apprentice <u>Alys Rivers</u>, a woman in her late thirties with long blond hair and deep brown eyes, takes her work seriously, fascinated by the transformation of simple grains into strong drink.",
 	"attitude": "Neutral",
 	"discount": 0,
-	"tags": [],
+	"tags": ["Distiller", "Brewer", "Brewmaster", "Spiritmaker", "Stillman"],
 	"items": [
 		{
 			"name": "Aldyris Brandy (per bottle)",
@@ -85,8 +85,8 @@
 		}
 	],
 	"quest": {
-		"name": "PLACEHOLDER",
-		"description": "PLACEHOLDER",
+		"name": "The Elixir of the Ethereal Vine",
+		"description": "\tWhile walking past Blackwood Distillery, a group of people overhear Bran chewing out a supplier in one of his more extreme rages. He demands that the supplier deliver more of a rare and elusive ingredient essential for distilling the fabled Aldyris Brandy, and the supplier is trying to explain that an unnatural drought is preventing the plants from flowering and making the seed that Bran is so desperate to acquire. As Bran’s famous temper burns out, the people hear him say to the supplier:\n\t“Unnatural, you say? Fix it! I’ll pay whatever it takes.”\nThen, he walks back into the distillery to handle another problem.",
 		"reward": "PLACEHOLDER",
 		"completed": false
 	},

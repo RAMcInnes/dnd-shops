@@ -1,10 +1,10 @@
 {
 	"name": "Pie and Pottage Pantry",
 	"image": "/shops/PieandPottagePantry.png",
-	"description": "PLACEHOLDER",
+	"description": "The Pie and Pottage Pantry is a vibrant pie shop in a wooden building, featuring a porch for customers to enjoy their pies and a side window for order pickups. The interior houses tables for dining, a counter with a variety of pies, and a busy baking area. The shop also serves hearty stews and supplies vendors who sell pies around town. The owner, <u>Agatha Thornberry</u>, is a kind-hearted woman in her late 50s, who manages the shop efficiently and donates unsold pies to the poor. Her apprentice, <u>Wilfred Fairweather</u>, is a young man who assists in baking and enjoys sharing stories with his coworkers. He finds the work rewarding and unwinds at the local tavern after a day’s work.",
 	"attitude": "Neutral",
 	"discount": 0,
-	"tags": [],
+	"tags": ["Tartmongers", "Pie Wainmen"],
 	"items": [
 		{
 			"name": "Miniature Pies",
@@ -40,8 +40,8 @@
 		}
 	],
 	"quest": {
-		"name": "PLACEHOLDER",
-		"description": "PLACEHOLDER",
+		"name": "Pie – Die!",
+		"description": "\tPie and Pottage Pantry frequently makes custom pies for customers. Many home gardeners want to use their fruits or specific spice mixes in their pies, and Agatha is happy to accommodate these requests as long as she is given reasonable notice.\n\tOne day, a stranger stopped in the shop with a bag of apples and a packet of spices and asked for a custom pie to be made. He said it must be done today and was willing to pay ten times the going rate to ensure he could pick it up by five p.m. The price was right, so Agatha agreed and made the apple pie but found the odor of the spice mix quite odd. She asked one of the urchins to follow the stranger after he left the shop. The urchin saw him share it with a well-known merchant and her family over a friendly-looking dinner.\n\tThe next day, the talk of the town was about the suicide of that entire family over their evening meal. The stranger was not among those dead. Agatha reported what she saw to the constables and, through careful testing, determined that the pie was poisoned. Agatha then told the constables that she was willing to pay a reward to whoever found that stranger to prove it was him who poisoned the pie and murdered that family.",
 		"reward": "PLACEHOLDER",
 		"completed": false
 	},

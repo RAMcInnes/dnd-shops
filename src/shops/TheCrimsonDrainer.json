@@ -1,10 +1,10 @@
 {
 	"name": "The Crimson Drainer",
 	"image": "/shops/TheCrimsonDrainer.png",
-	"description": "PLACEHOLDER",
+	"description": "The Crimson Drainer, a small, clean building on the outskirts of town, offers blood-letting procedures using leeches collected from nearby swamps and marshes. The shop, filled with the pungent odor of herbs, vinegar, and blood, houses wooden cabinets with jars of leeches, chairs with blood-letting instruments, and a wooden table for procedures. The owner, <u>Alfonce Swelton</u>, a man in his early fifties with a weathered face and hands, carries out the procedures with a no-nonsense manner and often talks to his favorite leeches. Apprentice <u>Ulana Wren</u>, a young woman with a background in fishing, assists Alfonce in the procedures, placing leeches and cleaning and wrapping wounds.",
 	"attitude": "Neutral",
 	"discount": 0,
-	"tags": [],
+	"tags": ["Bloodletters", "Leech Gatherers"],
 	"items": [
 		{
 			"name": "Herbal Remedies (for post-bloodletting care)",
@@ -45,8 +45,8 @@
 		}
 	],
 	"quest": {
-		"name": "PLACEHOLDER",
-		"description": "PLACEHOLDER",
+		"name": "The Codex of Bloodletting",
+		"description": "\tOne day, a stranger enters The Crimson Drainer and shows Alfonce a single ancient-looking page written in an archaic version of the common language, giving more weight to its authenticity. The stranger claims it is a page from “The Codex of Bloodletting,” an ancient, almost mystical volume that shares arcane lore on effective bloodletting for hundreds of diseases. The book has never been seen in memory and was believed to be a myth until this stranger showed up. The stranger says he has the rest of the book and will sell it for a large sum. When the stranger returns, Alfonce examines the book, matches up the torn page, and decides to buy it. Over the next few days, he reads it and realizes that the book is pretty much nonsense, a fake. But he believes the single page is real and that the book must really exist. He is now on a mission to find “bloodhounds” who can take this single page and find the rest of the book and is willing to pay handsomely for its discovery.",
 		"reward": "PLACEHOLDER",
 		"completed": false
 	},

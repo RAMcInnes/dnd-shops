@@ -1,10 +1,10 @@
 {
 	"name": "Jester's Jolly Toy Workshop",
 	"image": "/shops/JestersJollyToyWorkshop.png",
-	"description": "PLACEHOLDER",
+	"description": "Jester’s Jolly Toy Workshop, a whimsical wood building in a bustling shopping district, is designed to look like a jack in the box. The shop, filled with the earthy scent of wood shavings and hints of beeswax, houses a sales floor filled with a variety of toys and a workshop filled with sturdy wooden workbenches, tools, and toys under construction. The owner, <u>Bartholomew Jester</u>, a jolly man in his late forties with a wild shock of curly red hair, delights children with his quick wit, infectious laugh, and endless stream of sleight-of-hand magic tricks. Apprentice <u>Oliver Finch</u>, a wiry youth with tousled chestnut hair and bright, attentive hazel eyes, spends his days making simple toy parts, prepping them with paint, helping assemble toys, and learning to think critically about even the smallest decisions that go into toy construction.",
 	"attitude": "Neutral",
 	"discount": 0,
-	"tags": [],
+	"tags": ["Doll Maker", "Toy Smith", "Puppeteer", "Miniaturist", "Tinker"],
 	"items": [
 		{
 			"name": "Hand Puppet",
@@ -120,8 +120,8 @@
 		}
 	],
 	"quest": {
-		"name": "PLACEHOLDER",
-		"description": "PLACEHOLDER",
+		"name": "Jolly’s Forest Lord",
+		"description": "While perusing the store’s shelves, Bart noticed an exquisitely worked, articulated wood doll shaped like a man transformed into a living tree. Bart asks all the workers who made it. No one takes credit for its creation. Bart puts it in his office to mull it over for a while. When he opened the shop the next morning, the doll was back on the shelf, and all the raw lumber in the back was sprouting leaves. Bart could smell trouble, so he threw the doll into the nearby lake. It was back the next morning, and this time, his beloved jack in the box on the roof was growing a flower out of its head. Next, Bart had a cleric come by, and the cleric confirmed that the doll was a cursed object and that it was too powerful for him to fix. Bart now seeks more powerful assistance to prevent the calamity from slowly spreading through his store.",
 		"reward": "PLACEHOLDER",
 		"completed": false
 	},

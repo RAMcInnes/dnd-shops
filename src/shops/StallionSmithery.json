@@ -1,10 +1,10 @@
 {
 	"name": "Stallion Smithery",
 	"image": "/shops/StallionSmithery.png",
-	"description": "PLACEHOLDER",
+	"description": "Stallion Smithery, a timber-framed building with a thatch roof, is a blacksmith shop specializing in horse-related services and products. The shop, marked by a horseshoe-shaped sign, offers a variety of horse accessories and leather goods. The workshop, equipped with a forge, anvil, cooling trough, and various tools, is used for hoof care and horseshoe fitting. The owner, <u>Eldred Ironhoot</u>, is a retired rancher who focuses on maintaining healthy hooves. His apprentice and niece, <u>Lysa Landers</u>, manages the shop’s inventory, handles customer payments, and has a knack for generating sales with her endearing cowboy persona.",
 	"attitude": "Neutral",
 	"discount": 0,
-	"tags": [],
+	"tags": ["Horseshoer", "Hoofsmith", "Horsenailer"],
 	"items": [
 		{
 			"name": "Breeches",
@@ -90,8 +90,8 @@
 		}
 	],
 	"quest": {
-		"name": "PLACEHOLDER",
-		"description": "PLACEHOLDER",
+		"name": "The Lost Cavalry Regiment",
+		"description": "\tLong ago, an elite cavalry regiment left the capital to put down an uprising in a bandit-overrun mountain fiefdom. The regiment never returned from its mission, and no one knows what happened or how they vanished without a trace. The leader of the regiment was Eldred’s great, great grandfather.\n\tOne day, an adventurer brought a box of old horseshoes to Stallion Smithery to sell them as scrap that could be recycled into new horseshoes. After all, every copper counts in these hard times. Eldred looked at the box, weighted by eyeball, and gave him a slip of paper to hand to Lysa for payment. He dumped the box in a bin with other horseshoes waiting to be reprocessed, and while doing this, he caught a glimpse of an insignia on one. He quickly shuffled through the rest and found five more – all different sizes. The insignia belonged to the fabled Lost Regiment and was retired when they disappeared. He ran to the street to find the customer, but it was too late. He had Lysa draw up several posters that he posted all across town as quickly as possible to find that person before he left town. He was lucky and paid the adventurer a few more coins for the story of where the horseshoes were found. Armed with that information, Eldred wishes to hire a crew to help him explore the region to see if he can discover the fate of his ancestor and the rest of this brave group of ancient heroes.",
 		"reward": "PLACEHOLDER",
 		"completed": false
 	},

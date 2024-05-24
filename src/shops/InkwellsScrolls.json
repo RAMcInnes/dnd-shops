@@ -1,10 +1,10 @@
 {
 	"name": "Inkwell's Scrolls",
 	"image": "/shops/InkwellsScrolls.png",
-	"description": "PLACEHOLDER",
+	"description": "Inkwell’s Scrolls, a tiny wooden shop with an attached stone workshop, offers an inviting porch and a large front window displaying their wares. The brightly lit salesroom is filled with different types of paper and writing tools. The workshop, which smells of chemicals and rotten cabbage when the door is opened, houses several vats for making papers and parchments. The owner, <u>Hemford Alderidge</u>, a middle-aged man with sandy-blond hair, has tremendous patience and enjoys explaining the paper-making process to apprentices. Apprentice <u>Kenzie Willowshade</u>, a young woman with midnight black curls, works in the retail portion of the store and is learning the art of preparing the slurry for different types of papers.",
 	"attitude": "Neutral",
 	"discount": 0,
-	"tags": [],
+	"tags": ["Pulpwrights", "Parchmenters", "Scribners", "Stationers", "Scrollsmiths"],
 	"items": [
 		{
 			"name": "Artisanal Handcrafted Leather Journal",
@@ -85,8 +85,8 @@
 		}
 	],
 	"quest": {
-		"name": "PLACEHOLDER",
-		"description": "PLACEHOLDER",
+		"name": "The Enchanted Inkwell",
+		"description": "\tHemford’s latest acquisition of antique inkwells purchased for sale in his shop includes one very plain, ordinary-looking one. Even after polishing, it is unattractive. He placed it on a shelf with a very low price, figuring it would sell to someone if the price were right. Over the next several weeks, Kenzie noticed that people would not even pay it a bit of attention, or if they did, it was no more than a minor glance. She finally decided to buy it for her calligraphy ink, and Hemford gave it as a gift, happy to have it off his shelves. She used it that night and wrote her most inspired work in flawless script. When she awoke the next morning, her entire body was covered with writing, and the paper was blank. It would not wash off. She covered herself head to toe and took the inkwell to Hemford for advice.\n\tTogether, they took it to a sage and discovered it had a rare curse on it, and the only cure would be to write another document with a very rare ink from a faraway village in a remote and dangerous part of the world. Hemford, feeling responsible for the debacle, is seeking a crew to go to that village and acquire some of this special ink.",
 		"reward": "PLACEHOLDER",
 		"completed": false
 	},

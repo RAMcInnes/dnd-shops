@@ -1,10 +1,10 @@
 {
 	"name": "Regal Crowns Hat Emporium",
 	"image": "/shops/RegalCrownsHatEmporium.png",
-	"description": "PLACEHOLDER",
+	"description": "Regal Crowns Hat Emporium, nestled among fashion shops, is a hat store with a charming wooden facade and a mural of hat-wearing people. The interior showcases a variety of hats and accessories, with mirrors for customers to try on hats and a separate workspace for creating custom designs. Hats range from simple caps to elaborate headpieces made from various materials and adorned with embellishments. The owner, <u>Alaric Thorne</u>, is a middle-aged man who focuses on custom orders for the rich and powerful. Apprentice <u>Inez Beershan</u>, a young woman with a love for fashion and a keen interest in flowers, assists customers, handles purchasing, and is learning hat-making.",
 	"attitude": "Neutral",
 	"discount": 0,
-	"tags": [],
+	"tags": ["Milliner", "Modiste", "Hat-Maker", "Cap-Maker", "Bonnetier", "Feltmonger", "Capper"],
 	"items": [
 		{
 			"name": "Assorted Hatpins (set of 5)",
@@ -130,8 +130,8 @@
 		}
 	],
 	"quest": {
-		"name": "PLACEHOLDER",
-		"description": "PLACEHOLDER",
+		"name": "The Enchanted Masquerade",
+		"description": "While perusing the hatter shop, a visitor stumbles upon a peculiar hat hidden in the corner of the store. Alaric Thorne, noticing the visitor’s interest, reveals the hat’s intriguing history. This hat is part of a set created for a masquerade many years ago. When the owner came to pick up the hats, he didn’t like this one and ordered a new one made. This reject has been here ever since. The odd thing is that the owner never returned to pick up the replacement because he and his partner were trampled to death by a runaway wagon a few days before the big event. No one wants to buy this hat because they fear it is part of a chain of bad luck. Alaric is willing to sell it for a very reasonable price. (And yes, the hat is cursed to bring misfortune if it is mistreated by the owner.)",
 		"reward": "PLACEHOLDER",
 		"completed": false
 	},

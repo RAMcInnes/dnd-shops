@@ -1,10 +1,10 @@
 {
 	"name": "Ratsbane Wranglers",
 	"image": "/shops/RatsbaneWranglers.png",
-	"description": "PLACEHOLDER",
+	"description": "Ratsbane Wranglers, a small, somewhat run-down building located on the outskirts of a poorer part of town, specializes in commercial and home pest extermination and relocation tasks. The owner, <u>Hannibal Blackthorn</u>, a wizened man in his early fifties, enjoys explaining his choices in poisons and traps to customers. Apprentice <u>Emelia Finch</u>, a young woman in her twenties with auburn curls and green eyes, enjoys the work, especially crawling in tight spaces, and has a particular fondness for working with the three ferrets at the shop.",
 	"attitude": "Neutral",
 	"discount": 0,
-	"tags": [],
+	"tags": ["Rodent Exterminators", "Vermin Hunters", "Rat Trappers"],
 	"items": [
 		{
 			"name": "Exterminator’s Mask (protects against noxious fumes)",
@@ -140,8 +140,8 @@
 		}
 	],
 	"quest": {
-		"name": "PLACEHOLDER",
-		"description": "PLACEHOLDER",
+		"name": "The Rat King’s Curse",
+		"description": "As pass by Ratsbane Wranglers, they overhear a hushed conversation between Hannibal Blackthorn and a distressed local in the alley beside the building. The desperate noble, Bainbridge Royse, seeks Hannibal’s help with a peculiar rat infestation that has plagued their ancestral estate. Bainbridge describes the rats as being twice as large as sewer rats, with their leader being three times as large, with silvery hair, and glowing, bloodshot red eyes. He said the leader looks like a rat drawn in his great, great, great grandfather’s journal, a rat his ancestor dubbed Rat King because it seemed to have powers to direct other rats and turn them into fierce, organized predators. The journal told of how the rats overtook their home and spread out into the city and it took a band of mighty adventurers to rid the town and his home of the infestation. And now the scourge seems to be back.",
 		"reward": "PLACEHOLDER",
 		"completed": false
 	},

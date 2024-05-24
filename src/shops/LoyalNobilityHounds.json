@@ -1,10 +1,10 @@
 {
 	"name": "Loyal Nobility Hounds",
 	"image": "/shops/LoyalNobilityHounds.png",
-	"description": "PLACEHOLDER",
+	"description": "Loyal Nobility Hounds, a long building with a walled-in courtyard, is a shop offering a variety of goods for hounds, from leashes and harnesses to hunting equipment. The shop, dimly lit with oil lanterns, also provides training for hounds, strictly by appointment, and boarding when necessary. The owner, <u>Sir Lazarus Rousepaw</u>, a tall and robust man with a deeply tanned face, is dedicated to creating the best-trained hounds possible. Apprentice <u>Saraline Hermienne</u>, a young woman from a poor family, assists in the retail shop and trains under Lazarus’s mentorship.",
 	"attitude": "Neutral",
 	"discount": 0,
-	"tags": [],
+	"tags": ["Huntsman", "Kennelman", "Hound Keeper", "Hound Warder"],
 	"items": [
 		{
 			"name": "Bite Sleeve (Training Aid)",
@@ -125,8 +125,8 @@
 		}
 	],
 	"quest": {
-		"name": "PLACEHOLDER",
-		"description": "PLACEHOLDER",
+		"name": "The Noble Stag",
+		"description": "\tEvery townsperson knows that a majestic fey-stained stag with 16 points lives somewhere in the forest, but no hunter has ever been able to locate it except for quick glimpses at a distance. Many visitors to the town have tried to hire Sir Lazarus to hunt the creature, but he always refuses, saying it is a sacred animal and should be left alone. These disgruntled “armchair” hunters often seek another guide to take them out, ending in disappointment as no sign of the stag is seen, almost as though it knows people are hunting it. (Or the guides, all local, make sure they stay far away from its stomping grounds.) Some of these hunting groups are willing to pay very well for skilled trackers with knowledge of the territory.",
 		"reward": "PLACEHOLDER",
 		"completed": false
 	},

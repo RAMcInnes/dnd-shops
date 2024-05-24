@@ -1,10 +1,10 @@
 {
 	"name": "Carta Celestia",
 	"image": "/shops/CartaCelestia.png",
-	"description": "PLACEHOLDER",
+	"description": "Carta Celestia, a small timber-framed shop located a block from the main thoroughfare, is adorned with a globe-shaped sign and filled with reference books, supplies, and partially completed maps. The interior, illuminated by a skylight and oil lamps, houses a large drafting table where a bearded man works on a map. The owner, <u>Master Aurelius Serentius</u>, a distinguished figure with salt-and-pepper hair and piercing blue eyes, demonstrates a calm and measured demeanor, guiding customers and apprentices into the captivating realm of cartography. Apprentice <u>Eleanora Marlowe</u>, a young and vibrant woman, practices mapping techniques under Aurelius’s tutelage and often marks maps with stylized images of native flowers.",
 	"attitude": "Neutral",
 	"discount": 0,
-	"tags": [],
+	"tags": ["Cartographer", "Cartographist", "Topographer", "Chorograper", "Cartographer", "Surveyor"],
 	"items": [
 		{
 			"name": "Astrolabe (simple)",
@@ -125,8 +125,8 @@
 		}
 	],
 	"quest": {
-		"name": "PLACEHOLDER",
-		"description": "PLACEHOLDER",
+		"name": "The Cartographer’s Lament",
+		"description": "\tAs visitors peruse Master Serentius’ mapmaker shop, they stumble upon a peculiar map hidden in the depths of the shelves.\n\tThis ancient parchment seems to reveal the location of a mythical city named “Caelum Noctus,” the Celestial City of Night. Legend has it that this city exists on the other side of the known world, accessible only during a celestial alignment that occurs once in a century. It sits unloved because Serentius believes it to be a fake and of no value– but he will happily sell it to the visitor for an exorbitant price.",
 		"reward": "PLACEHOLDER",
 		"completed": false
 	},

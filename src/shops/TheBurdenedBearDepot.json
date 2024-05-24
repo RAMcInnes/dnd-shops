@@ -1,10 +1,10 @@
 {
 	"name": "The Burdened Bear Depot",
 	"image": "/shops/TheBurdenedBearDepot.png",
-	"description": "PLACEHOLDER",
+	"description": "The Burdened Bear Depot, a large wooden warehouse with a sign reading “Porter Services,” offers transportation, storage of goods, and other services. The warehouse, divided into open areas and locked rooms, stores items carefully labeled and annotated with their location. Customers can opt for private, locked rooms for valuable items. The owner, <u>Gideon Thorne</u>, a giant man with immense strength, manages the business and often hosts parties for his crew. Apprentice <u>Rowan Meadowcroft</u>, a physically active youth with a knack for packing wagons efficiently, dreams of achieving something grand someday.",
 	"attitude": "Neutral",
 	"discount": 0,
-	"tags": [],
+	"tags": ["Bearers", "Sherpas", "Loaders", "Packers"],
 	"items": [
 		{
 			"name": "Barrel of Ale (30 gallons)",
@@ -90,8 +90,8 @@
 		}
 	],
 	"quest": {
-		"name": "PLACEHOLDER",
-		"description": "PLACEHOLDER",
+		"name": "The Search for the Amber Eye",
+		"description": "\tGideon chased away a stranger who showed his staff a drawing and asked many questions. His workers said it was just some harmless old guy looking for something he said was lost in his house years ago and thought one of them might have seen it, given that three sets of people have moved in and out since he left. One of them handed Gideon a copy of the drawing he left behind just in case it jogged someone’s memory. The drawing details a piece of amber shaped like a living eye in a gorgeous gold setting.\n\tThree days later, Gideon and his crew arrive at work, only to find all the secured storage spaces have been broken into the night before, and their contents are scattered across the floor. While the crew goes about inventorying, organizing, and repacking the goods, Giden starts the laborious task of notifying everyone who had items stored in the secure spaces to come by and inspect their goods to see if anything was stolen. One of the customers seemed agitated at the news and became more so when inspecting his goods and seeing that a secret compartment in a small chest was empty. He asked if anything unusual had happened in the past week, was shown the flier, and told about the harmless old guy showing it to the work crew. He claimed no knowledge of it, but Gideon could tell he was not being truthful. He left, muttering to himself. Later, he posted flyers on the job boards seeking a crew to recover a stolen object.",
 		"reward": "PLACEHOLDER",
 		"completed": false
 	},

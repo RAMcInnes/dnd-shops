@@ -1,0 +1,130 @@
+{
+	"name": "Exquisite Gemworks",
+	"image": "/shops/ExquisiteGemworks.png",
+	"description": "Exquisite Gemworks, a brightly painted stone building, is a jewelry shop protected by magical security. The shop, marked by a wooden sign shaped like a faceted gemstone, has a small customer-facing interior and a large back room filled with gem-cutting and jewelry-making equipment. The owner, <u>Lord Cecil Stoneforge</u>, is a former noble who loves every aspect of the gem business and handles the most delicate cutting tasks himself. His apprentice, <u>Helena Brightstone</u>, enjoys working with Cecil and takes on responsibilities such as performing rough cuts and faceting on less valuable gems, selecting finished gemstones for jewelry creation, and maintaining the shop’s appearance. She also records her daily activities, discoveries, and new techniques learned in a growing stack of journals.",
+	"attitude": "Neutral",
+	"discount": 0,
+	"tags": ["Lapidary", "Jewel Crafter", "Jewel-Cutter", "Faceter", "Gemologist", "Stonecutter", "Gem Setter"],
+	"items": [
+		{
+			"name": "Common Gemstone",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Uncommon Gemstone",
+			"price": 50,
+			"currency": "GP"
+		},
+		{
+			"name": "Rare Gemstone",
+			"price": 500,
+			"currency": "GP"
+		},
+		{
+			"name": "Very Rare Gemstone",
+			"price": 5000,
+			"currency": "GP"
+		},
+		{
+			"name": "Faceted Gem",
+			"price": 25,
+			"currency": "GP"
+		},
+		{
+			"name": "Brilliant-Cut Gem",
+			"price": 100,
+			"currency": "GP"
+		},
+		{
+			"name": "Masterwork Gem",
+			"price": 1000,
+			"currency": "GP"
+		},
+		{
+			"name": "Exquisite Gem",
+			"price": 10000,
+			"currency": "GP"
+		},
+		{
+			"name": "Simple Gemstone Ring",
+			"price": 50,
+			"currency": "GP"
+		},
+		{
+			"name": "Silver Necklace with Gem Pendant",
+			"price": 100,
+			"currency": "GP"
+		},
+		{
+			"name": "Gold Bracelet with Multiple Gems",
+			"price": 500,
+			"currency": "GP"
+		},
+		{
+			"name": "Platinum Crown with Rare Gemstones",
+			"price": 5000,
+			"currency": "GP"
+		},
+		{
+			"name": "Gem Cutter’s Tools",
+			"price": 25,
+			"currency": "GP"
+		},
+		{
+			"name": "Polishing Kit",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Precision Chisels",
+			"price": 8,
+			"currency": "GP"
+		}
+	],
+	"services": [
+		{
+			"name": "Faceting Service",
+			"price": 10,
+			"currency": "GP"
+		},
+		{
+			"name": "Intricate Carving",
+			"price": 30,
+			"currency": "GP"
+		},
+		{
+			"name": "Masterwork Commission",
+			"price": 100,
+			"currency": "GP"
+		},
+		{
+			"name": "Chipped Gem Repair",
+			"price": 5,
+			"currency": "GP"
+		},
+		{
+			"name": "Cracked Gem Repair",
+			"price": 20,
+			"currency": "GP"
+		},
+		{
+			"name": "Shattered Gem Reconstruction",
+			"price": 100,
+			"currency": "GP"
+		},
+		{
+			"name": "Basic Identification",
+			"price": 1,
+			"currency": "GP"
+		}
+	],
+	"quest": {
+		"name": "The Lost Lapidary Codex",
+		"description": "\tAs visitors peruse the offerings of Exquisite Gemworks, they overhear a distressed noblewoman named Lady Isolde. She seeks a skilled party to embark on a quest to retrieve the Lost Lapidary Codex, a legendary tome rumored to contain ancient and unparalleled gem-cutting techniques to maximize the magical carrying capacity of any given gemstone. She is trying to get Lord Cecil to sponsor the expedition and help find a trustworthy crew in return for giving him the tome after he crafts her 25 stones according to its specifications.",
+		"reward": "PLACEHOLDER",
+		"completed": false
+	},
+	"isSelected": false,
+	"icon": "mdi-diamond-stone"
+}

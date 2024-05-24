@@ -1,10 +1,10 @@
 {
 	"name": "Ironhoof Stables",
 	"image": "/shops/IronhoofStables.png",
-	"description": "PLACEHOLDER",
+	"description": "Ironhoof Stables, a large fenced-in area on the outskirts of town, houses a small office, a large barn with twenty-four stalls, and a smaller barn filled with hay and feed. The facility includes a riding area for training horses and a small blacksmith’s forge for shaping horseshoes. The owner, <u>Sir Cecil Ironhoof</u>, an ex-cavalryman in his late fifties, personally rides all the horses that enter his stables for training. Apprentice <u>Vivienne Du Roche</u>, a teenager from a noble family with horses in their blood, dresses for the tasks at hand in simple work clothes or elegant riding outfits and is integrating into the team while showing care for the horses.",
 	"attitude": "Neutral",
 	"discount": 0,
-	"tags": [],
+	"tags": ["Livery", "Mews", "Stableyard", "Paddock"],
 	"items": [
 		{
 			"name": "Bag of Oats",
@@ -90,8 +90,8 @@
 		}
 	],
 	"quest": {
-		"name": "PLACEHOLDER",
-		"description": "PLACEHOLDER",
+		"name": "War Shoes",
+		"description": "\tBards still sing of the mighty steed Midnight and his horseshoes that shot lightning bolts in battle when it reared up on its hind legs. The story credits Midnight with saving the king in a fierce battle that almost toppled the kingdom two hundred years ago. Midnight and its rider disappeared shortly after that battle, never to be seen again.\n\tToday, a local net fisherman dredged up a horseshoe from the river, still as pristine as the day it was made. He thought it might be worth a few coins, so he brought it to the town farrier and was given five silver for it. The farrier examined it and couldn’t figure out what it was made of, certainly not iron. Not knowing what to do with it, he sold it to the town alchemist for ten gold pieces. The alchemist determined it was magical and had some lightning-based power, but it was incomplete. She brought it to her friend Cecil and wondered if it could possibly be one of the horseshoes the fabled horse Midnight wore in the battle that saved the kingdom. Cecil took it and promised to investigate. He is now seeking skilled treasure hunters who might be able to find the origin point of the horseshoe and perhaps recover the other three and maybe even Midnight’s bones to give it a fitting hero’s burial.",
 		"reward": "PLACEHOLDER",
 		"completed": false
 	},

@@ -1,10 +1,10 @@
 {
 	"name": "Eternal Rest Woodworks",
 	"image": "/shops/EternalRestWoodworks.png",
-	"description": "PLACEHOLDER",
+	"description": "Eternal Rest Haven, an imposing white brick building beside the town cemetery, offers a range of services including embalming, makeup and touchup for corpses, a viewing area for the bereaved, and transport to the nearby cemetery for burial. The owner, <u>Franko Crued</u>, a gaunt, pale man with a long face and sunken eyes, walks with a polished ebony cane and speaks in a soft, carefully measured voice. Apprentice <u>Viviana Nightshade</u>, a young, ghost-pale woman with an ethereal figure, is fascinated by death and handles makeup duties for the corpses, making them look lifelike for a few days before burial.",
 	"attitude": "Neutral",
 	"discount": 0,
-	"tags": [],
+	"tags": ["Mortician", "Grave Digger", "Embalmer", "Coffin Maker"],
 	"items": [
 		{
 			"name": "Burial Pillow",
@@ -65,8 +65,8 @@
 		}
 	],
 	"quest": {
-		"name": "PLACEHOLDER",
-		"description": "PLACEHOLDER",
+		"name": "Restless Earth",
+		"description": "A significant series of tremors and a strong earthquake have been shaking the ground in the region, and the big one caused a massive fissure to open in the cemetery. Broken, empty coffins litter the bottom of the fissure, and scratch marks cover the walls, almost as though creatures crawled from the bowels of the earth to freedom. Since this fissure appeared three days ago, one person has died every night in a gruesome way, often torn to shreds in a dark alley. Franko is upset because none of these names are in his magical book. Without revealing what he knows about people’s death date, he implores the town council to hire investigators to scour the streets at night and hunt down the scourge killing off the populace. They agree to his impassioned plea and send word far and wide, looking for a band of mercenaries to hire to protect the town and hunt down this creature or whatever it is.",
 		"reward": "PLACEHOLDER",
 		"completed": false
 	},

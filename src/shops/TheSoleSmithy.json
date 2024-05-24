@@ -1,10 +1,10 @@
 {
 	"name": "The Sole Smithy",
 	"image": "/shops/TheSoleSmithy.png",
-	"description": "PLACEHOLDER",
+	"description": "The Sole Smithy, a bright and airy shop in the shopping district, is known for its wide range of practical and fashionable shoes and boots. The owner, <u>Bartholomew Grimsby</u>, is a man in his forties with a passion for shoe design. He spends most of his time working on shoe designs or meeting with clients who need a unique shoe design. Despite his aging brain, he still handles many critical tasks in the shoe-making process. Apprentice <u>Wilfred Thornfield</u>, a young man in his early twenties who is eager to learn the cobbler’s trade, is learning about all the shoes and enjoys sharing his knowledge with customers. He is responsible for adding the correct measures of various types of shoes to the vats, cutting and scooping out the shoes, pressing the shoes into molds, and coating the shoes in colored wax.",
 	"attitude": "Neutral",
 	"discount": 0,
-	"tags": [],
+	"tags": ["Cordwainer", "Shoemaker", "Crispin"],
 	"items": [
 		{
 			"name": "Beeswax (for waterproofing)",
@@ -175,8 +175,8 @@
 		}
 	],
 	"quest": {
-		"name": "PLACEHOLDER",
-		"description": "PLACEHOLDER",
+		"name": "The Cobbler’s Conundrum",
+		"description": "\tBartholomew recently acquired a kangaroo hide and discovered that, when treated with certain chemicals, it creates an ultra-comfortable boot that absorbs most of the stress of walking, allowing the owner to travel fifty percent further before becoming tired. Unfortunately, the hide was large enough for only a single pair of boots, and the supplier cannot get any more. They can only offer the name of the small island where the animal kangaroo was acquired. Bartholomew sees an opportunity to revolutionize the shoe business if he can get enough of these hides. He is now seeking a crew of experienced hunters to go to the island and acquire as many hides as possible.",
 		"reward": "PLACEHOLDER",
 		"completed": false
 	},

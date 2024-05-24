@@ -1,10 +1,10 @@
 {
 	"name": "Arcane Bonds Bestiary",
 	"image": "/shops/ArcaneBondsBestiary.png",
-	"description": "PLACEHOLDER",
+	"description": "The Arcane Bond Bestiary, a stone building with a slate roof, is a pet shop with a colorful exterior mural and a dachshund-shaped sign. The interior, smelling of lemon and hay, is divided into sections for pets and familiars, with animals housed in pens, cages, and tanks. The shop offers a variety of animals, from common pets to exotic creatures for those seeking familiars. The owner, <u>Agathon Blackthorn</u>, is a middle-aged man with a rare skin condition that avoids sun exposure. He has a calming demeanor and is dedicated to helping customers find their perfect companion. His apprentice, <u>Kelsiie Fornath</u>, a widow with a love for animals, assists in the shop’s operations, including feeding the animals, maintaining cleanliness, and stocking shelves. She is learning the nuances of animal care and customer-animal matching under Agathon’s guidance.",
 	"attitude": "Neutral",
 	"discount": 0,
-	"tags": [],
+	"tags": ["Menagerie", "Aviary", "Animal Emporium", "Pet Purveyor"],
 	"items": [
 		{
 			"name": "Basic Grooming Kit",
@@ -190,8 +190,8 @@
 		}
 	],
 	"quest": {
-		"name": "PLACEHOLDER",
-		"description": "PLACEHOLDER",
+		"name": "The Lost Familiar’s Lament",
+		"description": "\tA sign on the front door offers a reward for recovering a lost monkey. It was sold as a familiar just two weeks ago, and the magician who bought it claims it was kidnapped right from his shoulder in the marketplace a few days ago. The magician is offering a stingy reward for its return, and Agathon is offering a separate, larger reward for its return to him, thinking that maybe the magician is not responsible enough for a familiar. The monkey is a small fey-born capuchin, loves pineapple, and answers to Freddie-Boy.",
 		"reward": "PLACEHOLDER",
 		"completed": false
 	},

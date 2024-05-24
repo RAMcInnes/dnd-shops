@@ -1,10 +1,10 @@
 {
 	"name": "Dragon's Hoard Resale",
 	"image": "/shops/DragonsHoardResale.png",
-	"description": "PLACEHOLDER",
+	"description": "Dragon’s Hoard Resale, a large barn-like structure in a market district, is filled with an eclectic array of items from various sources, including abandoned buildings and scavenged garbage. The dimly lit interior, filled with the scent of old parchment and aged wood, is haphazard yet organized, with items ranging from tarnished armor to chipped ceramics. The owner, <u>Gideon Thorne</u>, is an older man with a knack for evaluating junk and making a profit. He has a hidden collection of pocket watches that he cherishes but never sells. The apprentice, <u>Pesha Kloppa</u>, a wealthy merchant’s daughter with a knack for value, helps customers who are down on their luck find faded luxuries.",
 	"attitude": "Neutral",
 	"discount": 0,
-	"tags": [],
+	"tags": ["Rag-and-Bone Man", "Scrap Merchant", "Junkmonger", "Scavenger", "Wastepicker", "Thrift Peddler", "Secondhand Merchant"],
 	"items": [
 		{
 			"name": "Aged Wooden Marionette",
@@ -194,8 +194,8 @@
 	],
 	"services": [],
 	"quest": {
-		"name": "PLACEHOLDER",
-		"description": "PLACEHOLDER",
+		"name": "The Whispering Spitoon",
+		"description": "\tYears ago, Gideon purchased an entire tavern, and many of its bits are still on the shelves. One of the items in the tavern was “The Whispering Spitoon,” a secretive magical device that acquired the memories of anyone who spit into it and then shared them with the tavern owner, who was attuned to the object. It currently resides in the shop’s secret basement. The secrets the owner learned kept him wealthy until he tried to blackmail an assassin and was killed. The tavern quickly went out of business after his death. An inquisitive shopper found and purchased a journal with a very decorative cover, planning to use it as an office decoration. Curiosity caused her to open it and discover it was written in code.\n\tShe now NEEDS to know what it says and is looking for someone to break the code and share the plain language of the entries. Someone translating it will discover that its first pages discuss the spitoon and how to work its magic, and the rest is a record of blackmail details. Many people discussed in these pages still live in the town. ",
 		"reward": "PLACEHOLDER",
 		"completed": false
 	},

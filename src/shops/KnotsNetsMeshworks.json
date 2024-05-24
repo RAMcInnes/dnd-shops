@@ -1,10 +1,10 @@
 {
 	"name": "Knots & Nets Meshworks",
 	"image": "/shops/KnotsNetsMeshworks.png",
-	"description": "PLACEHOLDER",
+	"description": "Knots & Nets Meshworks, a modest timber-framed structure in the dock area of town, specializes in creating nets. The shop, filled with the earthy aroma of natural fibers and the rhythmic sounds of looms and shuttles, offers a variety of nets, both practical and decorative. The owner, Otis Stringer, a middle-aged man with rough hands, enjoys working outside on nicer days, repairing nets for local boats, and sharing idle gossip with their crew. Apprentice Glenda Sprat, the daughter of a ship captain, is attentive and eager to learn everything she can about net-making, hoping that this knowledge will make her more appealing as a crew member.",
 	"attitude": "Neutral",
 	"discount": 0,
-	"tags": [],
+	"tags": ["Netweaver", "Meshmith", "Knotwright", "Meshmonger", "Stringwright", "Netwright", "Cordwainer"],
 	"items": [
 		{
 			"name": "Bundle of Hemp Twine",
@@ -80,8 +80,8 @@
 		}
 	],
 	"quest": {
-		"name": "PLACEHOLDER",
-		"description": "PLACEHOLDER",
+		"name": "The Enchanted Net of Whispering Shadows",
+		"description": "\tAs adventurers peruse the wares at Knots & Nets, they overhear scraps of a conversation between Otis and a cloaked visitor. The visitor is showing Otis a scrap of parchment that talks about the Net of Whispering Shadows, a fabled cowl said to grant the wearer unparalleled psychic powers. Otis tells the stranger he does not know of the net or the unusual knot designs shown in the scrap. An observant person might detect a tiny bit of falsehood in that statement and conclude that Otis does have information about this rare item.",
 		"reward": "PLACEHOLDER",
 		"completed": false
 	},

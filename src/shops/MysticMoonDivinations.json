@@ -1,10 +1,10 @@
 {
 	"name": "Mystic Moon Divinations",
 	"image": "/shops/MysticMoonDivinations.png",
-	"description": "PLACEHOLDER",
+	"description": "Mystic Moon Divinations, a tent-shaped wood building adorned with mystical symbols, offers divination services. The shop, filled with the scent of aromatic herbs, displays mystical objects and invites customers into an inner sanctum for fortune-telling. The owner, <u>Esmeralda Nightshade</u>, is a young woman who magically transforms into a hunched crone during work hours to add weight to her prognostications. Her apprentice, <u>Thaddeus Emberglow</u>, serves as the gatekeeper and assistant, amusing customers with stories and collecting payment after readings. Despite his daily interactions, Thaddeus remains unaware of Esmeralda’s true youthful appearance.",
 	"attitude": "Neutral",
 	"discount": 0,
-	"tags": [],
+	"tags": ["Seer", "Oracle", "Soothsayer", "Diviner", "Shaman", "Auger", "Visionary", "Psychic", "Medium", "Palmist", "Tarot Reader", "Astrologer", "Numerologist", "Cartomancer"],
 	"items": [],
 	"services": [
 		{
@@ -49,8 +49,8 @@
 		}
 	],
 	"quest": {
-		"name": "PLACEHOLDER",
-		"description": "PLACEHOLDER",
+		"name": "The Lost Prophecy of the Starborn Seer",
+		"description": "\tEsmeralda does have the power to see beyond, and it is a noisy place. So many voices are trying to be heard that it can be difficult to focus on the correct one when casting a fortune. But she can generally push aside the chatter and focus on the correct guide while weaving out the details the customer seeks and presenting them in a manner that makes reasonable sense.\n\tHowever, she lost control once and was temporarily possessed by an ancient spirit with unfinished business of great importance. This ancient seer died while prognosticating a cataclysmic event that would shake the very foundations of civilization and has been seeking an outlet to share the message ever since before it became too late. With the time approaching, the seer found Esmeralda’s conscience wandering in the aether and used all its ectoplasmic energy to possess Esmeralda for just long enough to spit out the fortune. Fortunately, the connection didn’t cause permanent damage.The customer, a repeat client, knew something was wrong and fetched Thaddeus to help her.\n\tWhen she recovered, the customer shared what was said. “On the fall solstice, a great thirty-day eclipse will sweep the lands, causing the planet to cool terribly, killing all the crops, and causing the rise of fanatics and opportunists everywhere to overthrow the established order during the chaos. The only way to prevent this is for all leaders to band together and prepare for this month of uncertainty by stockpiling food and fuel and freely sharing it with their citizens until the eclipse passes and the earth returns to its normal cycles.” The fateful fall solstice is five months away when this message is delivered.",
 		"reward": "PLACEHOLDER",
 		"completed": false
 	},

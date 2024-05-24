@@ -1,10 +1,10 @@
 {
 	"name": "Quill and Plume Market",
 	"image": "/shops/QuillandPlumeMarket.png",
-	"description": "PLACEHOLDER",
+	"description": "The Quill and Plume Market, a small wooden shop adorned with a peacock mural and a feather-shaped sign, offers a variety of bulk feathers and feather-embellished products. The shop’s interior is filled with a colorful array of feathered garments and other decorative items, with one wall dedicated to barrels of feathers for bulk purchase. A backdoor leads to a workshop where artisans create custom goods. The owner, <u>Felicia Swan</u>, is an elegant woman who models her own feather-adorned creations and uses her rich vocabulary to sell her designs. Despite her openness about her work, she remains private about her personal life. Apprentice <u>Alistair Finch</u>, a young man with a keen eye for fashion, works primarily in the retail shop but is learning crafting skills, showing a particular talent for selecting the right assortment and colors of feathers for designs.",
 	"attitude": "Neutral",
 	"discount": 0,
-	"tags": [],
+	"tags": ["Plumassier", "Feather Merchant", "Plumier Feathermonger", "Quillmonger"],
 	"items": [
 		{
 			"name": "Artisan-Crafted Feathered Cane",
@@ -215,8 +215,8 @@
 		}
 	],
 	"quest": {
-		"name": "PLACEHOLDER",
-		"description": "PLACEHOLDER",
+		"name": "The Enchanted Feather Hunt",
+		"description": "\tFelicia quietly inquires about a group of adventurers willing to take on a dangerous quest for excellent pay. One of her customers, a famed gladiator, wants a single tail feather from the rare celestial phoenix to tie around her neck as part of a wizard-designed necklace. This necklace will have the power to revive her if she dies, a tool she desires to allow her to fight even more recklessly while in the ring. The problem is that the celestial phoenix lives in a faraway, snowy mountain with a significant yeti population that is very proprietary towards their colorful companion and will actively defend it. The mission is high risk but also high reward if a group retrieves a tail feather plucked from the phoenix.",
 		"reward": "PLACEHOLDER",
 		"completed": false
 	},

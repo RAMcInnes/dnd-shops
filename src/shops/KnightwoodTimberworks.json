@@ -1,10 +1,10 @@
 {
 	"name": "Knightwood Timberworks",
 	"image": "/shops/KnightwoodTimberworks.png",
-	"description": "PLACEHOLDER",
+	"description": "KnightWood Timberworks, a lumber mill near the town’s river, uses a waterwheel to power its lumber-making equipment. The mill, which includes a large yard, a barn-like facility, and a small office, processes logs into rough planks, which are then planed, seasoned, and stored. The owner, <u>Bramlee Ironwood</u>, a former lumberjack with a muscular build, evaluates the quality of logs and offers cash for rejected logs to be ground up for fuel or mulch. Apprentice <u>Hortensia Millsbury</u>, a young woman with a muscular frame and vibrant green eyes, performs a range of duties, from log preparation to helping with deliveries.",
 	"attitude": "Neutral",
 	"discount": 0,
-	"tags": [],
+	"tags": ["Lumberman", "Timberwright", "Woodwright", "Sawmiller", "Woodsman", "Timbermen", "Loggers"],
 	"items": [
 		{
 			"name": "Bag of bark",
@@ -80,8 +80,8 @@
 		}
 	],
 	"quest": {
-		"name": "PLACEHOLDER",
-		"description": "PLACEHOLDER",
+		"name": "The Silent Plague",
+		"description": "\tThe quality of the logs delivered to KnightWood Timberworks has deteriorated over the past few months. Many of the logs are riddled with small holes, but there are no signs of insect infestation. The logging groups are frustrated because their income has dropped by sixty percent. Even Bramlee has stopped purchasing inferior logs as he is oversupplied with them and has stopped buying. All concerned parties held a meeting and decided to pool together some funds to hire folks to study the forest and solve the plague affecting the trees before it is too late. They are now contacting government forestry agents and even posting notices on town job boards to find help for this perplexing problem.",
 		"reward": "PLACEHOLDER",
 		"completed": false
 	},

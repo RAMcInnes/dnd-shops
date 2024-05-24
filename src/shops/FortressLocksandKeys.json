@@ -1,10 +1,10 @@
 {
 	"name": "Fortress Locks and Keys",
 	"image": "/shops/FortressLocksandKeys.png",
-	"description": "PLACEHOLDER",
+	"description": "Fortress Lock & Keys, a small timber building with barred windows and an iron-banded door, offers various locks and security-related equipment. The interior, lit with lanterns and smelling faintly of grease, sulfur, and burnt paraffin, houses a retail space and a workspace for shaping keys and building locks. The owner, <u>Alysam Bleesmay</u>, a middle-aged retired lockpick, designs custom-built locks and security apparatus, and offers home and business security services. Apprentice <u>Hanna Vorspak</u>, a young woman in her late teens, assists in building locks and security systems and enjoys undertaking “secret” missions to test the security systems.",
 	"attitude": "Neutral",
 	"discount": 0,
-	"tags": [],
+	"tags": ["Keymaker", "Warder", "Keysmith", "Cerrajero", "Serrurier", "Leverer"],
 	"items": [
 		{
 			"name": "Average-quality Padlock",
@@ -130,8 +130,8 @@
 		}
 	],
 	"quest": {
-		"name": "PLACEHOLDER",
-		"description": "PLACEHOLDER",
+		"name": "The Missing Key",
+		"description": "\tAs visitors peruse the locksmith shop, they overhear a conversation between Alysam and a distressed noblewoman, Lady Penelope Haverthorn. Her family’s cherished heirloom, a mystical locket with a secret compartment containing the secret formula for their world-famous distilling process, has been misplaced or stolen. She needs access to the compartment to make their next batch of liquor and will pay a huge sum if it can be opened or the key found. Alysam tells her that he can’t help due to the unique magical nature of the lock mechanism and that she should seek out someone who has skills in finding lost objects to hunt down the key.",
 		"reward": "PLACEHOLDER",
 		"completed": false
 	},

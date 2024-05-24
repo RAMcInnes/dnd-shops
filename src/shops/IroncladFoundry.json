@@ -1,10 +1,10 @@
 {
 	"name": "Ironclad Foundry",
 	"image": "/shops/IroncladFoundry.png",
-	"description": "PLACEHOLDER",
+	"description": "The Ironclad Foundry, a medium-sized brick shop with a large outdoor workshop, is located on the town’s edge. The workshop, equipped with a forge, anvil, and various tools, is used to transform iron ingots into practical goods. The shop displays a variety of products, from bedframes to iron pots, and uses a wagon for deliveries. The neighborhood is filled with the sounds of forging and the smell of sulfur from the burning coal. The owner, <u>Ealdred Ironhand</u>, is a dedicated craftsman who takes pride in his work and considers his hammer a lucky charm. He enjoys creating custom designs and is grateful for his trade. Apprentice <u>Maxie Jerslain</u>, a young man with a farming background, is learning the craft under Ealdred’s guidance, starting with basic tasks like stoking the coal and making simple items, and gradually mastering more complex skills.",
 	"attitude": "Neutral",
 	"discount": 0,
-	"tags": [],
+	"tags": ["Blacksmith", "Farrier", "Smith", "Metalworker", "Foundryman", "Armorer", "Wright", "Smithmonger"],
 	"items": [
 		{
 			"name": "Anvil (Large)",
@@ -280,8 +280,8 @@
 		}
 	],
 	"quest": {
-		"name": "PLACEHOLDER",
-		"description": "PLACEHOLDER",
+		"name": "The Enchanted Anvil",
+		"description": "\tEaldred is looking for a group of tough adventurers to trace down a rumor of an enchanted anvil in a long abandoned, partially collapsed, and monster-filled dwarven mine in the nearby mountain range. His scant information suggests that the forge was built on the third level of the mine and that the anvil keeps the metal being worked hot for a longer time, allowing more work to be accomplished per heating session. He is willing to pay well and only cares about the anvil. Anything else the adventurers can recover is a bonus.",
 		"reward": "PLACEHOLDER",
 		"completed": false
 	},

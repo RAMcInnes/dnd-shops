@@ -1,10 +1,10 @@
 {
 	"name": "The Mystic Elixir Apothecary",
 	"image": "/shops/TheMysticElixirApothecary.png",
-	"description": "PLACEHOLDER",
+	"description": "The Mystic Elixir Apothecary is a quaint, inviting shop filled with a variety of items including candies, colorful liquids, spices, and herbs. The interior is a labyrinth of shelves and tables holding various items, with a counter for transactions and consultation. A basement lab allows the owner, <u>Bo Twees</u>, to create esoteric concoctions and conduct research. Bo, a tall, slender man with a unique appearance, is a professional often consulted by healers. His apprentice, <u>Eira Nightshade</u>, is a mature young woman with a striking presence who assists Bo in running the shop and conducting experiments.",
 	"attitude": "Neutral",
 	"discount": 0,
-	"tags": [],
+	"tags": ["Transmuters", "Hermeticists", "Spagyrics", "Chymists", "Magi"],
 	"items": [
 		{
 			"name": "Alchemy Scale (each)",
@@ -245,8 +245,8 @@
 		}
 	],
 	"quest": {
-		"name": "PLACEHOLDER",
-		"description": "PLACEHOLDER",
+		"name": "The Alchemist’s Grove",
+		"description": "\tEira invests a lot of time reading dusty old alchemical books in Bo’s private library, learning new techniques and ancient foundational bases for the medicines and other products they make. After reading an odd note or passage about “The Alchemist’s Grove” for the seventh time, she finally asks Bo what it is. Bo explains that it is just a fairy tale about a place that contains every secret and ingredient an alchemist would need to learn the secrets of transmutation – not just lead to gold but anything, even death to life. He adds that many have lost their lives in the search for this nonexistent place, and he even hands her a personal notebook of all his notes, which he says proves conclusively that it is a fairy tale and invites her to borrow it. Three days later, she tells Bo her home was broken into and only the notebook was stolen.",
 		"reward": "PLACEHOLDER",
 		"completed": false
 	},
