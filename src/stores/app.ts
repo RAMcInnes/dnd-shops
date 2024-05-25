@@ -57,7 +57,6 @@ export const useAppStore = defineStore('app', () => {
   }
 
   return {
-    shops,
     setShops,
     getShop,
     getImage,

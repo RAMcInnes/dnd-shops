@@ -37,7 +37,7 @@
               v-if="isHovering || shop.isSelected"
               icon="mdi-store"
               :color="shop.isSelected ? 'yellow' : ''"
-              @click="addSelectedIconToShop(shop)"
+              @click.native.stop="addSelectedIconToShop(shop)"
             />
           </template>
         </v-list-item>
@@ -83,9 +83,9 @@ const addSelectedIconToShop = (shop: ShopInterface) => {
 
   // This works, but is wonky. It doesn't happen right away. Idk, it's weird.
   shownShops.value = shopsArray.sort(function(x, y) {
-        // true values first
-        return (x.isSelected === y.isSelected)? 0 : x.isSelected? -1 : 1;
-    })
+    // true values first
+    return (x.isSelected === y.isSelected)? 0 : x.isSelected? -1 : 1;
+  })
 }
 
 function updateShownShops(searchTerm: string) {
