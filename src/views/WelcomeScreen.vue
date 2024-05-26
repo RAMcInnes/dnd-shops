@@ -34,8 +34,8 @@
     <br />
     <v-row>
       <v-col cols="12" class="text-center">
-        <h2>Random Settlement Generator</h2>
-        <h5>Generate a random settlement with shops</h5>
+        <h2>Random Market Generator</h2>
+        <h5>Generate a random market place with shops</h5>
         <br />
         <div>
           <v-select
@@ -43,22 +43,16 @@
             variant="outlined"
             v-model="townSize"
             :items="settlementList"></v-select>
-          <v-btn @click="generateSettlement()">Generate Settlement</v-btn>
+          <v-btn @click="generateMarket()">Generate Market</v-btn>
         </div>
-        <div v-if="uniqueShopsArray.length > 0">
-          <br />
-          <h3><u>WARNING:</u> If you click away from this home screen (to a shop), your list will be removed.</h3>
-          <div>
-            If you want to keep track of which shops to use, click on the shop icon you see when
-            hovering over a shop name (it will turn <span style="color: yellow">yellow</span>).
-          </div>
+        <div v-if="storedShopsArray.length > 0">
           <br />
           <v-card class="mx-auto" max-width="350">
             <v-list disabled>
-              <v-list-subheader>SHOPS</v-list-subheader>
+              <v-list-subheader>LAST GENERATED MARKET PLACE</v-list-subheader>
 
               <v-list-item
-                v-for="(shop, index) in uniqueShopsArray"
+                v-for="(shop, index) in storedShopsArray"
                 :key="index"
               >
                 <template v-slot:prepend>
@@ -76,13 +70,15 @@
 </template>
 <script lang="ts" setup>
   import { onMounted, ref } from 'vue'
+  import { useStorage } from '@vueuse/core'
   import shops from '../shops'
   import type { ShopInterface } from '../types/ShopInterfaces'
 
   const townSize = ref('');
   const settlementList = ['Hamlet (2 Shops)', 'Village (4 Shops)', 'Town (6 Shops)', 'City (8 Shops)', 'Metropolis (10 Shops)'];
-  const allShopsArray = Array<ShopInterface>()
-  let uniqueShopsArray = ref<ShopInterface[]>([])
+  const allShopsArray = Array<ShopInterface>();
+  let uniqueShopsArray = ref<ShopInterface[]>([]);
+  const storedShopsArray = useStorage('uniqueShopsArray', uniqueShopsArray, sessionStorage);
 
   onMounted(() => {
     for (const shop in shops) {
@@ -90,8 +86,9 @@
     }
   })
 
-  const generateSettlement = () => {
-    uniqueShopsArray.value = [];
+  const generateMarket = () => {
+    storedShopsArray.value = [];
+    useStorage('uniqueShopsArray', storedShopsArray.value, sessionStorage);
 
     switch(townSize.value) {
       case 'Hamlet (2 Shops)':
@@ -119,16 +116,14 @@
       uniqueShopsIndex.add(Math.floor(Math.random() * allShopsArray.length) + 1);
     }
     uniqueShopsIndex.forEach((index: number) => {
-      uniqueShopsArray.value.push(allShopsArray[index]);
+      useStorage('uniqueShopsArray', storedShopsArray.value.push(allShopsArray[index]), sessionStorage);
     })
 
-    uniqueShopsArray.value = uniqueShopsArray.value.sort(function(x, y) {
+    storedShopsArray.value = storedShopsArray.value.sort(function(x: ShopInterface, y: ShopInterface) {
         return (x.name < y.name) ? -1 : (x.name > y.name) ? 1 : 0;
     })
   }
-
 </script>
-
 <style scoped>
 .shopBullets {
   position: relative;
